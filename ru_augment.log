@@ -1,0 +1,1120 @@
+Language: ru  Generator: gpt-5-mini  Verifier: gpt-5.4-mini
+Jobs: 11  Total target: 680 examples
+
+Loading seeds from ../data/ru/train/rus-train-rel.tsv ...
+  ALTERNATIVE_NAME: 649 seeds
+  APPLIED_TO: 284 seeds
+  USED_IN: 378 seeds
+
+────────────────────────────────────────────────────────────
+[ALTERNATIVE_NAME(ANATOMY,ANATOMY)]  target=100  seeds=233
+  ✓ gen attempt 1–5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1077 out=8168 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=726 out=836 finish=stop]
+  → accepted 4 | total 4/100
+  ✓ gen attempt 6–10 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1043 out=5803 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=730 out=852 finish=stop]
+  → accepted 5 | total 9/100
+  ✓ gen attempt 11–15 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1147 out=3987 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=706 out=832 finish=stop]
+  → accepted 4 | total 13/100
+  ✓ gen attempt 16–20 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1090 out=6013 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=748 out=842 finish=stop]
+  → accepted 4 | total 17/100
+  ✓ gen attempt 21–25 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1045 out=7881 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=757 out=865 finish=stop]
+  → accepted 2 | total 19/100
+  ✓ gen attempt 26–30 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1254 out=5168 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=735 out=887 finish=stop]
+  → accepted 2 | total 21/100
+  ✓ gen attempt 31–35 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1072 out=6484 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=771 out=915 finish=stop]
+  → accepted 2 | total 23/100
+  ✓ gen attempt 36–40 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1036 out=6772 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=802 out=931 finish=stop]
+  → accepted 5 | total 28/100
+  ✓ gen attempt 41–45 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1100 out=6995 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=706 out=813 finish=stop]
+  → accepted 3 | total 31/100
+  ✓ gen attempt 46–50 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1052 out=4750 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=700 out=826 finish=stop]
+  → accepted 3 | total 34/100
+  ✓ gen attempt 51–55 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1081 out=4845 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=732 out=866 finish=stop]
+  → accepted 3 | total 37/100
+  ✓ gen attempt 56–60 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1156 out=5036 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=731 out=895 finish=stop]
+  → accepted 4 | total 41/100
+  ✓ gen attempt 61–65 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1202 out=6287 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=702 out=833 finish=stop]
+  → accepted 4 | total 45/100
+  ✓ gen attempt 66–70 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1120 out=5857 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=720 out=873 finish=stop]
+  → accepted 5 | total 50/100
+  ✓ gen attempt 71–75 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1068 out=4886 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=709 out=810 finish=stop]
+  → accepted 4 | total 54/100
+  ✓ gen attempt 76–80 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1090 out=5682 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=737 out=847 finish=stop]
+  → accepted 4 | total 58/100
+  ✓ gen attempt 81–85 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1193 out=6165 finish=stop]
+  → 4 valid-span candidates
+  ✓ verify 4 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=641 out=692 finish=stop]
+  → accepted 3 | total 61/100
+  ✓ gen attempt 86–90 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1083 out=5684 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=739 out=846 finish=stop]
+  → accepted 4 | total 65/100
+  ✓ gen attempt 91–95 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1134 out=6044 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=714 out=866 finish=stop]
+  → accepted 1 | total 66/100
+  ✓ gen attempt 96–100 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1105 out=7895 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=774 out=887 finish=stop]
+  → accepted 4 | total 70/100
+  ✓ gen attempt 101–105 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1174 out=4429 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=700 out=824 finish=stop]
+  → accepted 4 | total 74/100
+  ✓ gen attempt 106–110 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1166 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 111–115 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1044 out=5434 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=745 out=869 finish=stop]
+  → accepted 4 | total 78/100
+  ✓ gen attempt 116–120 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1160 out=5151 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=718 out=823 finish=stop]
+  → accepted 4 | total 82/100
+  ✓ gen attempt 121–125 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1105 out=5150 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=717 out=837 finish=stop]
+  → accepted 3 | total 85/100
+  ✓ gen attempt 126–130 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1074 out=4793 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=739 out=868 finish=stop]
+  → accepted 3 | total 88/100
+  ✓ gen attempt 131–135 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1185 out=7270 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=725 out=824 finish=stop]
+  → accepted 4 | total 92/100
+  ✓ gen attempt 136–140 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1003 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 141–145 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1181 out=5083 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=714 out=788 finish=stop]
+  → accepted 5 | total 97/100
+  ✓ gen attempt 146–150 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=1044 out=4015 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(ANATOMY,ANATOMY)] [in=730 out=832 finish=stop]
+  → accepted 4 | total 101/100
+[ALTERNATIVE_NAME(ANATOMY,ANATOMY)] ✓ done
+
+────────────────────────────────────────────────────────────
+[ALTERNATIVE_NAME(DISO,DISO)]  target=90  seeds=205
+  ✓ gen attempt 1–5 [ALTERNATIVE_NAME(DISO,DISO)] [in=1351 out=7769 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=776 out=869 finish=stop]
+  → accepted 4 | total 4/90
+  ✓ gen attempt 6–10 [ALTERNATIVE_NAME(DISO,DISO)] [in=1429 out=7050 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=825 out=907 finish=stop]
+  → accepted 4 | total 8/90
+  ✓ gen attempt 11–15 [ALTERNATIVE_NAME(DISO,DISO)] [in=1149 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 16–20 [ALTERNATIVE_NAME(DISO,DISO)] [in=1232 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 21–25 [ALTERNATIVE_NAME(DISO,DISO)] [in=1457 out=7247 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=763 out=873 finish=stop]
+  → accepted 5 | total 13/90
+  ✓ gen attempt 26–30 [ALTERNATIVE_NAME(DISO,DISO)] [in=1301 out=6663 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=758 out=844 finish=stop]
+  → accepted 4 | total 17/90
+  ✓ gen attempt 31–35 [ALTERNATIVE_NAME(DISO,DISO)] [in=1432 out=7085 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=784 out=856 finish=stop]
+  → accepted 4 | total 21/90
+  ✓ gen attempt 36–40 [ALTERNATIVE_NAME(DISO,DISO)] [in=1201 out=6796 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=763 out=850 finish=stop]
+  → accepted 3 | total 24/90
+  ✓ gen attempt 41–45 [ALTERNATIVE_NAME(DISO,DISO)] [in=1227 out=7594 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=793 out=891 finish=stop]
+  → accepted 4 | total 28/90
+  ✓ gen attempt 46–50 [ALTERNATIVE_NAME(DISO,DISO)] [in=1242 out=6023 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=758 out=829 finish=stop]
+  → accepted 5 | total 33/90
+  ✓ gen attempt 51–55 [ALTERNATIVE_NAME(DISO,DISO)] [in=1251 out=5660 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=715 out=854 finish=stop]
+  → accepted 0 | total 33/90
+  ✓ gen attempt 56–60 [ALTERNATIVE_NAME(DISO,DISO)] [in=1030 out=6934 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=773 out=865 finish=stop]
+  → accepted 4 | total 37/90
+  ✓ gen attempt 61–65 [ALTERNATIVE_NAME(DISO,DISO)] [in=1239 out=7136 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=719 out=788 finish=stop]
+  → accepted 5 | total 42/90
+  ✓ gen attempt 66–70 [ALTERNATIVE_NAME(DISO,DISO)] [in=1325 out=5094 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=723 out=829 finish=stop]
+  → accepted 1 | total 43/90
+  ✓ gen attempt 71–75 [ALTERNATIVE_NAME(DISO,DISO)] [in=1212 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 76–80 [ALTERNATIVE_NAME(DISO,DISO)] [in=1158 out=5458 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=767 out=892 finish=stop]
+  → accepted 1 | total 44/90
+  ✓ gen attempt 81–85 [ALTERNATIVE_NAME(DISO,DISO)] [in=1255 out=6941 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=779 out=880 finish=stop]
+  → accepted 1 | total 45/90
+  ✓ gen attempt 86–90 [ALTERNATIVE_NAME(DISO,DISO)] [in=1278 out=5068 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=762 out=852 finish=stop]
+  → accepted 3 | total 48/90
+  ✓ gen attempt 91–95 [ALTERNATIVE_NAME(DISO,DISO)] [in=1204 out=6677 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=771 out=902 finish=stop]
+  → accepted 2 | total 50/90
+  ✓ gen attempt 96–100 [ALTERNATIVE_NAME(DISO,DISO)] [in=1445 out=7450 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=776 out=858 finish=stop]
+  → accepted 5 | total 55/90
+  ✓ gen attempt 101–105 [ALTERNATIVE_NAME(DISO,DISO)] [in=1097 out=6547 finish=stop]
+  → 3 valid-span candidates
+  ✓ verify 3 [ALTERNATIVE_NAME(DISO,DISO)] [in=520 out=543 finish=stop]
+  → accepted 3 | total 58/90
+  ✓ gen attempt 106–110 [ALTERNATIVE_NAME(DISO,DISO)] [in=1295 out=7885 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=761 out=865 finish=stop]
+  → accepted 4 | total 62/90
+  ✓ gen attempt 111–115 [ALTERNATIVE_NAME(DISO,DISO)] [in=1251 out=6006 finish=stop]
+  → 4 valid-span candidates
+  ✓ verify 4 [ALTERNATIVE_NAME(DISO,DISO)] [in=663 out=717 finish=stop]
+  → accepted 2 | total 64/90
+  ✓ gen attempt 116–120 [ALTERNATIVE_NAME(DISO,DISO)] [in=1183 out=7598 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=797 out=909 finish=stop]
+  → accepted 2 | total 66/90
+  ✓ gen attempt 121–125 [ALTERNATIVE_NAME(DISO,DISO)] [in=1372 out=6178 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=782 out=853 finish=stop]
+  → accepted 5 | total 71/90
+  ✓ gen attempt 126–130 [ALTERNATIVE_NAME(DISO,DISO)] [in=1399 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 131–135 [ALTERNATIVE_NAME(DISO,DISO)] [in=1443 out=6565 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=724 out=845 finish=stop]
+  → accepted 0 | total 71/90
+  ✓ gen attempt 136–140 [ALTERNATIVE_NAME(DISO,DISO)] [in=1362 out=4809 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=760 out=853 finish=stop]
+  → accepted 4 | total 75/90
+  ✓ gen attempt 141–145 [ALTERNATIVE_NAME(DISO,DISO)] [in=1231 out=7894 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=772 out=875 finish=stop]
+  → accepted 2 | total 77/90
+  ✓ gen attempt 146–150 [ALTERNATIVE_NAME(DISO,DISO)] [in=1213 out=8002 finish=stop]
+  → 4 valid-span candidates
+  ✓ verify 4 [ALTERNATIVE_NAME(DISO,DISO)] [in=632 out=686 finish=stop]
+  → accepted 2 | total 79/90
+  ✓ gen attempt 151–155 [ALTERNATIVE_NAME(DISO,DISO)] [in=1278 out=7671 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=805 out=887 finish=stop]
+  → accepted 5 | total 84/90
+  ✓ gen attempt 156–160 [ALTERNATIVE_NAME(DISO,DISO)] [in=1116 out=7428 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=755 out=835 finish=stop]
+  → accepted 5 | total 89/90
+  ✓ gen attempt 161–165 [ALTERNATIVE_NAME(DISO,DISO)] [in=1360 out=7022 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(DISO,DISO)] [in=734 out=844 finish=stop]
+  → accepted 4 | total 93/90
+[ALTERNATIVE_NAME(DISO,DISO)] ✓ done
+
+────────────────────────────────────────────────────────────
+[ALTERNATIVE_NAME(CHEM,CHEM)]  target=60  seeds=83
+  ✓ gen attempt 1–5 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=1075 out=4469 finish=stop]
+  → 4 valid-span candidates
+  ✓ verify 4 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=614 out=675 finish=stop]
+  → accepted 4 | total 4/60
+  ✓ gen attempt 6–10 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=1138 out=6357 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=771 out=853 finish=stop]
+  → accepted 5 | total 9/60
+  ✓ gen attempt 11–15 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=1049 out=7314 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=750 out=818 finish=stop]
+  → accepted 5 | total 14/60
+  ✓ gen attempt 16–20 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=1203 out=4168 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=759 out=835 finish=stop]
+  → accepted 5 | total 19/60
+  ✓ gen attempt 21–25 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=1135 out=5946 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=744 out=827 finish=stop]
+  → accepted 5 | total 24/60
+  ✓ gen attempt 26–30 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=1316 out=7091 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=737 out=826 finish=stop]
+  → accepted 3 | total 27/60
+  ✓ gen attempt 31–35 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=1133 out=4111 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=704 out=780 finish=stop]
+  → accepted 5 | total 32/60
+  ✓ gen attempt 36–40 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=1147 out=4732 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=747 out=871 finish=stop]
+  → accepted 4 | total 36/60
+  ✓ gen attempt 41–45 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=1423 out=6568 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=727 out=828 finish=stop]
+  → accepted 5 | total 41/60
+  ✓ gen attempt 46–50 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=1337 out=6510 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=733 out=813 finish=stop]
+  → accepted 5 | total 46/60
+  ✓ gen attempt 51–55 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=1427 out=3890 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=737 out=836 finish=stop]
+  → accepted 5 | total 51/60
+  ✓ gen attempt 56–60 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=1465 out=4781 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=732 out=819 finish=stop]
+  → accepted 4 | total 55/60
+  ✓ gen attempt 61–65 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=1053 out=4532 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(CHEM,CHEM)] [in=739 out=841 finish=stop]
+  → accepted 5 | total 60/60
+[ALTERNATIVE_NAME(CHEM,CHEM)] ✓ done
+
+────────────────────────────────────────────────────────────
+[ALTERNATIVE_NAME(PHYS,PHYS)]  target=40  seeds=61
+  ✓ gen attempt 1–5 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=1288 out=5498 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=745 out=831 finish=stop]
+  → accepted 4 | total 4/40
+  ✓ gen attempt 6–10 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=1251 out=6369 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=782 out=871 finish=stop]
+  → accepted 4 | total 8/40
+  ✓ gen attempt 11–15 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=1086 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 16–20 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=1286 out=4742 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=756 out=837 finish=stop]
+  → accepted 5 | total 13/40
+  ✓ gen attempt 21–25 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=1240 out=5931 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=730 out=824 finish=stop]
+  → accepted 5 | total 18/40
+  ✓ gen attempt 26–30 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=1204 out=7097 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=744 out=827 finish=stop]
+  → accepted 5 | total 23/40
+  ✓ gen attempt 31–35 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=1264 out=5860 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=723 out=803 finish=stop]
+  → accepted 5 | total 28/40
+  ✓ gen attempt 36–40 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=1189 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 41–45 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=1504 out=5579 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=758 out=865 finish=stop]
+  → accepted 5 | total 33/40
+  ✓ gen attempt 46–50 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=1151 out=5861 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=788 out=894 finish=stop]
+  → accepted 4 | total 37/40
+  ✓ gen attempt 51–55 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=1440 out=5998 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(PHYS,PHYS)] [in=733 out=818 finish=stop]
+  → accepted 5 | total 42/40
+[ALTERNATIVE_NAME(PHYS,PHYS)] ✓ done
+
+────────────────────────────────────────────────────────────
+[ALTERNATIVE_NAME(FINDING,FINDING)]  target=30  seeds=40
+  ✓ gen attempt 1–5 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=1293 out=7987 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=798 out=897 finish=stop]
+  → accepted 4 | total 4/30
+  ✓ gen attempt 6–10 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=1249 out=5678 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=733 out=838 finish=stop]
+  → accepted 3 | total 7/30
+  ✓ gen attempt 11–15 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=1416 out=7391 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=782 out=863 finish=stop]
+  → accepted 5 | total 12/30
+  ✓ gen attempt 16–20 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=1413 out=6496 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=783 out=899 finish=stop]
+  → accepted 4 | total 16/30
+  ✓ gen attempt 21–25 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=1170 out=5788 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=780 out=904 finish=stop]
+  → accepted 4 | total 20/30
+  ✓ gen attempt 26–30 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=1315 out=5910 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=772 out=873 finish=stop]
+  → accepted 3 | total 23/30
+  ✓ gen attempt 31–35 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=1471 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 36–40 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=1295 out=6367 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=782 out=875 finish=stop]
+  → accepted 4 | total 27/30
+  ✓ gen attempt 41–45 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=1339 out=6380 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [ALTERNATIVE_NAME(FINDING,FINDING)] [in=731 out=832 finish=stop]
+  → accepted 3 | total 30/30
+[ALTERNATIVE_NAME(FINDING,FINDING)] ✓ done
+
+────────────────────────────────────────────────────────────
+[APPLIED_TO(LABPROC,ANATOMY)]  target=120  seeds=207
+  ✓ gen attempt 1–5 [APPLIED_TO(LABPROC,ANATOMY)] [in=1283 out=7754 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1336 out=1629 finish=stop]
+  → accepted 3 | total 3/120
+  ✓ gen attempt 6–10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1331 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 11–15 [APPLIED_TO(LABPROC,ANATOMY)] [in=1259 out=7660 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1307 out=1613 finish=stop]
+  → accepted 1 | total 4/120
+  ✓ gen attempt 16–20 [APPLIED_TO(LABPROC,ANATOMY)] [in=1259 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 21–25 [APPLIED_TO(LABPROC,ANATOMY)] [in=1220 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 26–30 [APPLIED_TO(LABPROC,ANATOMY)] [in=1250 out=7737 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1320 out=1652 finish=stop]
+  → accepted 2 | total 6/120
+  ✓ gen attempt 31–35 [APPLIED_TO(LABPROC,ANATOMY)] [in=1268 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 36–40 [APPLIED_TO(LABPROC,ANATOMY)] [in=1269 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 41–45 [APPLIED_TO(LABPROC,ANATOMY)] [in=1195 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 46–50 [APPLIED_TO(LABPROC,ANATOMY)] [in=1269 out=7923 finish=stop]
+  → 9 valid-span candidates
+  ✓ verify 9 [APPLIED_TO(LABPROC,ANATOMY)] [in=1181 out=1417 finish=stop]
+  → accepted 5 | total 11/120
+  ✓ gen attempt 51–55 [APPLIED_TO(LABPROC,ANATOMY)] [in=1280 out=6449 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1312 out=1577 finish=stop]
+  → accepted 1 | total 12/120
+  ✓ gen attempt 56–60 [APPLIED_TO(LABPROC,ANATOMY)] [in=1192 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 61–65 [APPLIED_TO(LABPROC,ANATOMY)] [in=1288 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 66–70 [APPLIED_TO(LABPROC,ANATOMY)] [in=1288 out=8015 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1340 out=1673 finish=stop]
+  → accepted 4 | total 16/120
+  ✓ gen attempt 71–75 [APPLIED_TO(LABPROC,ANATOMY)] [in=1292 out=6857 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1272 out=1562 finish=stop]
+  → accepted 1 | total 17/120
+  ✓ gen attempt 76–80 [APPLIED_TO(LABPROC,ANATOMY)] [in=1307 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 81–85 [APPLIED_TO(LABPROC,ANATOMY)] [in=1310 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 86–90 [APPLIED_TO(LABPROC,ANATOMY)] [in=1206 out=8165 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1236 out=1477 finish=stop]
+  → accepted 3 | total 20/120
+  ✓ gen attempt 91–95 [APPLIED_TO(LABPROC,ANATOMY)] [in=1229 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 96–100 [APPLIED_TO(LABPROC,ANATOMY)] [in=1279 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 101–105 [APPLIED_TO(LABPROC,ANATOMY)] [in=1280 out=7200 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1296 out=1609 finish=stop]
+  → accepted 3 | total 23/120
+  ✓ gen attempt 106–110 [APPLIED_TO(LABPROC,ANATOMY)] [in=1305 out=7378 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1281 out=1575 finish=stop]
+  → accepted 4 | total 27/120
+  ✓ gen attempt 111–115 [APPLIED_TO(LABPROC,ANATOMY)] [in=1200 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 116–120 [APPLIED_TO(LABPROC,ANATOMY)] [in=1253 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 121–125 [APPLIED_TO(LABPROC,ANATOMY)] [in=1283 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 126–130 [APPLIED_TO(LABPROC,ANATOMY)] [in=1311 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 131–135 [APPLIED_TO(LABPROC,ANATOMY)] [in=1251 out=6970 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1257 out=1561 finish=stop]
+  → accepted 4 | total 31/120
+  ✓ gen attempt 136–140 [APPLIED_TO(LABPROC,ANATOMY)] [in=1315 out=7893 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1348 out=1632 finish=stop]
+  → accepted 3 | total 34/120
+  ✓ gen attempt 141–145 [APPLIED_TO(LABPROC,ANATOMY)] [in=1219 out=7039 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1262 out=1506 finish=stop]
+  → accepted 4 | total 38/120
+  ✓ gen attempt 146–150 [APPLIED_TO(LABPROC,ANATOMY)] [in=1196 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 151–155 [APPLIED_TO(LABPROC,ANATOMY)] [in=1314 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 156–160 [APPLIED_TO(LABPROC,ANATOMY)] [in=1304 out=7974 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1301 out=1609 finish=stop]
+  → accepted 4 | total 42/120
+  ✓ gen attempt 161–165 [APPLIED_TO(LABPROC,ANATOMY)] [in=1282 out=6731 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1274 out=1557 finish=stop]
+  → accepted 3 | total 45/120
+  ✓ gen attempt 166–170 [APPLIED_TO(LABPROC,ANATOMY)] [in=1222 out=7870 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1261 out=1541 finish=stop]
+  → accepted 5 | total 50/120
+  ✓ gen attempt 171–175 [APPLIED_TO(LABPROC,ANATOMY)] [in=1237 out=7758 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1277 out=1570 finish=stop]
+  → accepted 3 | total 53/120
+  ✓ gen attempt 176–180 [APPLIED_TO(LABPROC,ANATOMY)] [in=1305 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 181–185 [APPLIED_TO(LABPROC,ANATOMY)] [in=1265 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 186–190 [APPLIED_TO(LABPROC,ANATOMY)] [in=1279 out=5916 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1224 out=1515 finish=stop]
+  → accepted 3 | total 56/120
+  ✓ gen attempt 191–195 [APPLIED_TO(LABPROC,ANATOMY)] [in=1263 out=8118 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1317 out=1598 finish=stop]
+  → accepted 3 | total 59/120
+  ✓ gen attempt 196–200 [APPLIED_TO(LABPROC,ANATOMY)] [in=1188 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 201–205 [APPLIED_TO(LABPROC,ANATOMY)] [in=1395 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 206–210 [APPLIED_TO(LABPROC,ANATOMY)] [in=1258 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 211–215 [APPLIED_TO(LABPROC,ANATOMY)] [in=1261 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 216–220 [APPLIED_TO(LABPROC,ANATOMY)] [in=1226 out=7213 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1308 out=1589 finish=stop]
+  → accepted 3 | total 62/120
+  ✓ gen attempt 221–225 [APPLIED_TO(LABPROC,ANATOMY)] [in=1242 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 226–230 [APPLIED_TO(LABPROC,ANATOMY)] [in=1306 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 231–235 [APPLIED_TO(LABPROC,ANATOMY)] [in=1253 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 236–240 [APPLIED_TO(LABPROC,ANATOMY)] [in=1316 out=7981 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1307 out=1627 finish=stop]
+  → accepted 0 | total 62/120
+  ✓ gen attempt 241–245 [APPLIED_TO(LABPROC,ANATOMY)] [in=1317 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 246–250 [APPLIED_TO(LABPROC,ANATOMY)] [in=1283 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 251–255 [APPLIED_TO(LABPROC,ANATOMY)] [in=1270 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 256–260 [APPLIED_TO(LABPROC,ANATOMY)] [in=1220 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 261–265 [APPLIED_TO(LABPROC,ANATOMY)] [in=1242 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 266–270 [APPLIED_TO(LABPROC,ANATOMY)] [in=1252 out=7441 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1344 out=1687 finish=stop]
+  → accepted 0 | total 62/120
+  ✓ gen attempt 271–275 [APPLIED_TO(LABPROC,ANATOMY)] [in=1259 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 276–280 [APPLIED_TO(LABPROC,ANATOMY)] [in=1263 out=5769 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1272 out=1542 finish=stop]
+  → accepted 3 | total 65/120
+  ✓ gen attempt 281–285 [APPLIED_TO(LABPROC,ANATOMY)] [in=1259 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 286–290 [APPLIED_TO(LABPROC,ANATOMY)] [in=1205 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 291–295 [APPLIED_TO(LABPROC,ANATOMY)] [in=1278 out=6560 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1231 out=1487 finish=stop]
+  → accepted 3 | total 68/120
+  ✓ gen attempt 296–300 [APPLIED_TO(LABPROC,ANATOMY)] [in=1332 out=7443 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1218 out=1519 finish=stop]
+  → accepted 5 | total 73/120
+  ✓ gen attempt 301–305 [APPLIED_TO(LABPROC,ANATOMY)] [in=1243 out=7280 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1311 out=1626 finish=stop]
+  → accepted 1 | total 74/120
+  ✓ gen attempt 306–310 [APPLIED_TO(LABPROC,ANATOMY)] [in=1212 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 311–315 [APPLIED_TO(LABPROC,ANATOMY)] [in=1185 out=8022 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1285 out=1590 finish=stop]
+  → accepted 4 | total 78/120
+  ✓ gen attempt 316–320 [APPLIED_TO(LABPROC,ANATOMY)] [in=1335 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 321–325 [APPLIED_TO(LABPROC,ANATOMY)] [in=1209 out=7598 finish=stop]
+  → 9 valid-span candidates
+  ✓ verify 9 [APPLIED_TO(LABPROC,ANATOMY)] [in=1134 out=1397 finish=stop]
+  → accepted 3 | total 81/120
+  ✓ gen attempt 326–330 [APPLIED_TO(LABPROC,ANATOMY)] [in=1299 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 331–335 [APPLIED_TO(LABPROC,ANATOMY)] [in=1222 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 336–340 [APPLIED_TO(LABPROC,ANATOMY)] [in=1275 out=7671 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1253 out=1516 finish=stop]
+  → accepted 5 | total 86/120
+  ✓ gen attempt 341–345 [APPLIED_TO(LABPROC,ANATOMY)] [in=1254 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 346–350 [APPLIED_TO(LABPROC,ANATOMY)] [in=1303 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 351–355 [APPLIED_TO(LABPROC,ANATOMY)] [in=1341 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 356–360 [APPLIED_TO(LABPROC,ANATOMY)] [in=1179 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 361–365 [APPLIED_TO(LABPROC,ANATOMY)] [in=1306 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 366–370 [APPLIED_TO(LABPROC,ANATOMY)] [in=1243 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 371–375 [APPLIED_TO(LABPROC,ANATOMY)] [in=1340 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 376–380 [APPLIED_TO(LABPROC,ANATOMY)] [in=1257 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 381–385 [APPLIED_TO(LABPROC,ANATOMY)] [in=1255 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 386–390 [APPLIED_TO(LABPROC,ANATOMY)] [in=1242 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 391–395 [APPLIED_TO(LABPROC,ANATOMY)] [in=1234 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 396–400 [APPLIED_TO(LABPROC,ANATOMY)] [in=1282 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 401–405 [APPLIED_TO(LABPROC,ANATOMY)] [in=1299 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 406–410 [APPLIED_TO(LABPROC,ANATOMY)] [in=1250 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 411–415 [APPLIED_TO(LABPROC,ANATOMY)] [in=1263 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 416–420 [APPLIED_TO(LABPROC,ANATOMY)] [in=1241 out=8014 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1276 out=1564 finish=stop]
+  → accepted 4 | total 90/120
+  ✓ gen attempt 421–425 [APPLIED_TO(LABPROC,ANATOMY)] [in=1208 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 426–430 [APPLIED_TO(LABPROC,ANATOMY)] [in=1278 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 431–435 [APPLIED_TO(LABPROC,ANATOMY)] [in=1180 out=7990 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1317 out=1601 finish=stop]
+  → accepted 4 | total 94/120
+  ✓ gen attempt 436–440 [APPLIED_TO(LABPROC,ANATOMY)] [in=1299 out=7652 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1299 out=1576 finish=stop]
+  → accepted 4 | total 98/120
+  ✓ gen attempt 441–445 [APPLIED_TO(LABPROC,ANATOMY)] [in=1304 out=8096 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1231 out=1528 finish=stop]
+  → accepted 5 | total 103/120
+  ✓ gen attempt 446–450 [APPLIED_TO(LABPROC,ANATOMY)] [in=1256 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 451–455 [APPLIED_TO(LABPROC,ANATOMY)] [in=1214 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 456–460 [APPLIED_TO(LABPROC,ANATOMY)] [in=1256 out=7188 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1283 out=1592 finish=stop]
+  → accepted 0 | total 103/120
+  ✓ gen attempt 461–465 [APPLIED_TO(LABPROC,ANATOMY)] [in=1240 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 466–470 [APPLIED_TO(LABPROC,ANATOMY)] [in=1188 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 471–475 [APPLIED_TO(LABPROC,ANATOMY)] [in=1382 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 476–480 [APPLIED_TO(LABPROC,ANATOMY)] [in=1221 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 481–485 [APPLIED_TO(LABPROC,ANATOMY)] [in=1230 out=7340 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1368 out=1638 finish=stop]
+  → accepted 3 | total 106/120
+  ✓ gen attempt 486–490 [APPLIED_TO(LABPROC,ANATOMY)] [in=1292 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 491–495 [APPLIED_TO(LABPROC,ANATOMY)] [in=1274 out=7737 finish=stop]
+  → 9 valid-span candidates
+  ✓ verify 9 [APPLIED_TO(LABPROC,ANATOMY)] [in=1200 out=1434 finish=stop]
+  → accepted 4 | total 110/120
+  ✓ gen attempt 496–500 [APPLIED_TO(LABPROC,ANATOMY)] [in=1281 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 501–505 [APPLIED_TO(LABPROC,ANATOMY)] [in=1298 out=6729 finish=stop]
+  → 9 valid-span candidates
+  ✓ verify 9 [APPLIED_TO(LABPROC,ANATOMY)] [in=1155 out=1412 finish=stop]
+  → accepted 4 | total 114/120
+  ✓ gen attempt 506–510 [APPLIED_TO(LABPROC,ANATOMY)] [in=1240 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 511–515 [APPLIED_TO(LABPROC,ANATOMY)] [in=1276 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 516–520 [APPLIED_TO(LABPROC,ANATOMY)] [in=1292 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 521–525 [APPLIED_TO(LABPROC,ANATOMY)] [in=1256 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 526–530 [APPLIED_TO(LABPROC,ANATOMY)] [in=1289 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 531–535 [APPLIED_TO(LABPROC,ANATOMY)] [in=1203 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 536–540 [APPLIED_TO(LABPROC,ANATOMY)] [in=1281 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 541–545 [APPLIED_TO(LABPROC,ANATOMY)] [in=1258 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 546–550 [APPLIED_TO(LABPROC,ANATOMY)] [in=1219 out=7460 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1298 out=1622 finish=stop]
+  → accepted 5 | total 119/120
+  ✓ gen attempt 551–555 [APPLIED_TO(LABPROC,ANATOMY)] [in=1204 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 556–560 [APPLIED_TO(LABPROC,ANATOMY)] [in=1282 out=7308 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,ANATOMY)] [in=1338 out=1635 finish=stop]
+  → accepted 3 | total 122/120
+[APPLIED_TO(LABPROC,ANATOMY)] ✓ done
+
+────────────────────────────────────────────────────────────
+[APPLIED_TO(CHEM,ANATOMY)]  target=50  seeds=47
+  ✓ gen attempt 1–5 [APPLIED_TO(CHEM,ANATOMY)] [in=1165 out=5998 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [APPLIED_TO(CHEM,ANATOMY)] [in=732 out=856 finish=stop]
+  → accepted 3 | total 3/50
+  ✓ gen attempt 6–10 [APPLIED_TO(CHEM,ANATOMY)] [in=1166 out=5173 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [APPLIED_TO(CHEM,ANATOMY)] [in=740 out=834 finish=stop]
+  → accepted 4 | total 7/50
+  ✓ gen attempt 11–15 [APPLIED_TO(CHEM,ANATOMY)] [in=1117 out=6625 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [APPLIED_TO(CHEM,ANATOMY)] [in=719 out=843 finish=stop]
+  → accepted 3 | total 10/50
+  ✓ gen attempt 16–20 [APPLIED_TO(CHEM,ANATOMY)] [in=1134 out=7000 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [APPLIED_TO(CHEM,ANATOMY)] [in=775 out=895 finish=stop]
+  → accepted 4 | total 14/50
+  ✓ gen attempt 21–25 [APPLIED_TO(CHEM,ANATOMY)] [in=1208 out=5184 finish=stop]
+  → 4 valid-span candidates
+  ✓ verify 4 [APPLIED_TO(CHEM,ANATOMY)] [in=623 out=713 finish=stop]
+  → accepted 3 | total 17/50
+  ✓ gen attempt 26–30 [APPLIED_TO(CHEM,ANATOMY)] [in=1180 out=5612 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [APPLIED_TO(CHEM,ANATOMY)] [in=731 out=828 finish=stop]
+  → accepted 4 | total 21/50
+  ✓ gen attempt 31–35 [APPLIED_TO(CHEM,ANATOMY)] [in=1075 out=5169 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [APPLIED_TO(CHEM,ANATOMY)] [in=736 out=863 finish=stop]
+  → accepted 4 | total 25/50
+  ✓ gen attempt 36–40 [APPLIED_TO(CHEM,ANATOMY)] [in=1066 out=5320 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [APPLIED_TO(CHEM,ANATOMY)] [in=759 out=833 finish=stop]
+  → accepted 3 | total 28/50
+  ✓ gen attempt 41–45 [APPLIED_TO(CHEM,ANATOMY)] [in=1207 out=5790 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [APPLIED_TO(CHEM,ANATOMY)] [in=781 out=900 finish=stop]
+  → accepted 5 | total 33/50
+  ✓ gen attempt 46–50 [APPLIED_TO(CHEM,ANATOMY)] [in=992 out=4649 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [APPLIED_TO(CHEM,ANATOMY)] [in=735 out=824 finish=stop]
+  → accepted 5 | total 38/50
+  ✓ gen attempt 51–55 [APPLIED_TO(CHEM,ANATOMY)] [in=1135 out=5777 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [APPLIED_TO(CHEM,ANATOMY)] [in=767 out=886 finish=stop]
+  → accepted 4 | total 42/50
+  ✓ gen attempt 56–60 [APPLIED_TO(CHEM,ANATOMY)] [in=1117 out=5406 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [APPLIED_TO(CHEM,ANATOMY)] [in=785 out=885 finish=stop]
+  → accepted 3 | total 45/50
+  ✓ gen attempt 61–65 [APPLIED_TO(CHEM,ANATOMY)] [in=1047 out=6375 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [APPLIED_TO(CHEM,ANATOMY)] [in=724 out=831 finish=stop]
+  → accepted 2 | total 47/50
+  ✓ gen attempt 66–70 [APPLIED_TO(CHEM,ANATOMY)] [in=1117 out=5020 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [APPLIED_TO(CHEM,ANATOMY)] [in=715 out=809 finish=stop]
+  → accepted 4 | total 51/50
+[APPLIED_TO(CHEM,ANATOMY)] ✓ done
+
+────────────────────────────────────────────────────────────
+[APPLIED_TO(LABPROC,PHYS)]  target=30  seeds=12
+  ✓ gen attempt 1–5 [APPLIED_TO(LABPROC,PHYS)] [in=1236 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 6–10 [APPLIED_TO(LABPROC,PHYS)] [in=1266 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 11–15 [APPLIED_TO(LABPROC,PHYS)] [in=1267 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 16–20 [APPLIED_TO(LABPROC,PHYS)] [in=1279 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 21–25 [APPLIED_TO(LABPROC,PHYS)] [in=1225 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 26–30 [APPLIED_TO(LABPROC,PHYS)] [in=1247 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 31–35 [APPLIED_TO(LABPROC,PHYS)] [in=1225 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 36–40 [APPLIED_TO(LABPROC,PHYS)] [in=1299 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 41–45 [APPLIED_TO(LABPROC,PHYS)] [in=1250 out=7234 finish=stop]
+  → 9 valid-span candidates
+  ✓ verify 9 [APPLIED_TO(LABPROC,PHYS)] [in=1258 out=1576 finish=stop]
+  → accepted 1 | total 1/30
+  ✓ gen attempt 46–50 [APPLIED_TO(LABPROC,PHYS)] [in=1221 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 51–55 [APPLIED_TO(LABPROC,PHYS)] [in=1292 out=7933 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,PHYS)] [in=1322 out=1650 finish=stop]
+  → accepted 4 | total 5/30
+  ✓ gen attempt 56–60 [APPLIED_TO(LABPROC,PHYS)] [in=1261 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 61–65 [APPLIED_TO(LABPROC,PHYS)] [in=1249 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 66–70 [APPLIED_TO(LABPROC,PHYS)] [in=1262 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 71–75 [APPLIED_TO(LABPROC,PHYS)] [in=1192 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 76–80 [APPLIED_TO(LABPROC,PHYS)] [in=1225 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 81–85 [APPLIED_TO(LABPROC,PHYS)] [in=1240 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 86–90 [APPLIED_TO(LABPROC,PHYS)] [in=1251 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 91–95 [APPLIED_TO(LABPROC,PHYS)] [in=1212 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 96–100 [APPLIED_TO(LABPROC,PHYS)] [in=1250 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 101–105 [APPLIED_TO(LABPROC,PHYS)] [in=1202 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 106–110 [APPLIED_TO(LABPROC,PHYS)] [in=1272 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 111–115 [APPLIED_TO(LABPROC,PHYS)] [in=1221 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 116–120 [APPLIED_TO(LABPROC,PHYS)] [in=1256 out=6964 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,PHYS)] [in=1315 out=1613 finish=stop]
+  → accepted 4 | total 9/30
+  ✓ gen attempt 121–125 [APPLIED_TO(LABPROC,PHYS)] [in=1245 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 126–130 [APPLIED_TO(LABPROC,PHYS)] [in=1237 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 131–135 [APPLIED_TO(LABPROC,PHYS)] [in=1254 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 136–140 [APPLIED_TO(LABPROC,PHYS)] [in=1228 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 141–145 [APPLIED_TO(LABPROC,PHYS)] [in=1278 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 146–150 [APPLIED_TO(LABPROC,PHYS)] [in=1252 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 151–155 [APPLIED_TO(LABPROC,PHYS)] [in=1224 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 156–160 [APPLIED_TO(LABPROC,PHYS)] [in=1265 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 161–165 [APPLIED_TO(LABPROC,PHYS)] [in=1252 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 166–170 [APPLIED_TO(LABPROC,PHYS)] [in=1272 out=7327 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,PHYS)] [in=1358 out=1668 finish=stop]
+  → accepted 2 | total 11/30
+  ✓ gen attempt 171–175 [APPLIED_TO(LABPROC,PHYS)] [in=1224 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 176–180 [APPLIED_TO(LABPROC,PHYS)] [in=1237 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 181–185 [APPLIED_TO(LABPROC,PHYS)] [in=1270 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 186–190 [APPLIED_TO(LABPROC,PHYS)] [in=1279 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 191–195 [APPLIED_TO(LABPROC,PHYS)] [in=1182 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 196–200 [APPLIED_TO(LABPROC,PHYS)] [in=1200 out=8010 finish=stop]
+  → 9 valid-span candidates
+  ✓ verify 9 [APPLIED_TO(LABPROC,PHYS)] [in=1203 out=1488 finish=stop]
+  → accepted 2 | total 13/30
+  ✓ gen attempt 201–205 [APPLIED_TO(LABPROC,PHYS)] [in=1210 out=7762 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,PHYS)] [in=1345 out=1630 finish=stop]
+  → accepted 5 | total 18/30
+  ✓ gen attempt 206–210 [APPLIED_TO(LABPROC,PHYS)] [in=1232 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 211–215 [APPLIED_TO(LABPROC,PHYS)] [in=1222 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 216–220 [APPLIED_TO(LABPROC,PHYS)] [in=1271 out=8025 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,PHYS)] [in=1288 out=1595 finish=stop]
+  → accepted 0 | total 18/30
+  ✓ gen attempt 221–225 [APPLIED_TO(LABPROC,PHYS)] [in=1207 out=8058 finish=stop]
+  → 10 valid-span candidates
+  ✓ verify 10 [APPLIED_TO(LABPROC,PHYS)] [in=1321 out=1533 finish=stop]
+  → accepted 2 | total 20/30
+  ✓ gen attempt 226–230 [APPLIED_TO(LABPROC,PHYS)] [in=1224 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 231–235 [APPLIED_TO(LABPROC,PHYS)] [in=1261 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 236–240 [APPLIED_TO(LABPROC,PHYS)] [in=1228 out=8192 finish=length]
+  → 0 valid-span candidates
+[APPLIED_TO(LABPROC,PHYS)] ⚠ only 20/30
+
+────────────────────────────────────────────────────────────
+[USED_IN(CHEM,CHEM)]  target=70  seeds=150
+  ✓ gen attempt 1–5 [USED_IN(CHEM,CHEM)] [in=1060 out=8147 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=768 out=841 finish=stop]
+  → accepted 5 | total 5/70
+  ✓ gen attempt 6–10 [USED_IN(CHEM,CHEM)] [in=1113 out=5893 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=692 out=816 finish=stop]
+  → accepted 3 | total 8/70
+  ✓ gen attempt 11–15 [USED_IN(CHEM,CHEM)] [in=1000 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 16–20 [USED_IN(CHEM,CHEM)] [in=1116 out=5032 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=726 out=826 finish=stop]
+  → accepted 3 | total 11/70
+  ✓ gen attempt 21–25 [USED_IN(CHEM,CHEM)] [in=1127 out=6456 finish=stop]
+  → 4 valid-span candidates
+  ✓ verify 4 [USED_IN(CHEM,CHEM)] [in=625 out=692 finish=stop]
+  → accepted 3 | total 14/70
+  ✓ gen attempt 26–30 [USED_IN(CHEM,CHEM)] [in=1081 out=6924 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=763 out=893 finish=stop]
+  → accepted 0 | total 14/70
+  ✓ gen attempt 31–35 [USED_IN(CHEM,CHEM)] [in=1066 out=5807 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=722 out=776 finish=stop]
+  → accepted 5 | total 19/70
+  ✓ gen attempt 36–40 [USED_IN(CHEM,CHEM)] [in=1066 out=6353 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=704 out=837 finish=stop]
+  → accepted 3 | total 22/70
+  ✓ gen attempt 41–45 [USED_IN(CHEM,CHEM)] [in=1038 out=4404 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=739 out=828 finish=stop]
+  → accepted 5 | total 27/70
+  ✓ gen attempt 46–50 [USED_IN(CHEM,CHEM)] [in=1021 out=5903 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=702 out=815 finish=stop]
+  → accepted 4 | total 31/70
+  ✓ gen attempt 51–55 [USED_IN(CHEM,CHEM)] [in=1150 out=5622 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=741 out=870 finish=stop]
+  → accepted 3 | total 34/70
+  ✓ gen attempt 56–60 [USED_IN(CHEM,CHEM)] [in=1041 out=7665 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=736 out=831 finish=stop]
+  → accepted 2 | total 36/70
+  ✓ gen attempt 61–65 [USED_IN(CHEM,CHEM)] [in=1055 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 66–70 [USED_IN(CHEM,CHEM)] [in=960 out=4938 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=697 out=826 finish=stop]
+  → accepted 4 | total 40/70
+  ✓ gen attempt 71–75 [USED_IN(CHEM,CHEM)] [in=1064 out=7662 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=733 out=847 finish=stop]
+  → accepted 4 | total 44/70
+  ✓ gen attempt 76–80 [USED_IN(CHEM,CHEM)] [in=1059 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 81–85 [USED_IN(CHEM,CHEM)] [in=1092 out=4876 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=699 out=823 finish=stop]
+  → accepted 3 | total 47/70
+  ✓ gen attempt 86–90 [USED_IN(CHEM,CHEM)] [in=1073 out=6057 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=728 out=827 finish=stop]
+  → accepted 5 | total 52/70
+  ✓ gen attempt 91–95 [USED_IN(CHEM,CHEM)] [in=1098 out=6058 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=729 out=927 finish=stop]
+  → accepted 0 | total 52/70
+  ✓ gen attempt 96–100 [USED_IN(CHEM,CHEM)] [in=1115 out=6238 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=779 out=861 finish=stop]
+  → accepted 3 | total 55/70
+  ✓ gen attempt 101–105 [USED_IN(CHEM,CHEM)] [in=985 out=4877 finish=stop]
+  → 4 valid-span candidates
+  ✓ verify 4 [USED_IN(CHEM,CHEM)] [in=580 out=640 finish=stop]
+  → accepted 3 | total 58/70
+  ✓ gen attempt 106–110 [USED_IN(CHEM,CHEM)] [in=1068 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 111–115 [USED_IN(CHEM,CHEM)] [in=1018 out=6435 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=720 out=829 finish=stop]
+  → accepted 4 | total 62/70
+  ✓ gen attempt 116–120 [USED_IN(CHEM,CHEM)] [in=1046 out=8192 finish=length]
+  → 0 valid-span candidates
+  ✓ gen attempt 121–125 [USED_IN(CHEM,CHEM)] [in=1131 out=5907 finish=stop]
+  → 4 valid-span candidates
+  ✓ verify 4 [USED_IN(CHEM,CHEM)] [in=583 out=682 finish=stop]
+  → accepted 4 | total 66/70
+  ✓ gen attempt 126–130 [USED_IN(CHEM,CHEM)] [in=1072 out=6724 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=755 out=844 finish=stop]
+  → accepted 2 | total 68/70
+  ✓ gen attempt 131–135 [USED_IN(CHEM,CHEM)] [in=1104 out=5979 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=714 out=856 finish=stop]
+  → accepted 1 | total 69/70
+  ✓ gen attempt 136–140 [USED_IN(CHEM,CHEM)] [in=1106 out=7253 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(CHEM,CHEM)] [in=772 out=910 finish=stop]
+  → accepted 5 | total 74/70
+[USED_IN(CHEM,CHEM)] ✓ done
+
+────────────────────────────────────────────────────────────
+[USED_IN(LABPROC,LABPROC)]  target=50  seeds=87
+  ✓ gen attempt 1–5 [USED_IN(LABPROC,LABPROC)] [in=1082 out=4410 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=745 out=855 finish=stop]
+  → accepted 2 | total 2/50
+  ✓ gen attempt 6–10 [USED_IN(LABPROC,LABPROC)] [in=1098 out=4380 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=715 out=828 finish=stop]
+  → accepted 4 | total 6/50
+  ✓ gen attempt 11–15 [USED_IN(LABPROC,LABPROC)] [in=1158 out=5488 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=735 out=828 finish=stop]
+  → accepted 2 | total 8/50
+  ✓ gen attempt 16–20 [USED_IN(LABPROC,LABPROC)] [in=1075 out=5101 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=732 out=832 finish=stop]
+  → accepted 0 | total 8/50
+  ✓ gen attempt 21–25 [USED_IN(LABPROC,LABPROC)] [in=1118 out=3374 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=733 out=847 finish=stop]
+  → accepted 1 | total 9/50
+  ✓ gen attempt 26–30 [USED_IN(LABPROC,LABPROC)] [in=1132 out=4561 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=768 out=871 finish=stop]
+  → accepted 3 | total 12/50
+  ✓ gen attempt 31–35 [USED_IN(LABPROC,LABPROC)] [in=1133 out=4790 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=740 out=854 finish=stop]
+  → accepted 5 | total 17/50
+  ✓ gen attempt 36–40 [USED_IN(LABPROC,LABPROC)] [in=1148 out=5945 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=744 out=810 finish=stop]
+  → accepted 3 | total 20/50
+  ✓ gen attempt 41–45 [USED_IN(LABPROC,LABPROC)] [in=1128 out=7075 finish=stop]
+  → 4 valid-span candidates
+  ✓ verify 4 [USED_IN(LABPROC,LABPROC)] [in=646 out=701 finish=stop]
+  → accepted 2 | total 22/50
+  ✓ gen attempt 46–50 [USED_IN(LABPROC,LABPROC)] [in=1095 out=4238 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=765 out=855 finish=stop]
+  → accepted 2 | total 24/50
+  ✓ gen attempt 51–55 [USED_IN(LABPROC,LABPROC)] [in=1124 out=4430 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=701 out=805 finish=stop]
+  → accepted 0 | total 24/50
+  ✓ gen attempt 56–60 [USED_IN(LABPROC,LABPROC)] [in=1041 out=5012 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=707 out=847 finish=stop]
+  → accepted 4 | total 28/50
+  ✓ gen attempt 61–65 [USED_IN(LABPROC,LABPROC)] [in=1099 out=5488 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=734 out=850 finish=stop]
+  → accepted 3 | total 31/50
+  ✓ gen attempt 66–70 [USED_IN(LABPROC,LABPROC)] [in=1163 out=5909 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=770 out=923 finish=stop]
+  → accepted 5 | total 36/50
+  ✓ gen attempt 71–75 [USED_IN(LABPROC,LABPROC)] [in=1151 out=5268 finish=stop]
+  → 4 valid-span candidates
+  ✓ verify 4 [USED_IN(LABPROC,LABPROC)] [in=594 out=651 finish=stop]
+  → accepted 3 | total 39/50
+  ✓ gen attempt 76–80 [USED_IN(LABPROC,LABPROC)] [in=1179 out=7428 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=754 out=855 finish=stop]
+  → accepted 2 | total 41/50
+  ✓ gen attempt 81–85 [USED_IN(LABPROC,LABPROC)] [in=1127 out=5025 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=784 out=909 finish=stop]
+  → accepted 0 | total 41/50
+  ✓ gen attempt 86–90 [USED_IN(LABPROC,LABPROC)] [in=1160 out=5831 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=758 out=860 finish=stop]
+  → accepted 5 | total 46/50
+  ✓ gen attempt 91–95 [USED_IN(LABPROC,LABPROC)] [in=1198 out=4425 finish=stop]
+  → 4 valid-span candidates
+  ✓ verify 4 [USED_IN(LABPROC,LABPROC)] [in=576 out=632 finish=stop]
+  → accepted 3 | total 49/50
+  ✓ gen attempt 96–100 [USED_IN(LABPROC,LABPROC)] [in=1180 out=6577 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=736 out=837 finish=stop]
+  → accepted 0 | total 49/50
+  ✓ gen attempt 101–105 [USED_IN(LABPROC,LABPROC)] [in=1188 out=4508 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(LABPROC,LABPROC)] [in=715 out=813 finish=stop]
+  → accepted 3 | total 52/50
+[USED_IN(LABPROC,LABPROC)] ✓ done
+
+────────────────────────────────────────────────────────────
+[USED_IN(DEVICE,LABPROC)]  target=40  seeds=63
+  ✓ gen attempt 1–5 [USED_IN(DEVICE,LABPROC)] [in=1040 out=4825 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(DEVICE,LABPROC)] [in=776 out=893 finish=stop]
+  → accepted 5 | total 5/40
+  ✓ gen attempt 6–10 [USED_IN(DEVICE,LABPROC)] [in=1076 out=4438 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(DEVICE,LABPROC)] [in=709 out=785 finish=stop]
+  → accepted 5 | total 10/40
+  ✓ gen attempt 11–15 [USED_IN(DEVICE,LABPROC)] [in=1061 out=6000 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(DEVICE,LABPROC)] [in=797 out=893 finish=stop]
+  → accepted 5 | total 15/40
+  ✓ gen attempt 16–20 [USED_IN(DEVICE,LABPROC)] [in=1049 out=5332 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(DEVICE,LABPROC)] [in=770 out=890 finish=stop]
+  → accepted 4 | total 19/40
+  ✓ gen attempt 21–25 [USED_IN(DEVICE,LABPROC)] [in=977 out=5576 finish=stop]
+  → 4 valid-span candidates
+  ✓ verify 4 [USED_IN(DEVICE,LABPROC)] [in=636 out=700 finish=stop]
+  → accepted 4 | total 23/40
+  ✓ gen attempt 26–30 [USED_IN(DEVICE,LABPROC)] [in=1044 out=6869 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(DEVICE,LABPROC)] [in=772 out=869 finish=stop]
+  → accepted 4 | total 27/40
+  ✓ gen attempt 31–35 [USED_IN(DEVICE,LABPROC)] [in=1113 out=4655 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(DEVICE,LABPROC)] [in=734 out=850 finish=stop]
+  → accepted 5 | total 32/40
+  ✓ gen attempt 36–40 [USED_IN(DEVICE,LABPROC)] [in=1133 out=6043 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(DEVICE,LABPROC)] [in=714 out=809 finish=stop]
+  → accepted 3 | total 35/40
+  ✓ gen attempt 41–45 [USED_IN(DEVICE,LABPROC)] [in=1200 out=6494 finish=stop]
+  → 5 valid-span candidates
+  ✓ verify 5 [USED_IN(DEVICE,LABPROC)] [in=716 out=797 finish=stop]
+  → accepted 3 | total 38/40
+  ✓ gen attempt 46–50 [USED_IN(DEVICE,LABPROC)] [in=1106 out=5699 finish=stop]
+  → 4 valid-span candidates
+  ✓ verify 4 [USED_IN(DEVICE,LABPROC)] [in=635 out=693 finish=stop]
+  → accepted 4 | total 42/40
+[USED_IN(DEVICE,LABPROC)] ✓ done
+
+============================================================
+Wrote 874 augmented examples → data/rus_augmented.txt
+  ALTERNATIVE_NAME: 326
+  APPLIED_TO: 193
+  TO_DETECT_OR_STUDY: 187
+  USED_IN: 168

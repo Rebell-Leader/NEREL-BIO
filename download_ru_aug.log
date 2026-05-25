@@ -1,0 +1,4 @@
+[09:28:41] Watching PID 120999 for rus_test_pred_aug.tsv ...
+[11:14:46] Process exited — downloading rus_test_pred_aug.tsv
+[11:14:52] Downloaded → /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/rus_test_pred_aug.tsv (25755 predictions)
+[11:14:52] Done.

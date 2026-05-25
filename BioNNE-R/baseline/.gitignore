@@ -1,0 +1,17 @@
+# API keys
+.env
+
+# Large generated OpenNRE JSON-lines data files
+data/*.txt
+
+# Model checkpoints (too large for git)
+outputs/*.pth
+outputs/*.pth.tar
+outputs/*.pt
+
+# Zip duplicates of TSV predictions (keep the .tsv files)
+outputs/*.zip
+
+# Python cache
+__pycache__/
+*.pyc

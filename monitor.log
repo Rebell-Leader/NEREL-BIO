@@ -1,0 +1,78 @@
+[00:49:27] === Completion monitor started ===
+[00:49:27] Watching: RU predict (87927), EN train (88884), BIL predict (97824)
+[00:54:27] BIL predict process exited — downloading bilingual_test_pred.tsv
+[00:54:27] [dl_bil] $ modal volume get --force bionne-v2 predictions/bilingual_test_pred.tsv /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/bilingual_test_pred.tsv
+[00:54:28] Download failed (rc=1): ─────────────────────────────────────╮
+│ No such file or directory                                                    │
+╰──────────────────────────────────────────────────────────────────────────────╯
+[01:02:28] RU predict process exited — downloading rus_test_pred.tsv
+[01:02:28] [dl_rus] $ modal volume get --force bionne-v2 predictions/rus_test_pred.tsv /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/rus_test_pred.tsv
+[01:02:29] Download failed (rc=1): ─────────────────────────────────────╮
+│ No such file or directory                                                    │
+╰──────────────────────────────────────────────────────────────────────────────╯
+[02:56:35] EN training process exited — launching run_en_predict.py
+[02:56:35] Launched run_en_predict.py (see en_predict.log)
+[02:56:35] === All monitored jobs complete ===
+IL predict (102295)
+[00:55:12] Watching: RU predict (87927), EN train (88884), BIL predict (102295)
+[01:02:12] RU predict process exited — downloading rus_test_pred.tsv
+[01:02:12] RU predict process exited — downloading rus_test_pred.tsv
+[01:02:12] [dl_rus] $ modal volume get --force bionne-v2 predictions/rus_test_pred.tsv /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/rus_test_pred.tsv
+[01:02:12] [dl_rus] $ modal volume get --force bionne-v2 predictions/rus_test_pred.tsv /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/rus_test_pred.tsv
+  ╭─ Error ──────────────────────────────────────────────────────────────────────╮
+  │ No such file or directory                                                    │
+  ╰──────────────────────────────────────────────────────────────────────────────╯
+[01:02:13] Download failed (rc=1): ─────────────────────────────────────╮
+│ No such file or directory                                                    │
+╰──────────────────────────────────────────────────────────────────────────────╯
+[01:02:13] Download failed (rc=1): ─────────────────────────────────────╮
+│ No such file or directory                                                    │
+╰──────────────────────────────────────────────────────────────────────────────╯
+[01:02:28] RU predict process exited — downloading rus_test_pred.tsv
+[01:02:28] [dl_rus] $ modal volume get --force bionne-v2 predictions/rus_test_pred.tsv /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/rus_test_pred.tsv
+  ╭─ Error ──────────────────────────────────────────────────────────────────────╮
+  │ No such file or directory                                                    │
+  ╰──────────────────────────────────────────────────────────────────────────────╯
+[01:02:29] Download failed (rc=1): ─────────────────────────────────────╮
+│ No such file or directory                                                    │
+╰──────────────────────────────────────────────────────────────────────────────╯
+[01:04:10] === Completion monitor started ===
+[01:04:10] === Completion monitor started ===
+[01:04:10] Watching: RU predict (106939), EN train (88884), BIL predict (102295)
+[01:04:10] Watching: RU predict (106939), EN train (88884), BIL predict (102295)
+[02:50:15] RU predict process exited — downloading rus_test_pred.tsv
+[02:50:15] RU predict process exited — downloading rus_test_pred.tsv
+[02:50:15] [dl_rus] $ modal volume get --force bionne-v2 predictions/rus_test_pred.tsv /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/rus_test_pred.tsv
+[02:50:15] [dl_rus] $ modal volume get --force bionne-v2 predictions/rus_test_pred.tsv /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/rus_test_pred.tsv
+  ✓ Finished downloading files to local!
+[02:50:20] Downloaded rus_test_pred.tsv → /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/rus_test_pred.tsv (17982 predictions)
+[02:50:20] Downloaded rus_test_pred.tsv → /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/rus_test_pred.tsv (17982 predictions)
+[02:56:35] EN training process exited — launching run_en_predict.py
+[02:56:35] Launched run_en_predict.py (see en_predict.log)
+[02:56:35] === All monitored jobs complete ===
+[02:57:19] EN training process exited — launching run_en_predict.py
+[02:57:19] EN training process exited — launching run_en_predict.py
+[02:57:19] Launched run_en_predict.py (see en_predict.log)
+[02:57:19] Launched run_en_predict.py (see en_predict.log)
+[02:57:20] EN training process exited — launching run_en_predict.py
+[02:57:20] EN training process exited — launching run_en_predict.py
+[02:57:20] Launched run_en_predict.py (see en_predict.log)
+[02:57:20] Launched run_en_predict.py (see en_predict.log)
+[04:04:22] BIL predict process exited — downloading bilingual_test_pred.tsv
+[04:04:22] BIL predict process exited — downloading bilingual_test_pred.tsv
+[04:04:22] [dl_bil] $ modal volume get --force bionne-v2 predictions/bilingual_test_pred.tsv /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/bilingual_test_pred.tsv
+[04:04:22] [dl_bil] $ modal volume get --force bionne-v2 predictions/bilingual_test_pred.tsv /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/bilingual_test_pred.tsv
+[04:04:23] BIL predict process exited — downloading bilingual_test_pred.tsv
+[04:04:23] BIL predict process exited — downloading bilingual_test_pred.tsv
+[04:04:23] [dl_bil] $ modal volume get --force bionne-v2 predictions/bilingual_test_pred.tsv /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/bilingual_test_pred.tsv
+[04:04:23] [dl_bil] $ modal volume get --force bionne-v2 predictions/bilingual_test_pred.tsv /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/bilingual_test_pred.tsv
+  ✓ Finished downloading files to local!
+  ✓ Finished downloading files to local!
+[04:04:27] Downloaded bilingual_test_pred.tsv → /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/bilingual_test_pred.tsv (58486 predictions)
+[04:04:27] Downloaded bilingual_test_pred.tsv → /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/bilingual_test_pred.tsv (58486 predictions)
+[04:04:27] === All monitored jobs complete ===
+[04:04:27] === All monitored jobs complete ===
+[04:04:27] Downloaded bilingual_test_pred.tsv → /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/bilingual_test_pred.tsv (58486 predictions)
+[04:04:27] Downloaded bilingual_test_pred.tsv → /home/obi/competitions/NEREL-BIO/BioNNE-R/baseline/outputs/bilingual_test_pred.tsv (58486 predictions)
+[04:04:27] === All monitored jobs complete ===
+[04:04:27] === All monitored jobs complete ===

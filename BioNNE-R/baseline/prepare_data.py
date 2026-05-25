@@ -68,13 +68,13 @@ def parse_config(config_path: str) -> set[tuple[str, str]]:
         args_part = parts[1]
 
         # Extract Arg1 types
-        arg1_match = re.search(r"Arg1:([A-Z_|]+)", args_part)
+        arg1_match = re.search(r"Arg1:([A-Z_0-9|]+)", args_part)
         if not arg1_match:
             continue
         arg1_types = arg1_match.group(1).split("|")
 
         # Extract Arg2 types
-        arg2_match = re.search(r"Arg2:([A-Z_|]+)", args_part)
+        arg2_match = re.search(r"Arg2:([A-Z_0-9|]+)", args_part)
         if arg2_match:
             arg2_types = arg2_match.group(1).split("|")
         else:
@@ -138,6 +138,18 @@ def parse_span(span_str: str) -> tuple[int, int]:
     return int(start), int(end)
 
 
+_sent_tokenizer_cache: dict = {}
+
+
+def _get_sent_tokenizer(lang: str):
+    if lang not in _sent_tokenizer_cache:
+        try:
+            _sent_tokenizer_cache[lang] = nltk.data.load(f"tokenizers/punkt_tab/{lang}.pickle")
+        except LookupError:
+            _sent_tokenizer_cache[lang] = nltk.data.load("tokenizers/punkt_tab/english.pickle")
+    return _sent_tokenizer_cache[lang]
+
+
 def find_sentence_segment(
     text: str,
     head_start: int,
@@ -145,16 +157,18 @@ def find_sentence_segment(
     tail_start: int,
     tail_end: int,
     lang: str = "english",
+    precomputed_spans: list | None = None,
 ) -> tuple[str, int]:
     """Find minimal sentence segment containing both entities.
 
     Returns (segment_text, offset).
+    Pass precomputed_spans to skip per-call NLTK tokenization (use when
+    calling for many pairs in the same document).
     """
-    try:
-        sent_tokenizer = nltk.data.load(f"tokenizers/punkt_tab/{lang}.pickle")
-    except LookupError:
-        sent_tokenizer = nltk.data.load("tokenizers/punkt_tab/english.pickle")
-    sentences = list(sent_tokenizer.span_tokenize(text))
+    if precomputed_spans is not None:
+        sentences = precomputed_spans
+    else:
+        sentences = list(_get_sent_tokenizer(lang).span_tokenize(text))
 
     if not sentences:
         return text, 0
@@ -194,16 +208,19 @@ def _make_instance(
     relation: str,
     doc_id: str,
     lang: str,
+    sentence_spans: list | None = None,
 ) -> dict | None:
     """Build one OpenNRE JSON instance from entity pair info.
 
     Returns None if spans don't fit within the text.
+    Pass sentence_spans (pre-computed per doc) to avoid redundant NLTK calls.
     """
     head_start, head_end = parse_span(head_span)
     tail_start, tail_end = parse_span(tail_span)
 
     segment, offset = find_sentence_segment(
-        text, head_start, head_end, tail_start, tail_end, lang
+        text, head_start, head_end, tail_start, tail_end, lang,
+        precomputed_spans=sentence_spans,
     )
 
     h_start = head_start - offset
@@ -305,6 +322,14 @@ def convert_split(
     neg_count = 0
     skipped = 0
 
+    tokenizer = _get_sent_tokenizer(lang)
+    span_cache: dict[str, list] = {}
+
+    def _spans(doc_id: str) -> list:
+        if doc_id not in span_cache:
+            span_cache[doc_id] = list(tokenizer.span_tokenize(texts[doc_id]))
+        return span_cache[doc_id]
+
     with open(output_path, "w", encoding="utf-8") as f:
         # Write positive instances
         for _, row in df.iterrows():
@@ -329,6 +354,7 @@ def convert_split(
                 relation=relation,
                 doc_id=doc_id,
                 lang=lang,
+                sentence_spans=_spans(doc_id),
             )
             if instance:
                 f.write(json.dumps(instance, ensure_ascii=False) + "\n")
@@ -358,6 +384,7 @@ def convert_split(
                         relation="no_relation",
                         doc_id=doc_id,
                         lang=lang,
+                        sentence_spans=_spans(doc_id),
                     )
                     if instance:
                         f.write(json.dumps(instance, ensure_ascii=False) + "\n")
@@ -388,6 +415,8 @@ def convert_blind(
     count = 0
     skipped_docs = 0
 
+    tokenizer = _get_sent_tokenizer(lang)
+
     with open(output_path, "w", encoding="utf-8") as f:
         for doc_id, entities in sorted(entities_by_doc.items()):
             if doc_id not in texts:
@@ -395,6 +424,7 @@ def convert_blind(
                 continue
 
             text = texts[doc_id]
+            sentence_spans = list(tokenizer.span_tokenize(text))
             pairs = generate_pairs(entities, valid_type_pairs)
 
             for head_ent, tail_ent in pairs:
@@ -411,6 +441,7 @@ def convert_blind(
                     relation="no_relation",
                     doc_id=doc_id,
                     lang=lang,
+                    sentence_spans=sentence_spans,
                 )
                 if instance:
                     f.write(json.dumps(instance, ensure_ascii=False) + "\n")

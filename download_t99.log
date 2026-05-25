@@ -1,0 +1,84 @@
+[10:01:38] Watching EN=126081, RU=126116, BIL=126183
+[10:04:21] Watching EN=126081, RU=126116, BIL=126183
+[11:49:26] RU process exited — downloading rus_test_pred_t99.tsv
+[11:49:29] Downloaded rus_test_pred_t99.tsv → 4057 predictions
+[12:43:32] EN process exited — downloading eng_test_pred_t99.tsv
+[12:43:38] Downloaded eng_test_pred_t99.tsv → 1136 predictions
+[12:59:07] Watching remaining 5 jobs: en_t095, ru_t095, bil_t99, bil_t095, bil_t090
+[13:02:19] Watching 6 jobs: en_t095, ru_t095, bil_t99, bil_t095, bil_t090, ru_aug_t99
+[13:02:49] ru_t095 exited — downloading
+[13:02:52]   ✓ rus_test_pred_t095.tsv: 8,692 predictions
+[13:09:22] bil_t99 exited — downloading
+[13:09:27]   ✓ bilingual_test_pred_t99.tsv: 14,163 predictions
+[13:10:27] bil_t095 exited — downloading
+[13:10:29]   ✓ bilingual_test_pred_t095.tsv: 26,318 predictions
+[13:12:29] bil_t090 exited — downloading
+[13:12:32]   ✓ bilingual_test_pred_t090.tsv: 32,618 predictions
+[13:29:02] Watching: en_t095=126589, ru_aug_t99=131557, en_t085=134178, en_t080=134179
+[13:56:34] en_t095 exited — downloading
+[13:56:36]   ✓ eng_test_pred_t095.tsv: 5,804 predictions
+[14:00:26] Watching new batch: bil_on_en_t95=135705, en_ef_t95=136529, ru_ef_t95=136545, bil_ef_t95=136561
+[14:00:26] Watching new batch: bil_on_en_t95=135705, en_ef_t95=136529, ru_ef_t95=136545, bil_ef_t95=136561
+[14:35:14] Watching per-class EN run: en_perclass=139661
+[14:35:14] Watching per-class EN run: en_perclass=139661
+[14:37:54] Watching per-class EN run: en_perclass=140631
+[14:37:54] Watching per-class EN run: en_perclass=140631
+[14:46:39] ru_aug_t99 exited — downloading
+[14:46:43]   ✓ rus_test_pred_aug_t99.tsv: 2,214 predictions
+[15:43:01] ru_ef_t95 exited — downloading
+[15:43:01] ru_ef_t95 exited — downloading
+[15:43:07]   ✓ rus_test_pred_ef_t95.tsv: 10,418 predictions
+[15:43:07]   ✓ rus_test_pred_ef_t95.tsv: 10,418 predictions
+[16:04:18] en_t080 exited — downloading
+[16:04:23]   ✓ eng_test_pred_t080.tsv: 16,888 predictions
+[16:07:23] en_t085 exited — downloading
+[16:07:25]   ✓ eng_test_pred_t085.tsv: 13,785 predictions
+[16:07:25] === All done ===
+[16:16:39] bil_on_en_t95 exited — downloading
+[16:16:39] bil_on_en_t95 exited — downloading
+[16:16:43]   ✓ eng_test_pred_bil_t95.tsv: 14,328 predictions
+[16:16:43]   ✓ eng_test_pred_bil_t95.tsv: 14,328 predictions
+[16:22:14] Watching BIL-on-EN sweep: bil_en_t90=143426, bil_en_t99=143430
+[16:22:14] Watching BIL-on-EN sweep: bil_en_t90=143426, bil_en_t99=143430
+[16:29:57] Watching BiomedBERT sweep: biomedbert_t70=144456, biomedbert_t80=144457, biomedbert_t90=144459
+[16:29:57] Watching BiomedBERT sweep: biomedbert_t70=144456, biomedbert_t80=144457, biomedbert_t90=144459
+[16:32:14] en_ef_t95 exited — downloading
+[16:32:14] en_ef_t95 exited — downloading
+[16:32:17]   ✓ eng_test_pred_ef_t95.tsv: 16,349 predictions
+[16:32:17]   ✓ eng_test_pred_ef_t95.tsv: 16,349 predictions
+[17:11:49] bil_ef_t95 exited — downloading
+[17:11:49] bil_ef_t95 exited — downloading
+[17:11:54]   ✓ bilingual_test_pred_ef_t95.tsv: 32,434 predictions
+[17:11:54]   ✓ bilingual_test_pred_ef_t95.tsv: 32,434 predictions
+[17:11:54] === dl_remaining4 all done ===
+[17:11:54] === dl_remaining4 all done ===
+[17:13:02] en_perclass exited — downloading
+[17:13:02] en_perclass exited — downloading
+[17:13:06]   ✓ eng_test_pred_perclass.tsv: 10,616 predictions
+[17:13:06]   ✓ eng_test_pred_perclass.tsv: 10,616 predictions
+[17:13:06] === dl_remaining5 done ===
+[17:13:06] === dl_remaining5 done ===
+[18:55:35] biomedbert_t80 exited — downloading
+[18:55:35] biomedbert_t80 exited — downloading
+[18:55:39]   ✓ eng_test_pred_biomedbert_t080.tsv: 11,430 predictions
+[18:55:39]   ✓ eng_test_pred_biomedbert_t080.tsv: 11,430 predictions
+[18:58:10] biomedbert_t90 exited — downloading
+[18:58:10] biomedbert_t90 exited — downloading
+[18:58:12]   ✓ eng_test_pred_biomedbert_t090.tsv: 10,113 predictions
+[18:58:12]   ✓ eng_test_pred_biomedbert_t090.tsv: 10,113 predictions
+[19:02:53] bil_en_t99 exited — downloading
+[19:02:53] bil_en_t99 exited — downloading
+[19:02:56]   ✓ eng_test_pred_bil_t099.tsv: 7,657 predictions
+[19:02:56]   ✓ eng_test_pred_bil_t099.tsv: 7,657 predictions
+[19:07:13] biomedbert_t70 exited — downloading
+[19:07:13] biomedbert_t70 exited — downloading
+[19:07:15]   ✓ eng_test_pred_biomedbert_t070.tsv: 12,329 predictions
+[19:07:15]   ✓ eng_test_pred_biomedbert_t070.tsv: 12,329 predictions
+[19:07:15] === BiomedBERT sweep done ===
+[19:07:15] === BiomedBERT sweep done ===
+[21:22:34] bil_en_t90 exited — downloading
+[21:22:34] bil_en_t90 exited — downloading
+[21:22:42]   ✓ eng_test_pred_bil_t090.tsv: 17,877 predictions
+[21:22:42]   ✓ eng_test_pred_bil_t090.tsv: 17,877 predictions
+[21:22:42] === BIL-on-EN sweep done ===
+[21:22:42] === BIL-on-EN sweep done ===

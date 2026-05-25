@@ -1,0 +1,17 @@
+{
+  "ABBREVIATION": 0,
+  "ALTERNATIVE_NAME": 1,
+  "SUBCLASS_OF": 2,
+  "PART_OF": 3,
+  "TREATED_USING": 4,
+  "ORIGINS_FROM": 5,
+  "TO_DETECT_OR_STUDY": 6,
+  "AFFECTS": 7,
+  "HAS_CAUSE": 8,
+  "APPLIED_TO": 9,
+  "USED_IN": 10,
+  "ASSOCIATED_WITH": 11,
+  "PHYSIOLOGY_OF": 12,
+  "FINDING_OF": 13,
+  "no_relation": 14
+}

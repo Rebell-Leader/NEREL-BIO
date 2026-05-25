@@ -1,0 +1,1137 @@
+document_id	relation	head_text	head_span	head_type	tail_text	tail_span	tail_type
+27456564_en	PHYSIOLOGY_OF	retinal thicknesses	932-951	PHYS	retinal	932-939	ANATOMY
+27456564_en	PHYSIOLOGY_OF	retinal biopotential	1267-1287	PHYS	retinal	1267-1274	ANATOMY
+27456565_en	ABBREVIATION	intraocular pressure	115-135	PHYS	IOP	137-140	PHYS
+27456565_en	PHYSIOLOGY_OF	intraocular pressure	115-135	PHYS	intraocular	115-126	ANATOMY
+27456565_en	SUBCLASS_OF	primary glaucoma	256-272	DISO	glaucoma	264-272	DISO
+27456565_en	SUBCLASS_OF	Resistant glaucoma	794-812	DISO	glaucoma	804-812	DISO
+27456565_en	SUBCLASS_OF	pigmentary glaucoma	868-887	DISO	glaucoma	879-887	DISO
+27456565_en	SUBCLASS_OF	pseudoexfoliation glaucoma	889-915	DISO	glaucoma	907-915	DISO
+27456565_en	SUBCLASS_OF	secondary unrecognized glaucoma	917-948	DISO	unrecognized glaucoma	927-948	DISO
+27456565_en	SUBCLASS_OF	Resistant glaucoma	1283-1301	DISO	glaucoma	1293-1301	DISO
+27456565_en	SUBCLASS_OF	uncontrolled glaucoma	1537-1558	DISO	glaucoma	1550-1558	DISO
+27456565_en	SUBCLASS_OF	unrecognized glaucoma	927-948	DISO	glaucoma	940-948	DISO
+27456715_en	SUBCLASS_OF	bacterial meningitis	44-64	DISO	meningitis	54-64	DISO
+27456715_en	SUBCLASS_OF	neurological complications	95-121	DISO	complications	108-121	DISO
+27456715_en	SUBCLASS_OF	bacterial meningitis	138-158	DISO	meningitis	148-158	DISO
+27456715_en	ABBREVIATION	bacterial meningitis	138-158	DISO	BM	160-162	DISO
+27456715_en	SUBCLASS_OF	Brain edema	689-700	DISO	edema	695-700	DISO
+27456715_en	SUBCLASS_OF	meningococcal infection	795-818	DISO	infection	809-818	DISO
+27456715_en	SUBCLASS_OF	pneumococcal meningitis	830-853	DISO	meningitis	843-853	DISO
+27456715_en	SUBCLASS_OF	haemophilus meningitis	868-890	DISO	meningitis	880-890	DISO
+27456717_en	SUBCLASS_OF	perinatal hypoxic CNS damage	218-246	DISO	hypoxic CNS damage	228-246	DISO
+27456717_en	SUBCLASS_OF	perinatal hypoxic CNS damage	218-246	DISO	CNS damage	236-246	DISO
+27456717_en	SUBCLASS_OF	perinatal hypoxic CNS damage	1198-1226	DISO	hypoxic CNS damage	1208-1226	DISO
+27456717_en	SUBCLASS_OF	perinatal hypoxic CNS damage	1198-1226	DISO	CNS damage	1216-1226	DISO
+27456726_en	SUBCLASS_OF	severe birth asphyxia	73-94	DISO	birth asphyxia	80-94	DISO
+27456726_en	SUBCLASS_OF	severe birth asphyxia	73-94	DISO	asphyxia	86-94	DISO
+27456726_en	SUBCLASS_OF	birth asphyxia	80-94	DISO	asphyxia	86-94	DISO
+27456726_en	TREATED_USING	severe birth asphyxia	240-261	DISO	cytoflavin	133-143	CHEM
+27456726_en	SUBCLASS_OF	severe birth asphyxia	240-261	DISO	birth asphyxia	247-261	DISO
+27456726_en	SUBCLASS_OF	severe birth asphyxia	240-261	DISO	asphyxia	253-261	DISO
+27456726_en	SUBCLASS_OF	birth asphyxia	247-261	DISO	asphyxia	253-261	DISO
+27456726_en	SUBCLASS_OF	severe birth asphyxia	336-357	DISO	birth asphyxia	343-357	DISO
+27456726_en	SUBCLASS_OF	severe birth asphyxia	336-357	DISO	asphyxia	349-357	DISO
+27456726_en	SUBCLASS_OF	birth asphyxia	343-357	DISO	asphyxia	349-357	DISO
+27456726_en	SUBCLASS_OF	lactic acidosis	1171-1186	DISO	acidosis	1178-1186	DISO
+27456726_en	SUBCLASS_OF	intrapartum asphyxia	1376-1396	DISO	asphyxia	1388-1396	DISO
+27456727_en	SUBCLASS_OF	ischemic stroke	64-79	DISO	stroke	73-79	DISO
+27456727_en	SUBCLASS_OF	right-sided hemiparesis	160-183	DISO	hemiparesis	172-183	DISO
+27456727_en	SUBCLASS_OF	Allergic dermatitis	266-285	DISO	dermatitis	275-285	DISO
+27456727_en	SUBCLASS_OF	acute infarction	434-450	DISO	infarction	440-450	DISO
+27456727_en	SUBCLASS_OF	MCA stenosis	850-862	DISO	stenosis	854-862	DISO
+27456727_en	AFFECTS	MCA stenosis	850-862	DISO	MCA	850-853	ANATOMY
+27456899_en	SUBCLASS_OF	post-stroke arthropathy	42-65	DISO	arthropathy	54-65	DISO
+27456899_en	SUBCLASS_OF	post-stroke arthropathy	271-294	DISO	arthropathy	283-294	DISO
+27456899_en	AFFECTS	post-stroke arthropathy	271-294	DISO	shoulder joint	302-316	ANATOMY
+27456899_en	SUBCLASS_OF	ischemic stroke	401-416	DISO	stroke	410-416	DISO
+27456899_en	SUBCLASS_OF	post-stroke arthropathy	1168-1191	DISO	arthropathy	1180-1191	DISO
+27456901_en	SUBCLASS_OF	non-psychotic anxiety disorders	416-447	DISO	anxiety disorders	430-447	DISO
+27456902_en	SUBCLASS_OF	focal epileptic seizures	47-71	DISO	epileptic seizures	53-71	DISO
+27456902_en	SUBCLASS_OF	generalized epileptic seizures	131-161	DISO	epileptic seizures	143-161	DISO
+27456902_en	SUBCLASS_OF	epileptic seizures	143-161	DISO	seizures	153-161	DISO
+27456902_en	SUBCLASS_OF	generalized tonic-clonic seizures	262-295	DISO	tonic-clonic seizures	274-295	DISO
+27456902_en	SUBCLASS_OF	focal seizures	308-322	DISO	seizures	314-322	DISO
+27456902_en	SUBCLASS_OF	slow sleep	961-971	PHYS	sleep	966-971	PHYS
+27456903_en	SUBCLASS_OF	tumor necrosis	361-375	DISO	necrosis	367-375	DISO
+27456903_en	ABBREVIATION	C-reactive protein	398-416	CHEM	CRP	418-421	CHEM
+27456903_en	ABBREVIATION	alpha 1-antitrypsin	427-446	CHEM	A1AT	448-452	CHEM
+27456904_en	SUBCLASS_OF	acute cerebral ischemia	67-90	DISO	cerebral ischemia	73-90	DISO
+27456904_en	AFFECTS	cerebral ischemia	73-90	DISO	cerebral	73-81	ANATOMY
+27456904_en	SUBCLASS_OF	cerebral ischemia	73-90	DISO	ischemia	82-90	DISO
+27456904_en	ABBREVIATION	diabetes	232-240	DISO	DM	251-253	DISO
+27456904_en	ABBREVIATION	diabetes mellitus	232-249	DISO	DM	251-253	DISO
+27456904_en	SUBCLASS_OF	acute cerebrovascular accident	258-288	DISO	cerebrovascular accident	264-288	DISO
+27456904_en	ABBREVIATION	acute cerebrovascular accident	258-288	DISO	ACVA	290-294	DISO
+27456904_en	ABBREVIATION	cerebrovascular accident	264-288	DISO	ACVA	290-294	DISO
+27456904_en	SUBCLASS_OF	alloxan diabetes	369-385	DISO	diabetes	377-385	DISO
+27456904_en	SUBCLASS_OF	total brain ischemia	403-423	DISO	brain ischemia	409-423	DISO
+27456904_en	SUBCLASS_OF	total brain ischemia	403-423	DISO	ischemia	415-423	DISO
+27456904_en	AFFECTS	brain ischemia	409-423	DISO	brain	409-414	ANATOMY
+27456904_en	SUBCLASS_OF	brain ischemia	409-423	DISO	ischemia	415-423	DISO
+27456904_en	SUBCLASS_OF	acute hypoxic hypoxia	522-543	DISO	hypoxic hypoxia	528-543	DISO
+27456904_en	SUBCLASS_OF	acute hypoxic hypoxia	522-543	DISO	hypoxia	536-543	DISO
+27456904_en	SUBCLASS_OF	hypoxic hypoxia	528-543	DISO	hypoxia	536-543	DISO
+27456904_en	SUBCLASS_OF	acute hypoxic hypoxia	727-748	DISO	hypoxic hypoxia	733-748	DISO
+27456904_en	SUBCLASS_OF	acute hypoxic hypoxia	727-748	DISO	hypoxia	741-748	DISO
+27456904_en	SUBCLASS_OF	hypoxic hypoxia	733-748	DISO	hypoxia	741-748	DISO
+27456904_en	SUBCLASS_OF	acute hypoxic hypoxia	917-938	DISO	hypoxic hypoxia	923-938	DISO
+27456904_en	SUBCLASS_OF	acute hypoxic hypoxia	917-938	DISO	hypoxia	931-938	DISO
+27456904_en	SUBCLASS_OF	hypoxic hypoxia	923-938	DISO	hypoxia	931-938	DISO
+27459481_en	SUBCLASS_OF	postoperative pancreatitis	32-58	DISO	pancreatitis	46-58	DISO
+27459481_en	SUBCLASS_OF	postoperative pancreatitis	155-181	DISO	pancreatitis	169-181	DISO
+27459481_en	SUBCLASS_OF	pancreatic tumor	281-297	DISO	tumor	292-297	DISO
+27459481_en	SUBCLASS_OF	chronic pancreatitis	309-329	DISO	pancreatitis	317-329	DISO
+27459481_en	SUBCLASS_OF	postoperative pancreatitis	357-383	DISO	pancreatitis	371-383	DISO
+27459481_en	SUBCLASS_OF	postoperative pancreatitis	505-531	DISO	pancreatitis	519-531	DISO
+27459481_en	PHYSIOLOGY_OF	body mass index	772-787	PHYS	body	772-776	ANATOMY
+27459481_en	SUBCLASS_OF	postoperative pancreatitis	992-1018	DISO	pancreatitis	1006-1018	DISO
+27459481_en	SUBCLASS_OF	pancreatic fistula	1044-1062	DISO	fistula	1055-1062	DISO
+27459481_en	SUBCLASS_OF	postoperative pancreatitis	1272-1298	DISO	pancreatitis	1286-1298	DISO
+27459483_en	SUBCLASS_OF	perforative duodenal ulcer	56-82	DISO	duodenal ulcer	68-82	DISO
+27459483_en	SUBCLASS_OF	perforative duodenal ulcer	56-82	DISO	ulcer	77-82	DISO
+27459483_en	SUBCLASS_OF	perforative duodenal ulcer	225-251	DISO	duodenal ulcer	237-251	DISO
+27459483_en	SUBCLASS_OF	perforative duodenal ulcer	225-251	DISO	ulcer	246-251	DISO
+27459483_en	SUBCLASS_OF	perforative duodenal ulcer	306-332	DISO	duodenal ulcer	318-332	DISO
+27459483_en	SUBCLASS_OF	perforative duodenal ulcer	306-332	DISO	ulcer	327-332	DISO
+27459483_en	SUBCLASS_OF	postoperative complications	643-670	DISO	complications	657-670	DISO
+27459483_en	SUBCLASS_OF	perforative duodenal ulcer	1052-1078	DISO	duodenal ulcer	1064-1078	DISO
+27459483_en	SUBCLASS_OF	perforative duodenal ulcer	1052-1078	DISO	ulcer	1073-1078	DISO
+27459483_en	SUBCLASS_OF	Severe complications	848-868	DISO	complications	855-868	DISO
+27459485_en	SUBCLASS_OF	advanced peritonitis	23-43	DISO	peritonitis	32-43	DISO
+27459485_en	SUBCLASS_OF	advanced peritonitis	149-169	DISO	peritonitis	158-169	DISO
+27459485_en	SUBCLASS_OF	postoperative suppuration	461-486	DISO	suppuration	475-486	DISO
+27459485_en	SUBCLASS_OF	abdominal hypertension	611-633	DISO	hypertension	621-633	DISO
+27459485_en	SUBCLASS_OF	abdominal hypertension	933-955	DISO	hypertension	943-955	DISO
+27459485_en	SUBCLASS_OF	Large eventration	957-974	INJURY_POISONING	eventration	963-974	INJURY_POISONING
+27459485_en	SUBCLASS_OF	advanced peritonitis	1090-1110	DISO	peritonitis	1099-1110	DISO
+27459485_en	SUBCLASS_OF	advanced peritonitis	76-96	DISO	peritonitis	85-96	DISO
+27459486_en	SUBCLASS_OF	traumatic chylothorax	261-282	DISO	chylothorax	271-282	DISO
+27459486_en	SUBCLASS_OF	lung inflammation	951-968	DISO	inflammation	956-968	DISO
+27459486_en	SUBCLASS_OF	postoperative chylothorax	986-1011	DISO	chylothorax	1000-1011	DISO
+27459489_en	SUBCLASS_OF	postsurgical hypothyroidism	64-91	DISO	hypothyroidism	77-91	DISO
+27459490_en	SUBCLASS_OF	peripheral arterial disease	83-110	DISO	arterial disease	94-110	DISO
+27459490_en	SUBCLASS_OF	symptomatic low limb ischemia	178-207	DISO	low limb ischemia	190-207	DISO
+27459490_en	SUBCLASS_OF	symptomatic low limb ischemia	178-207	DISO	limb ischemia	194-207	DISO
+27459490_en	SUBCLASS_OF	symptomatic low limb ischemia	178-207	DISO	ischemia	199-207	DISO
+27459490_en	ABBREVIATION	symptomatic low limb ischemia	178-207	DISO	LLI	209-212	DISO
+27459490_en	AFFECTS	low limb ischemia	190-207	DISO	low limb	190-198	ANATOMY
+27459490_en	SUBCLASS_OF	low limb ischemia	190-207	DISO	limb ischemia	194-207	DISO
+27459490_en	SUBCLASS_OF	low limb ischemia	190-207	DISO	ischemia	199-207	DISO
+27459490_en	ABBREVIATION	low limb ischemia	190-207	DISO	LLI	209-212	DISO
+27459490_en	SUBCLASS_OF	limb ischemia	194-207	DISO	ischemia	199-207	DISO
+27459490_en	ABBREVIATION	limb ischemia	194-207	DISO	LLI	209-212	DISO
+27459490_en	SUBCLASS_OF	critical limb ischemia	576-598	DISO	limb ischemia	585-598	DISO
+27459490_en	SUBCLASS_OF	critical limb ischemia	576-598	DISO	ischemia	590-598	DISO
+27459490_en	SUBCLASS_OF	limb ischemia	585-598	DISO	ischemia	590-598	DISO
+27459490_en	SUBCLASS_OF	symptomatic LLI	859-874	DISO	LLI	871-874	DISO
+27459490_en	SUBCLASS_OF	symptomatic LLI	890-905	DISO	LLI	902-905	DISO
+27459490_en	SUBCLASS_OF	intermittent claudication	981-1006	DISO	claudication	994-1006	DISO
+27459490_en	SUBCLASS_OF	critical limb ischemia	1024-1046	DISO	limb ischemia	1033-1046	DISO
+27459490_en	SUBCLASS_OF	critical limb ischemia	1024-1046	DISO	ischemia	1038-1046	DISO
+27459490_en	SUBCLASS_OF	limb ischemia	1033-1046	DISO	ischemia	1038-1046	DISO
+27459490_en	SUBCLASS_OF	symptomatic LLI	1258-1273	DISO	LLI	1270-1273	DISO
+27459611_en	SUBCLASS_OF	latent polycythemia vera	14-38	DISO	polycythemia vera	21-38	DISO
+27459611_en	SUBCLASS_OF	latent polycythemia vera	106-130	DISO	polycythemia vera	113-130	DISO
+27459611_en	ABBREVIATION	latent polycythemia vera	106-130	DISO	PV	132-134	DISO
+27459611_en	ABBREVIATION	polycythemia vera	113-130	DISO	PV	132-134	DISO
+27459611_en	SUBCLASS_OF	latent PV	279-288	DISO	PV	286-288	DISO
+27459611_en	SUBCLASS_OF	manifest PV	535-546	DISO	PV	544-546	DISO
+27459611_en	SUBCLASS_OF	latent PV	583-592	DISO	PV	590-592	DISO
+27459611_en	PHYSIOLOGY_OF	Red blood cell counts	667-688	PHYS	Red blood cell	667-681	ANATOMY
+27459611_en	PHYSIOLOGY_OF	packed cell volume	721-739	PHYS	packed cell	721-732	ANATOMY
+27459611_en	SUBCLASS_OF	manifest PV	773-784	DISO	PV	782-784	DISO
+27459611_en	PHYSIOLOGY_OF	Blood platelet counts	786-807	PHYS	Blood	786-791	ANATOMY
+27459611_en	PHYSIOLOGY_OF	Blood platelet counts	786-807	PHYS	Blood platelet	786-800	ANATOMY
+27459611_en	SUBCLASS_OF	latent PV	827-836	DISO	PV	834-836	DISO
+27459611_en	SUBCLASS_OF	manifest PV	1034-1045	DISO	PV	1043-1045	DISO
+27459611_en	SUBCLASS_OF	latent PV	1064-1073	DISO	PV	1071-1073	DISO
+27459611_en	SUBCLASS_OF	latent PV	1197-1206	DISO	PV	1204-1206	DISO
+27459611_en	SUBCLASS_OF	manifest PV	1274-1285	DISO	PV	1283-1285	DISO
+27459611_en	SUBCLASS_OF	latent PV	1290-1299	DISO	PV	1297-1299	DISO
+27459611_en	SUBCLASS_OF	venous thromboses	1319-1336	DISO	thromboses	1326-1336	DISO
+27459611_en	SUBCLASS_OF	Arterial thromboses	1406-1425	DISO	thromboses	1415-1425	DISO
+27459611_en	SUBCLASS_OF	latent PV	1718-1727	DISO	PV	1725-1727	DISO
+27459612_en	SUBCLASS_OF	acute myeloid leukemias	132-155	DISO	myeloid leukemias	138-155	DISO
+27459612_en	SUBCLASS_OF	myeloid leukemias	138-155	DISO	leukemias	146-155	DISO
+27459612_en	SUBCLASS_OF	acute myeloid leukemia	286-308	DISO	myeloid leukemia	292-308	DISO
+27459612_en	SUBCLASS_OF	acute myeloid leukemia	286-308	DISO	leukemia	300-308	DISO
+27459612_en	ABBREVIATION	acute myeloid leukemia	286-308	DISO	AML	310-313	DISO
+27459612_en	SUBCLASS_OF	myeloid leukemia	292-308	DISO	leukemia	300-308	DISO
+27459612_en	ABBREVIATION	myeloid leukemia	292-308	DISO	AML	310-313	DISO
+27459612_en	ABBREVIATION	aberrant methylation	365-385	DISO	AM	387-389	DISO
+27459612_en	ABBREVIATION	aberrant	365-373	DISO	AM	387-389	DISO
+27459612_en	SUBCLASS_OF	complex karyotype	1151-1168	PHYS	karyotype	1159-1168	PHYS
+27459612_en	SUBCLASS_OF	normal karyotype	1371-1387	PHYS	karyotype	1378-1387	PHYS
+27459613_en	SUBCLASS_OF	primary mediastinal large B-cell lymphoma	13-54	DISO	mediastinal large B-cell lymphoma	21-54	DISO
+27459613_en	SUBCLASS_OF	primary mediastinal large B-cell lymphoma	300-341	DISO	mediastinal large B-cell lymphoma	308-341	DISO
+27459613_en	SUBCLASS_OF	primary mediastinal large B-cell lymphoma	300-341	DISO	large B-cell lymphoma	320-341	DISO
+27459613_en	ABBREVIATION	primary mediastinal large B-cell lymphoma	300-341	DISO	PMBCL	343-348	DISO
+27459613_en	SUBCLASS_OF	mediastinal large B-cell lymphoma	308-341	DISO	large B-cell lymphoma	320-341	DISO
+27459613_en	SUBCLASS_OF	large B-cell lymphoma	320-341	DISO	B-cell lymphoma	326-341	DISO
+27459616_en	SUBCLASS_OF	Diffuse large B-cell lymphoma	1-30	DISO	large B-cell lymphoma	9-30	DISO
+27459616_en	SUBCLASS_OF	Diffuse large B-cell lymphoma	1-30	DISO	B-cell lymphoma	15-30	DISO
+27459616_en	SUBCLASS_OF	large B-cell lymphoma	9-30	DISO	B-cell lymphoma	15-30	DISO
+27459616_en	SUBCLASS_OF	monoclonal immunoglobulin secretion	36-71	PHYS	immunoglobulin secretion	47-71	PHYS
+27459616_en	SUBCLASS_OF	diffuse large B-cell lymphoma	136-165	DISO	large B-cell lymphoma	144-165	DISO
+27459616_en	SUBCLASS_OF	diffuse large B-cell lymphoma	136-165	DISO	B-cell lymphoma	150-165	DISO
+27459616_en	SUBCLASS_OF	diffuse large B-cell lymphoma	136-165	DISO	lymphoma	157-165	DISO
+27459616_en	SUBCLASS_OF	large B-cell lymphoma	144-165	DISO	B-cell lymphoma	150-165	DISO
+27459616_en	SUBCLASS_OF	large B-cell lymphoma	144-165	DISO	lymphoma	157-165	DISO
+27459616_en	SUBCLASS_OF	monoclonal immunoglobulin secretion	179-214	PHYS	immunoglobulin secretion	190-214	PHYS
+27459616_en	SUBCLASS_OF	generalized injury	625-643	INJURY_POISONING	injury	637-643	INJURY_POISONING
+27459619_en	SUBCLASS_OF	D antigen	348-357	CHEM	antigen	350-357	CHEM
+27459619_en	SUBCLASS_OF	weak D	1427-1433	CHEM	D	1432-1433	CHEM
+27459619_en	SUBCLASS_OF	D-negative phenotype	1671-1691	PHYS	phenotype	1682-1691	PHYS
+27459619_en	SUBCLASS_OF	weak D antigen	42-56	CHEM	D antigen	47-56	CHEM
+27459621_en	SUBCLASS_OF	pulmonary arterial hypertension	77-108	DISO	arterial hypertension	87-108	DISO
+27459621_en	SUBCLASS_OF	pulmonary arterial hypertension	77-108	DISO	hypertension	96-108	DISO
+27459621_en	SUBCLASS_OF	Pulmonary arterial hypertension	111-142	DISO	arterial hypertension	121-142	DISO
+27459621_en	SUBCLASS_OF	Pulmonary arterial hypertension	111-142	DISO	hypertension	130-142	DISO
+27459621_en	ABBREVIATION	Pulmonary arterial hypertension	111-142	DISO	PAH	144-147	DISO
+27459621_en	ABBREVIATION	arterial hypertension	121-142	DISO	PAH	144-147	DISO
+27459622_en	SUBCLASS_OF	Myeloid Neoplasms	240-257	DISO	Neoplasms	248-257	DISO
+27459622_en	SUBCLASS_OF	absolute eosinophilia	438-459	DISO	eosinophilia	447-459	DISO
+27459622_en	SUBCLASS_OF	donor chimerism	1359-1374	PHYS	chimerism	1365-1374	PHYS
+27500574_en	SUBCLASS_OF	paralytic laryngeal stenosis	87-115	DISO	laryngeal stenosis	97-115	DISO
+27500574_en	SUBCLASS_OF	paralytic laryngeal stenosis	87-115	DISO	stenosis	107-115	DISO
+27500574_en	PHYSIOLOGY_OF	vocal	601-606	PHYS	vocal fold	601-611	ANATOMY
+27500574_en	PHYSIOLOGY_OF	vocal fold angle	601-617	PHYS	vocal fold	601-611	ANATOMY
+27500574_en	PHYSIOLOGY_OF	body mass index	619-634	PHYS	body	619-623	ANATOMY
+27500576_en	SUBCLASS_OF	tracheal stenosis	204-221	DISO	stenosis	213-221	DISO
+27500576_en	SUBCLASS_OF	stenotic lesions	795-811	DISO	lesions	804-811	DISO
+27500579_en	AFFECTS	inflammation	27-39	DISO	rhinosinusotubal area	47-68	ANATOMY
+27500579_en	SUBCLASS_OF	catarrhal otitis media	638-660	DISO	otitis media	648-660	DISO
+27500579_en	AFFECTS	inflammation	171-183	DISO	rhinosinusotubal area	191-212	ANATOMY
+27500583_en	PHYSIOLOGY_OF	nasal index	590-601	PHYS	nasal	590-595	ANATOMY
+27500583_en	PHYSIOLOGY_OF	nasal tip projection	1135-1155	PHYS	nasal	1135-1140	ANATOMY
+27500583_en	PHYSIOLOGY_OF	nasal tip projection	1135-1155	PHYS	nasal tip	1135-1144	ANATOMY
+27500676_en	SUBCLASS_OF	chronic obstructive pulmonary disease	565-602	DISO	obstructive pulmonary disease	573-602	DISO
+27500676_en	SUBCLASS_OF	obstructive pulmonary disease	573-602	DISO	pulmonary disease	585-602	DISO
+27500676_en	SUBCLASS_OF	bronchial asthma	627-643	DISO	asthma	637-643	DISO
+27500769_en	SUBCLASS_OF	intraoperative complications	2346-2374	DISO	complications	2361-2374	DISO
+27500770_en	SUBCLASS_OF	Chiari 1 malformation	248-269	DISO	malformation	257-269	DISO
+27500770_en	SUBCLASS_OF	Chiari 1 malformation	351-372	DISO	malformation	360-372	DISO
+27500770_en	SUBCLASS_OF	Chiari 1 malformation	1106-1127	DISO	malformation	1115-1127	DISO
+27500775_en	SUBCLASS_OF	pituitary adenomas	41-59	DISO	adenomas	51-59	DISO
+27500775_en	SUBCLASS_OF	Pituitary adenomas	106-124	DISO	adenomas	116-124	DISO
+27500775_en	SUBCLASS_OF	pituitary adenomas	491-509	DISO	adenomas	501-509	DISO
+27500775_en	ABBREVIATION	pituitary adenomas	491-509	DISO	PAs	511-514	DISO
+27500775_en	SUBCLASS_OF	nasal liquorrhea	1799-1815	DISO	liquorrhea	1805-1815	DISO
+27500869_en	ABBREVIATION	non-alcoholic Wernicke-Korsakoff syndrome	76-117	DISO	WKS	119-122	DISO
+27500869_en	ABBREVIATION	Wernicke-Korsakoff syndrome	90-117	DISO	WKS	119-122	DISO
+27500869_en	SUBCLASS_OF	acute gastrointestinal tract (GIT) disease	233-275	DISO	gastrointestinal tract (GIT) disease	239-275	DISO
+27500869_en	SUBCLASS_OF	chronic GIT disease	310-329	DISO	GIT disease	318-329	DISO
+27500869_en	AFFECTS	GIT disease	318-329	DISO	GIT	318-321	ANATOMY
+27500869_en	AFFECTS	bulbar syndrome	548-563	DISO	bulbar	548-554	ANATOMY
+27500871_en	SUBCLASS_OF	severe brain injury	84-103	INJURY_POISONING	brain injury	91-103	INJURY_POISONING
+27500871_en	AFFECTS	brain injury	91-103	INJURY_POISONING	brain	91-96	ANATOMY
+27500871_en	SUBCLASS_OF	brain injury	91-103	INJURY_POISONING	injury	97-103	INJURY_POISONING
+27500871_en	SUBCLASS_OF	severe brain injury	261-280	INJURY_POISONING	brain injury	268-280	INJURY_POISONING
+27500871_en	SUBCLASS_OF	severe brain injury	261-280	INJURY_POISONING	injury	274-280	INJURY_POISONING
+27500871_en	AFFECTS	brain injury	268-280	INJURY_POISONING	brain	268-273	ANATOMY
+27500871_en	SUBCLASS_OF	brain injury	268-280	INJURY_POISONING	injury	274-280	INJURY_POISONING
+27500871_en	SUBCLASS_OF	akinetic mutism	868-883	DISO	mutism	877-883	DISO
+27500872_en	SUBCLASS_OF	moderate dysphoria	965-983	DISO	dysphoria	974-983	DISO
+27500872_en	SUBCLASS_OF	moderate dysphoria	1189-1207	DISO	dysphoria	1198-1207	DISO
+27500872_en	SUBCLASS_OF	Mild dysphoria	876-890	DISO	dysphoria	881-890	DISO
+27500873_en	TREATED_USING	opioid withdrawal syndrome	83-109	DISO	pregabalin	52-62	CHEM
+27500873_en	TREATED_USING	opioid withdrawal syndrome	200-226	DISO	pregabalin	152-162	CHEM
+27500873_en	ABBREVIATION	opioid withdrawal syndrome	200-226	DISO	OWS	228-231	DISO
+27500877_en	SUBCLASS_OF	intellectual disability	73-96	DISO	disability	86-96	DISO
+27500877_en	SUBCLASS_OF	intellectual disability	179-202	DISO	disability	192-202	DISO
+27500877_en	SUBCLASS_OF	intellectual disability	357-380	DISO	disability	370-380	DISO
+27500877_en	SUBCLASS_OF	intellectual disability	490-513	DISO	disability	503-513	DISO
+27500877_en	SUBCLASS_OF	intellectual disability	712-735	DISO	disability	725-735	DISO
+27500878_en	TREATED_USING	schizophrenia	63-76	DISO	quetiapine	14-24	CHEM
+27500878_en	SUBCLASS_OF	residual schizophrenia	312-334	DISO	schizophrenia	321-334	DISO
+27500879_en	SUBCLASS_OF	local epilepsy	57-71	DISO	epilepsy	63-71	DISO
+27500879_en	ABBREVIATION	epilepsy	652-660	DISO	LEi	662-665	DISO
+27500879_en	ABBREVIATION	sleep deprivation	882-899	DISO	SD	901-903	DISO
+27600776_en	SUBCLASS_OF	Aortic aneurysm	1-16	DISO	aneurysm	8-16	DISO
+27600776_en	SUBCLASS_OF	aortic aneurysm	199-214	DISO	aneurysm	206-214	DISO
+27600776_en	SUBCLASS_OF	aortic aneurysm	479-494	DISO	aneurysm	486-494	DISO
+27600776_en	SUBCLASS_OF	idiopathic cystic medial necrosis	673-706	DISO	cystic medial necrosis	684-706	DISO
+27600776_en	SUBCLASS_OF	idiopathic cystic medial necrosis	673-706	DISO	medial necrosis	691-706	DISO
+27600776_en	SUBCLASS_OF	cystic medial necrosis	684-706	DISO	medial necrosis	691-706	DISO
+27600776_en	SUBCLASS_OF	sudden deaths	758-771	PHYS	deaths	765-771	PHYS
+27600776_en	SUBCLASS_OF	aortic rupture	777-791	DISO	rupture	784-791	DISO
+27600776_en	SUBCLASS_OF	tumor necrosis	1107-1121	DISO	necrosis	1113-1121	DISO
+27600776_en	ABBREVIATION	intercellular adhesion molecule-1	1144-1177	CHEM	ICAM	1179-1183	CHEM
+27600776_en	SUBCLASS_OF	medial necrosis	1266-1281	DISO	necrosis	1273-1281	DISO
+27600776_en	SUBCLASS_OF	inflammatory infiltrate	1781-1804	DISO	infiltrate	1794-1804	DISO
+27600776_en	SUBCLASS_OF	inflammatory infiltrate	1919-1942	DISO	infiltrate	1932-1942	DISO
+27600776_en	SUBCLASS_OF	aortic aneurysm	2246-2261	DISO	aneurysm	2253-2261	DISO
+27600776_en	SUBCLASS_OF	idiopathic cystic medial necrosis	2275-2308	DISO	medial necrosis	2293-2308	DISO
+27600776_en	SUBCLASS_OF	cystic medial necrosis	2286-2308	DISO	medial necrosis	2293-2308	DISO
+27600776_en	SUBCLASS_OF	inflammatory infiltrate	2425-2448	DISO	infiltrate	2438-2448	DISO
+27600777_en	ABBREVIATION	isocitrate dehydrogenase-1	162-188	CHEM	IDH	190-193	CHEM
+27600777_en	ABBREVIATION	methylguanine-DNA methyltransferase	210-245	CHEM	MGMT	247-251	CHEM
+27600777_en	ABBREVIATION	glioblastoma	289-301	DISO	GB	303-305	DISO
+27600777_en	SUBCLASS_OF	recurrent glioblastoma	1230-1252	DISO	glioblastoma	1240-1252	DISO
+27600777_en	ABBREVIATION	methyltransferase	228-245	CHEM	MGMT	247-251	CHEM
+27600778_en	SUBCLASS_OF	uveal melanoma	91-105	DISO	melanoma	97-105	DISO
+27600778_en	SUBCLASS_OF	uveal melanoma	233-247	DISO	melanoma	239-247	DISO
+27600778_en	ABBREVIATION	uveal melanoma	233-247	DISO	UM	249-251	DISO
+27600778_en	SUBCLASS_OF	partial monosomy	768-784	PHYS	monosomy	776-784	PHYS
+27600778_en	ABBREVIATION	extrabulbar growth	940-958	DISO	EG	960-962	DISO
+27600779_en	SUBCLASS_OF	primary cutaneous melanoma	67-93	DISO	cutaneous melanoma	75-93	DISO
+27600779_en	SUBCLASS_OF	primary cutaneous melanoma	67-93	DISO	melanoma	85-93	DISO
+27600779_en	SUBCLASS_OF	cutaneous melanoma	75-93	DISO	melanoma	85-93	DISO
+27600779_en	SUBCLASS_OF	Cutaneous melanoma	140-158	DISO	melanoma	150-158	DISO
+27600779_en	ABBREVIATION	Cutaneous melanoma	140-158	DISO	CM	160-162	DISO
+27600779_en	SUBCLASS_OF	malignant tumor	169-184	DISO	tumor	179-184	DISO
+27600779_en	SUBCLASS_OF	primary cutaneous melanoma	463-489	DISO	cutaneous melanoma	471-489	DISO
+27600779_en	SUBCLASS_OF	primary cutaneous melanoma	463-489	DISO	melanoma	481-489	DISO
+27600779_en	ABBREVIATION	primary cutaneous melanoma	463-489	DISO	PCM	491-494	DISO
+27600779_en	SUBCLASS_OF	cutaneous melanoma	471-489	DISO	melanoma	481-489	DISO
+27600779_en	ABBREVIATION	cutaneous melanoma	471-489	DISO	PCM	491-494	DISO
+27600779_en	SUBCLASS_OF	infiltrating primary cutaneous melanoma	450-489	DISO	primary cutaneous melanoma	463-489	DISO
+27600779_en	SUBCLASS_OF	infiltrating primary cutaneous melanoma	450-489	DISO	cutaneous melanoma	471-489	DISO
+27600779_en	ABBREVIATION	infiltrating primary cutaneous melanoma	450-489	DISO	PCM	491-494	DISO
+27600889_en	SUBCLASS_OF	choroidal hemangioma	22-42	DISO	hemangioma	32-42	DISO
+27600889_en	SUBCLASS_OF	choroidal hemangioma	145-165	DISO	hemangioma	155-165	DISO
+27600889_en	ABBREVIATION	choroidal hemangioma	145-165	DISO	CH	167-169	DISO
+27600889_en	SUBCLASS_OF	unilateral CH	240-253	DISO	CH	251-253	DISO
+27600889_en	SUBCLASS_OF	cystic dystrophy	622-638	DISO	dystrophy	629-638	DISO
+27600889_en	SUBCLASS_OF	retinal edema	704-717	DISO	edema	712-717	DISO
+27600889_en	SUBCLASS_OF	choroidal hemangioma	932-952	DISO	hemangioma	942-952	DISO
+27600889_en	SUBCLASS_OF	subretinal effusion	1308-1327	DISO	effusion	1319-1327	DISO
+27600889_en	SUBCLASS_OF	RPE atrophy	1436-1447	DISO	atrophy	1440-1447	DISO
+27600889_en	SUBCLASS_OF	choroidal hemangioma	1500-1520	DISO	hemangioma	1510-1520	DISO
+27600891_en	ABBREVIATION	volumetric ocular blood flow	53-81	PHYS	OBF	83-86	PHYS
+27600891_en	ABBREVIATION	ocular blood flow	64-81	PHYS	OBF	83-86	PHYS
+27600891_en	PHYSIOLOGY_OF	blood flow	71-81	PHYS	blood	71-76	ANATOMY
+27600891_en	SUBCLASS_OF	corneal hysteresis	578-596	PHYS	hysteresis	586-596	PHYS
+27600891_en	PHYSIOLOGY_OF	corneal hysteresis	1270-1288	PHYS	corneal	1270-1277	ANATOMY
+27600891_en	SUBCLASS_OF	corneal hysteresis	1270-1288	PHYS	hysteresis	1278-1288	PHYS
+27600891_en	PHYSIOLOGY_OF	corneal resistance factor	1304-1329	PHYS	corneal	1304-1311	ANATOMY
+27600892_en	SUBCLASS_OF	thyroid eye disease	87-106	DISO	eye disease	95-106	DISO
+27600892_en	SUBCLASS_OF	optic neuropathy	1453-1469	DISO	neuropathy	1459-1469	DISO
+27600892_en	SUBCLASS_OF	thyroid eye disease	1473-1492	DISO	eye disease	1481-1492	DISO
+27600893_en	SUBCLASS_OF	diabetic macular edema	156-178	DISO	macular edema	165-178	DISO
+27600893_en	SUBCLASS_OF	diabetic macular edema	156-178	DISO	edema	173-178	DISO
+27600893_en	ABBREVIATION	diabetic macular edema	156-178	DISO	DME	180-183	DISO
+27600893_en	SUBCLASS_OF	macular edema	165-178	DISO	edema	173-178	DISO
+27600893_en	ABBREVIATION	macular edema	165-178	DISO	DME	180-183	DISO
+27600893_en	SUBCLASS_OF	sponge-like DME	485-500	DISO	DME	497-500	DISO
+27600893_en	SUBCLASS_OF	cystoid DME	502-513	DISO	DME	510-513	DISO
+27600893_en	ABBREVIATION	serous neuroepithelium detachment	524-557	DISO	NED	559-562	DISO
+27600893_en	SUBCLASS_OF	mixed DME	569-578	DISO	DME	575-578	DISO
+27600893_en	SUBCLASS_OF	cystoid DME	580-591	DISO	DME	588-591	DISO
+27600893_en	SUBCLASS_OF	serous NED	596-606	DISO	NED	603-606	DISO
+27600893_en	SUBCLASS_OF	mixed DME	851-860	DISO	DME	857-860	DISO
+27600893_en	SUBCLASS_OF	sponge-like DME	949-964	DISO	DME	961-964	DISO
+27600893_en	SUBCLASS_OF	cystoid DME	1263-1274	DISO	DME	1271-1274	DISO
+27600893_en	SUBCLASS_OF	cystoid edema	1423-1436	DISO	edema	1431-1436	DISO
+27600893_en	SUBCLASS_OF	mixed DME	1486-1495	DISO	DME	1492-1495	DISO
+27600893_en	SUBCLASS_OF	diffuse DME	1813-1824	DISO	DME	1821-1824	DISO
+27600893_en	SUBCLASS_OF	macular edema	1862-1875	DISO	edema	1870-1875	DISO
+27600894_en	SUBCLASS_OF	secondary cataract	385-403	DISO	cataract	395-403	DISO
+27600894_en	SUBCLASS_OF	early senile cataract	515-536	DISO	senile cataract	521-536	DISO
+27600894_en	SUBCLASS_OF	early senile cataract	515-536	DISO	cataract	528-536	DISO
+27600894_en	SUBCLASS_OF	senile cataract	521-536	DISO	cataract	528-536	DISO
+27600894_en	SUBCLASS_OF	secondary cataract	686-704	DISO	cataract	696-704	DISO
+27600894_en	SUBCLASS_OF	senile cataract	958-973	DISO	cataract	965-973	DISO
+27600894_en	SUBCLASS_OF	early senile cataract	952-973	DISO	senile cataract	958-973	DISO
+27600894_en	SUBCLASS_OF	early senile cataract	952-973	DISO	cataract	965-973	DISO
+27600895_en	PHYSIOLOGY_OF	blood flow	19-29	PHYS	blood	19-24	ANATOMY
+27600895_en	AFFECTS	macular degeneration	56-76	DISO	macular	56-63	ANATOMY
+27600895_en	SUBCLASS_OF	macular degeneration	56-76	DISO	degeneration	64-76	DISO
+27600895_en	SUBCLASS_OF	primary open-angle glaucoma	81-108	DISO	open-angle glaucoma	89-108	DISO
+27600895_en	SUBCLASS_OF	primary open-angle glaucoma	81-108	DISO	glaucoma	100-108	DISO
+27600895_en	SUBCLASS_OF	open-angle glaucoma	89-108	DISO	glaucoma	100-108	DISO
+27600895_en	SUBCLASS_OF	primary open-angle glaucoma	198-225	DISO	open-angle glaucoma	206-225	DISO
+27600895_en	SUBCLASS_OF	primary open-angle glaucoma	198-225	DISO	glaucoma	217-225	DISO
+27600895_en	ABBREVIATION	primary open-angle glaucoma	198-225	DISO	POAG	227-231	DISO
+27600895_en	SUBCLASS_OF	open-angle glaucoma	206-225	DISO	glaucoma	217-225	DISO
+27600895_en	ABBREVIATION	open-angle glaucoma	206-225	DISO	POAG	227-231	DISO
+27600895_en	SUBCLASS_OF	age-related macular degeneration	237-269	DISO	macular degeneration	249-269	DISO
+27600895_en	ABBREVIATION	age-related macular degeneration	237-269	DISO	AMD	271-274	DISO
+27600895_en	SUBCLASS_OF	age-related macular degeneration	237-269	DISO	degeneration	257-269	DISO
+27600895_en	AFFECTS	macular degeneration	249-269	DISO	macular	249-256	ANATOMY
+27600895_en	ABBREVIATION	macular degeneration	249-269	DISO	AMD	271-274	DISO
+27600895_en	SUBCLASS_OF	macular degeneration	249-269	DISO	degeneration	257-269	DISO
+27600895_en	PHYSIOLOGY_OF	blood flow	336-346	PHYS	blood	336-341	ANATOMY
+27600895_en	PHYSIOLOGY_OF	blood flow peculiarities	336-360	PHYS	blood	336-341	ANATOMY
+27600895_en	PHYSIOLOGY_OF	choroidal blood flow	438-458	PHYS	choroidal	438-447	ANATOMY
+27600895_en	PHYSIOLOGY_OF	blood flow	448-458	PHYS	blood	448-453	ANATOMY
+27600895_en	PHYSIOLOGY_OF	choroidal blood flow	581-601	PHYS	choroidal	581-590	ANATOMY
+27600895_en	PHYSIOLOGY_OF	blood flow	591-601	PHYS	blood	591-596	ANATOMY
+27600895_en	SUBCLASS_OF	atrophic AMD	946-958	DISO	AMD	955-958	DISO
+27600895_en	PHYSIOLOGY_OF	choroidal blood flow	1052-1072	PHYS	choroidal	1052-1061	ANATOMY
+27600895_en	PHYSIOLOGY_OF	blood flow	1062-1072	PHYS	blood	1062-1067	ANATOMY
+27600895_en	ABBREVIATION	resistance index	1196-1212	PHYS	RI	1214-1216	PHYS
+27600895_en	SUBCLASS_OF	choroidal hypoperfusion	1262-1285	DISO	hypoperfusion	1272-1285	DISO
+27600896_en	SUBCLASS_OF	peripheral vitreoretinal dystrophies	48-84	DISO	vitreoretinal dystrophies	59-84	DISO
+27600896_en	SUBCLASS_OF	peripheral vitreoretinal dystrophies	48-84	DISO	dystrophies	73-84	DISO
+27600896_en	SUBCLASS_OF	peripheral vitreoretinal dystrophy	234-268	DISO	vitreoretinal dystrophy	245-268	DISO
+27600896_en	SUBCLASS_OF	peripheral vitreoretinal dystrophy	234-268	DISO	dystrophy	259-268	DISO
+27600896_en	ABBREVIATION	peripheral vitreoretinal dystrophy	234-268	DISO	PVRD	270-274	DISO
+27600896_en	SUBCLASS_OF	equatorial PVRD	332-347	DISO	PVRD	343-347	DISO
+27600896_en	SUBCLASS_OF	lattice dystrophy	631-648	DISO	dystrophy	639-648	DISO
+27600896_en	PHYSIOLOGY_OF	retinal adhesion	743-759	PHYS	retinal	743-750	ANATOMY
+27600897_en	TREATED_USING	primary open-angle glaucoma	88-115	DISO	prolatan	38-46	CHEM
+27600897_en	SUBCLASS_OF	primary open-angle glaucoma	88-115	DISO	open-angle glaucoma	96-115	DISO
+27600897_en	SUBCLASS_OF	primary open-angle glaucoma	88-115	DISO	glaucoma	107-115	DISO
+27600897_en	SUBCLASS_OF	open-angle glaucoma	96-115	DISO	glaucoma	107-115	DISO
+27600897_en	ABBREVIATION	intraocular pressure	509-529	PHYS	IOP	531-534	PHYS
+27600897_en	PHYSIOLOGY_OF	rim area	986-994	PHYS	rim	986-989	ANATOMY
+27600898_en	SUBCLASS_OF	Ocular surface viral diseases	1-30	DISO	viral diseases	16-30	DISO
+27600898_en	SUBCLASS_OF	viral infection	263-278	DISO	infection	269-278	DISO
+27600898_en	SUBCLASS_OF	viral infection	349-364	DISO	infection	355-364	DISO
+27600898_en	SUBCLASS_OF	viral infection	417-432	DISO	infection	423-432	DISO
+27600898_en	SUBCLASS_OF	viral infection	494-509	DISO	infection	500-509	DISO
+27600898_en	SUBCLASS_OF	ocular surface viral diseases	669-698	DISO	viral diseases	684-698	DISO
+27600898_en	SUBCLASS_OF	ocular surface viral diseases	782-811	DISO	viral diseases	797-811	DISO
+27600898_en	SUBCLASS_OF	bacterial complications	1031-1054	DISO	complications	1041-1054	DISO
+27600898_en	SUBCLASS_OF	viral infections	1113-1129	DISO	infections	1119-1129	DISO
+27600899_en	AFFECTS	ocular complications	31-51	DISO	ocular	31-37	ANATOMY
+27600899_en	SUBCLASS_OF	ocular complications	31-51	DISO	complications	38-51	DISO
+27600899_en	AFFECTS	ocular complications	173-193	DISO	ocular	173-179	ANATOMY
+27600899_en	SUBCLASS_OF	ocular complications	173-193	DISO	complications	180-193	DISO
+27600899_en	AFFECTS	ocular complications	439-459	DISO	ocular	439-445	ANATOMY
+27600899_en	SUBCLASS_OF	ocular complications	439-459	DISO	complications	446-459	DISO
+27600899_en	SUBCLASS_OF	type II diabetes	511-527	DISO	diabetes	519-527	DISO
+27600899_en	SUBCLASS_OF	recurrent disability	810-830	DISO	disability	820-830	DISO
+27600899_en	SUBCLASS_OF	severe disability	921-938	DISO	disability	928-938	DISO
+27600899_en	SUBCLASS_OF	primary disability	991-1009	DISO	disability	999-1009	DISO
+27600899_en	SUBCLASS_OF	recurrent disability	1105-1125	DISO	disability	1115-1125	DISO
+27600899_en	SUBCLASS_OF	primary disability	1201-1219	DISO	disability	1209-1219	DISO
+27600899_en	PHYSIOLOGY_OF	blood pressure	1344-1358	PHYS	blood	1344-1349	ANATOMY
+27600899_en	SUBCLASS_OF	ocular complications	1562-1582	DISO	complications	1569-1582	DISO
+27600899_en	SUBCLASS_OF	recurrent disability	145-165	DISO	disability	155-165	DISO
+27600899_en	AFFECTS	ocular complications of diabetes	1562-1594	DISO	ocular	1562-1568	ANATOMY
+27628225_en	SUBCLASS_OF	diffuse toxic goiter	40-60	DISO	goiter	54-60	DISO
+27628225_en	SUBCLASS_OF	diffuse toxic goiter	320-340	DISO	goiter	334-340	DISO
+27628226_en	SUBCLASS_OF	spontaneous pneumothorax	68-92	DISO	pneumothorax	80-92	DISO
+27628226_en	SUBCLASS_OF	spontaneous pneumothorax	138-162	DISO	pneumothorax	150-162	DISO
+27628226_en	SUBCLASS_OF	spontaneous pneumothorax	253-277	DISO	pneumothorax	265-277	DISO
+27628226_en	SUBCLASS_OF	bronchial valve	997-1012	DEVICE	valve	1007-1012	DEVICE
+27628226_en	SUBCLASS_OF	pulmonary emphysema	1072-1091	DISO	emphysema	1082-1091	DISO
+27628226_en	SUBCLASS_OF	bullous emphysema	1297-1314	DISO	emphysema	1305-1314	DISO
+27628226_en	SUBCLASS_OF	heterogeneous pulmonary emphysema	1058-1091	DISO	pulmonary emphysema	1072-1091	DISO
+27628226_en	SUBCLASS_OF	heterogeneous pulmonary emphysema	1058-1091	DISO	emphysema	1082-1091	DISO
+27628230_en	SUBCLASS_OF	chronic cholecystitis	219-240	DISO	cholecystitis	227-240	DISO
+27628230_en	PHYSIOLOGY_OF	bile acids level	349-365	PHYS	bile	349-353	ANATOMY
+27628230_en	SUBCLASS_OF	Duodenal hypertension	926-947	DISO	hypertension	935-947	DISO
+27628230_en	SUBCLASS_OF	chronic pancreatitis	1206-1226	DISO	pancreatitis	1214-1226	DISO
+27628231_en	SUBCLASS_OF	abdominal wall hernias	14-36	DISO	hernias	29-36	DISO
+27628231_en	SUBCLASS_OF	Postoperative ventral hernia	905-933	DISO	ventral hernia	919-933	DISO
+27628231_en	SUBCLASS_OF	Postoperative ventral hernia	905-933	DISO	hernia	927-933	DISO
+27628231_en	SUBCLASS_OF	ventral hernia	919-933	DISO	hernia	927-933	DISO
+27628231_en	SUBCLASS_OF	abdominal wall hernias	993-1015	DISO	hernias	1008-1015	DISO
+27635609_en	SUBCLASS_OF	ischemic stroke	228-243	DISO	stroke	237-243	DISO
+27635609_en	SUBCLASS_OF	ischemic stroke	394-409	DISO	stroke	403-409	DISO
+27635609_en	SUBCLASS_OF	frontal dysfunction	1040-1059	DISO	dysfunction	1048-1059	DISO
+27635609_en	ABBREVIATION	nerve growth factor	1172-1191	CHEM	NGF	1193-1196	CHEM
+27635609_en	SUBCLASS_OF	ischemic stroke	1383-1398	DISO	stroke	1392-1398	DISO
+27635609_en	SUBCLASS_OF	carotid ischemic stroke	1944-1967	DISO	ischemic stroke	1952-1967	DISO
+27635609_en	SUBCLASS_OF	carotid ischemic stroke	1944-1967	DISO	stroke	1961-1967	DISO
+27635611_en	ABBREVIATION	cardio-ankle vascular index	130-157	PHYS	CAV	159-162	PHYS
+27635611_en	ABBREVIATION	ankle-shoulder index	323-343	PHYS	ASI	345-348	PHYS
+27635611_en	SUBCLASS_OF	peripheral atherosclerosis	710-736	DISO	atherosclerosis	721-736	DISO
+27635611_en	SUBCLASS_OF	chronic heart failure	738-759	DISO	heart failure	746-759	DISO
+27635611_en	SUBCLASS_OF	atrial fibrillation	764-783	PHYS	fibrillation	771-783	PHYS
+27635611_en	SUBCLASS_OF	Ischemic stroke	822-837	DISO	stroke	831-837	DISO
+27635611_en	SUBCLASS_OF	peripheral atherosclerosis	873-899	DISO	atherosclerosis	884-899	DISO
+27635611_en	SUBCLASS_OF	ischemic stroke	995-1010	DISO	stroke	1004-1010	DISO
+27635611_en	SUBCLASS_OF	peripheral atherosclerosis	1068-1094	DISO	atherosclerosis	1079-1094	DISO
+27636759_en	PHYSIOLOGY_OF	teeth sensitivity	635-652	PHYS	teeth	635-640	ANATOMY
+27636920_en	SUBCLASS_OF	resistant hypertension	88-110	DISO	hypertension	98-110	DISO
+27636920_en	SUBCLASS_OF	resistant hypertension	348-370	DISO	hypertension	358-370	DISO
+27636920_en	ABBREVIATION	resistant hypertension	348-370	DISO	RH	372-374	DISO
+27636920_en	PHYSIOLOGY_OF	blood pressure	780-794	PHYS	blood	780-785	ANATOMY
+27636920_en	ABBREVIATION	blood pressure	780-794	PHYS	BP	796-798	PHYS
+27636920_en	SUBCLASS_OF	diastolic BP	1277-1289	PHYS	BP	1287-1289	PHYS
+27636920_en	ABBREVIATION	diastolic BP	1277-1289	PHYS	DBP	1291-1294	PHYS
+27636920_en	ABBREVIATION	systolic BP	1255-1266	PHYS	SBP	1268-1271	PHYS
+27636920_en	ABBREVIATION	diastolic	1277-1286	PHYS	DBP	1291-1294	PHYS
+27636922_en	SUBCLASS_OF	chronic obstructive pulmonary disease	42-79	DISO	obstructive pulmonary disease	50-79	DISO
+27636922_en	SUBCLASS_OF	chronic obstructive pulmonary disease	251-288	DISO	obstructive pulmonary disease	259-288	DISO
+27636922_en	SUBCLASS_OF	chronic obstructive pulmonary disease	251-288	DISO	pulmonary disease	271-288	DISO
+27636922_en	ABBREVIATION	chronic obstructive pulmonary disease	251-288	DISO	COPD	290-294	DISO
+27636922_en	SUBCLASS_OF	obstructive pulmonary disease	259-288	DISO	pulmonary disease	271-288	DISO
+27636922_en	ABBREVIATION	obstructive pulmonary disease	259-288	DISO	COPD	290-294	DISO
+27636922_en	SUBCLASS_OF	first-second grade hypertension	453-484	DISO	hypertension	472-484	DISO
+27636922_en	ABBREVIATION	blood pressure	1259-1273	PHYS	BP	1275-1277	PHYS
+27636923_en	SUBCLASS_OF	chronic obstructive pulmonary disease	117-154	DISO	obstructive pulmonary disease	125-154	DISO
+27636923_en	SUBCLASS_OF	obstructive pulmonary disease	125-154	DISO	pulmonary disease	137-154	DISO
+27636923_en	SUBCLASS_OF	chronic obstructive pulmonary disease	387-424	DISO	obstructive pulmonary disease	395-424	DISO
+27636923_en	SUBCLASS_OF	moderate COPD	588-601	DISO	COPD	597-601	DISO
+27636925_en	SUBCLASS_OF	acute ST-segment elevation myocardial infarction	234-282	DISO	ST-segment elevation myocardial infarction	240-282	DISO
+27636925_en	ABBREVIATION	acute ST-segment elevation myocardial infarction	234-282	DISO	MI	284-286	DISO
+27636925_en	ABBREVIATION	ST-segment elevation myocardial infarction	240-282	DISO	MI	284-286	DISO
+27636925_en	SUBCLASS_OF	myocardial infarction	261-282	DISO	infarction	272-282	DISO
+27636925_en	ABBREVIATION	myocardial infarction	261-282	DISO	MI	284-286	DISO
+27636925_en	ABBREVIATION	diabetes mellitus	292-309	DISO	DM	311-313	DISO
+27636925_en	SUBCLASS_OF	type 2 DM	416-425	DISO	DM	423-425	DISO
+27636925_en	SUBCLASS_OF	stent thromboses	722-738	DISO	thromboses	728-738	DISO
+27636925_en	SUBCLASS_OF	recurrent MI	782-794	DISO	MI	792-794	DISO
+27636925_en	SUBCLASS_OF	recurrent MI	902-914	DISO	MI	912-914	DISO
+27636925_en	SUBCLASS_OF	stent thrombosis	920-936	DISO	thrombosis	926-936	DISO
+27636925_en	SUBCLASS_OF	female sex	1287-1297	PHYS	sex	1294-1297	PHYS
+27636925_en	PHYSIOLOGY_OF	body mass	1350-1359	PHYS	body	1350-1354	ANATOMY
+27636925_en	AFFECTS	cardiac complications	1618-1639	DISO	cardiac	1618-1625	ANATOMY
+27636925_en	SUBCLASS_OF	cardiac complications	1618-1639	DISO	complications	1626-1639	DISO
+27636925_en	PHYSIOLOGY_OF	body mass index	1350-1365	PHYS	body	1350-1354	ANATOMY
+27636928_en	SUBCLASS_OF	Multiple primary colorectal cancer	1-35	DISO	primary colorectal cancer	10-35	DISO
+27636928_en	SUBCLASS_OF	Multiple primary colorectal cancer	1-35	DISO	colorectal cancer	18-35	DISO
+27636928_en	SUBCLASS_OF	primary colorectal cancer	10-35	DISO	colorectal cancer	18-35	DISO
+27636928_en	SUBCLASS_OF	colorectal cancer	18-35	DISO	cancer	29-35	DISO
+27636928_en	SUBCLASS_OF	metachronous colorectal cancer	120-150	DISO	colorectal cancer	133-150	DISO
+27636928_en	SUBCLASS_OF	metachronous colorectal cancer	120-150	DISO	cancer	144-150	DISO
+27636928_en	SUBCLASS_OF	colorectal cancer	133-150	DISO	cancer	144-150	DISO
+27636928_en	SUBCLASS_OF	multiple primary CRC	259-279	DISO	primary CRC	268-279	DISO
+27636928_en	SUBCLASS_OF	multiple primary CRC	259-279	DISO	CRC	276-279	DISO
+27636928_en	SUBCLASS_OF	primary CRC	268-279	DISO	CRC	276-279	DISO
+27636928_en	SUBCLASS_OF	synchronous tumors	344-379	DISO	tumors	373-379	DISO
+27636928_en	SUBCLASS_OF	metachronous tumors	360-379	DISO	tumors	373-379	DISO
+27636928_en	SUBCLASS_OF	Multiple primary tumors	403-426	DISO	primary tumors	412-426	DISO
+27636928_en	SUBCLASS_OF	Multiple primary tumors	403-426	DISO	tumors	420-426	DISO
+27636928_en	SUBCLASS_OF	primary tumors	412-426	DISO	tumors	420-426	DISO
+27636928_en	SUBCLASS_OF	synchronous CRC	492-507	DISO	CRC	504-507	DISO
+27636928_en	SUBCLASS_OF	synchronous colorectal tumors	585-614	DISO	colorectal tumors	597-614	DISO
+27636928_en	SUBCLASS_OF	synchronous colorectal tumors	585-614	DISO	tumors	608-614	DISO
+27636928_en	SUBCLASS_OF	breast tumors	647-660	DISO	tumors	654-660	DISO
+27636928_en	SUBCLASS_OF	genital tumors	714-728	DISO	tumors	722-728	DISO
+27636928_en	SUBCLASS_OF	synchronous colorectal tumors	738-767	DISO	colorectal tumors	750-767	DISO
+27636928_en	SUBCLASS_OF	synchronous colorectal tumors	738-767	DISO	tumors	761-767	DISO
+27636928_en	AFFECTS	kidney cancer	805-818	DISO	kidney	805-811	ANATOMY
+27636928_en	SUBCLASS_OF	kidney cancer	805-818	DISO	cancer	812-818	DISO
+27636928_en	SUBCLASS_OF	gastric cancer	874-888	DISO	cancer	882-888	DISO
+27636928_en	SUBCLASS_OF	primary colorectal tumors	939-964	DISO	colorectal tumors	947-964	DISO
+27636928_en	SUBCLASS_OF	colorectal tumors	947-964	DISO	tumors	958-964	DISO
+27636928_en	SUBCLASS_OF	malignant tumors	1062-1078	DISO	tumors	1072-1078	DISO
+27636928_en	SUBCLASS_OF	synchronous colorectal cancer	104-150	DISO	colorectal cancer	133-150	DISO
+27636928_en	SUBCLASS_OF	synchronous colorectal cancer	104-150	DISO	cancer	144-150	DISO
+27636930_en	ABBREVIATION	panel reactive antibodies	407-432	CHEM	PRA	434-437	CHEM
+27636930_en	PHYSIOLOGY_OF	Graft function	946-960	PHYS	Graft	946-951	ANATOMY
+27636930_en	ABBREVIATION	glomerular filtration rate	1102-1128	PHYS	GFR	1130-1133	PHYS
+27636930_en	PHYSIOLOGY_OF	graft function	1470-1484	PHYS	graft	1470-1475	ANATOMY
+27636933_en	SUBCLASS_OF	liver fibrosis	83-97	DISO	fibrosis	89-97	DISO
+27636933_en	SUBCLASS_OF	chronic hepatitis C	127-146	DISO	hepatitis C	135-146	DISO
+27636933_en	AFFECTS	liver fibrosis	342-356	DISO	liver	342-347	ANATOMY
+27636933_en	SUBCLASS_OF	liver fibrosis	342-356	DISO	fibrosis	348-356	DISO
+27636933_en	ABBREVIATION	liver fibrosis	342-356	DISO	LF	358-360	DISO
+27636933_en	SUBCLASS_OF	chronic hepatitis C	378-397	DISO	hepatitis C	386-397	DISO
+27636933_en	ABBREVIATION	chronic hepatitis C	378-397	DISO	CHC	399-402	DISO
+27636933_en	ABBREVIATION	hepatitis C	386-397	DISO	CHC	399-402	DISO
+27636933_en	AFFECTS	liver cirrhosis	479-494	DISO	liver	479-484	ANATOMY
+27636933_en	SUBCLASS_OF	liver cirrhosis	479-494	DISO	cirrhosis	485-494	DISO
+27636933_en	SUBCLASS_OF	rapid fibrosis	609-623	DISO	fibrosis	615-623	DISO
+27636933_en	SUBCLASS_OF	rapid fibrosis	1016-1030	DISO	fibrosis	1022-1030	DISO
+27636933_en	SUBCLASS_OF	slow fibrosis	1054-1067	DISO	fibrosis	1059-1067	DISO
+27636933_en	SUBCLASS_OF	rapid fibrosis	1307-1321	DISO	fibrosis	1313-1321	DISO
+27636933_en	SUBCLASS_OF	slow fibrosis	1345-1358	DISO	fibrosis	1350-1358	DISO
+27636933_en	AFFECTS	liver fibrosis progression	83-109	FINDING	liver	83-88	ANATOMY
+27636933_en	SUBCLASS_OF	slow fibrosis	655-668	DISO	fibrosis	660-668	DISO
+27636934_en	AFFECTS	liver cirrhosis	19-34	DISO	liver	19-24	ANATOMY
+27636934_en	SUBCLASS_OF	liver cirrhosis	19-34	DISO	cirrhosis	25-34	DISO
+27636934_en	AFFECTS	liver cirrhosis	93-108	DISO	liver	93-98	ANATOMY
+27636934_en	SUBCLASS_OF	liver cirrhosis	93-108	DISO	cirrhosis	99-108	DISO
+27636934_en	ABBREVIATION	liver cirrhosis	93-108	DISO	LC	110-112	DISO
+27636934_en	SUBCLASS_OF	alcoholic LC	236-248	DISO	LC	246-248	DISO
+27636934_en	SUBCLASS_OF	alcoholic cardiomyopathy	466-490	DISO	cardiomyopathy	476-490	DISO
+27636934_en	ABBREVIATION	alcoholic cardiomyopathy	466-490	DISO	ACM	492-495	DISO
+27636934_en	ABBREVIATION	cardiomyopathy	476-490	DISO	ACM	492-495	DISO
+27636934_en	SUBCLASS_OF	congestive heart failure	501-525	DISO	heart failure	512-525	DISO
+27636934_en	SUBCLASS_OF	LV diastolic dysfunction	1098-1122	DISO	diastolic dysfunction	1101-1122	DISO
+27636934_en	SUBCLASS_OF	LV diastolic dysfunction	1098-1122	DISO	dysfunction	1111-1122	DISO
+27636934_en	SUBCLASS_OF	diastolic dysfunction	1101-1122	DISO	dysfunction	1111-1122	DISO
+27636934_en	ABBREVIATION	pulmonary artery pressure	1223-1248	PHYS	MPAP	1250-1254	PHYS
+27636934_en	SUBCLASS_OF	chronic heart failure	1471-1492	DISO	heart failure	1479-1492	DISO
+27636934_en	AFFECTS	heart failure	1479-1492	DISO	heart	1479-1484	ANATOMY
+27636934_en	PHYSIOLOGY_OF	LV mass index	1603-1616	PHYS	LV	1603-1605	ANATOMY
+27636934_en	AFFECTS	diseases of the heart	1734-1755	DISO	heart	1750-1755	ANATOMY
+27636934_en	SUBCLASS_OF	diastolic dysfunction	1805-1826	DISO	dysfunction	1815-1826	DISO
+27636936_en	SUBCLASS_OF	Primary immunodeficiencies	81-107	DISO	immunodeficiencies	89-107	DISO
+27636936_en	SUBCLASS_OF	X-linked agammaglobulinemia	655-682	DISO	agammaglobulinemia	664-682	DISO
+27636936_en	SUBCLASS_OF	irreversible complications	1233-1259	DISO	complications	1246-1259	DISO
+27708472_en	SUBCLASS_OF	severe dehydration	604-622	DISO	dehydration	611-622	DISO
+27708472_en	SUBCLASS_OF	severe cholera infection	649-673	DISO	infection	664-673	DISO
+27708472_en	SUBCLASS_OF	cholera infection	656-673	DISO	infection	664-673	DISO
+27708472_en	SUBCLASS_OF	severe cholera	1259-1273	DISO	cholera	1266-1273	DISO
+27723691_en	SUBCLASS_OF	portal cholangiocarcinoma	33-58	DISO	cholangiocarcinoma	40-58	DISO
+27723691_en	SUBCLASS_OF	Klatskin tumor	133-147	DISO	tumor	142-147	DISO
+27723691_en	SUBCLASS_OF	Klatskin tumor	211-225	DISO	tumor	220-225	DISO
+27723691_en	SUBCLASS_OF	biliary occlusion	700-717	DISO	occlusion	708-717	DISO
+27723691_en	SUBCLASS_OF	advanced biliary peritonitis	846-874	DISO	biliary peritonitis	855-874	DISO
+27723691_en	SUBCLASS_OF	advanced biliary peritonitis	846-874	DISO	peritonitis	863-874	DISO
+27723691_en	SUBCLASS_OF	biliary peritonitis	855-874	DISO	peritonitis	863-874	DISO
+27723691_en	SUBCLASS_OF	Minor complications	906-925	DISO	complications	912-925	DISO
+27723691_en	SUBCLASS_OF	Liver abscesses	1056-1071	DISO	abscesses	1062-1071	DISO
+27723691_en	SUBCLASS_OF	temporary occlusion	1159-1178	DISO	occlusion	1169-1178	DISO
+27723691_en	SUBCLASS_OF	biliary drain	1182-1195	DEVICE	drain	1190-1195	DEVICE
+27723691_en	SUBCLASS_OF	Obstructive jaundice	1247-1267	DISO	jaundice	1259-1267	DISO
+27723691_en	SUBCLASS_OF	Klatskin tumor	1580-1594	DISO	tumor	1589-1594	DISO
+27723692_en	SUBCLASS_OF	advanced suppurative peritonitis	29-61	DISO	suppurative peritonitis	38-61	DISO
+27723692_en	SUBCLASS_OF	advanced suppurative peritonitis	29-61	DISO	peritonitis	50-61	DISO
+27723692_en	SUBCLASS_OF	suppurative peritonitis	38-61	DISO	peritonitis	50-61	DISO
+27723692_en	SUBCLASS_OF	suppurative peritonitis	130-153	DISO	peritonitis	142-153	DISO
+27723692_en	SUBCLASS_OF	acute surgical abdominal diseases	228-261	DISO	surgical abdominal diseases	234-261	DISO
+27723692_en	SUBCLASS_OF	surgical abdominal diseases	234-261	DISO	abdominal diseases	243-261	DISO
+27723692_en	SUBCLASS_OF	advanced suppurative peritonitis	290-322	DISO	suppurative peritonitis	299-322	DISO
+27723692_en	SUBCLASS_OF	suppurative peritonitis	299-322	DISO	peritonitis	311-322	DISO
+27723692_en	SUBCLASS_OF	advanced suppurative peritonitis	523-555	DISO	peritonitis	544-555	DISO
+27723692_en	SUBCLASS_OF	suppurative peritonitis	532-555	DISO	peritonitis	544-555	DISO
+27723692_en	SUBCLASS_OF	advanced suppurative peritonitis	919-951	DISO	peritonitis	940-951	DISO
+27723692_en	SUBCLASS_OF	suppurative peritonitis	928-951	DISO	peritonitis	940-951	DISO
+27723694_en	SUBCLASS_OF	severe ischemia	62-77	DISO	ischemia	69-77	DISO
+27723694_en	SUBCLASS_OF	severe atherosclerotic lesion	144-173	DISO	atherosclerotic lesion	151-173	DISO
+27723694_en	SUBCLASS_OF	atherosclerotic lesion	151-173	DISO	lesion	167-173	DISO
+27723694_en	SUBCLASS_OF	critical ischemia	216-233	DISO	ischemia	225-233	DISO
+27723694_en	SUBCLASS_OF	severe atherosclerotic lesion	347-376	DISO	atherosclerotic lesion	354-376	DISO
+27723694_en	SUBCLASS_OF	severe atherosclerotic lesion	347-376	DISO	lesion	370-376	DISO
+27723694_en	SUBCLASS_OF	atherosclerotic lesion	354-376	DISO	lesion	370-376	DISO
+27723694_en	SUBCLASS_OF	critical lower limb ischemia	413-441	DISO	lower limb ischemia	422-441	DISO
+27723694_en	SUBCLASS_OF	critical lower limb ischemia	413-441	DISO	ischemia	433-441	DISO
+27723694_en	AFFECTS	lower limb ischemia	422-441	DISO	lower limb	422-432	ANATOMY
+27723694_en	SUBCLASS_OF	lower limb ischemia	422-441	DISO	ischemia	433-441	DISO
+27723694_en	SUBCLASS_OF	postoperative complications	797-824	DISO	complications	811-824	DISO
+27723694_en	SUBCLASS_OF	remote thrombosis	835-852	DISO	thrombosis	842-852	DISO
+27723694_en	SUBCLASS_OF	remote thrombosis of graft	835-861	DISO	thrombosis of graft	842-861	DISO
+27723694_en	SUBCLASS_OF	severe ischemia of lower extremities	62-98	DISO	ischemia of lower extremities	69-98	DISO
+27723697_en	SUBCLASS_OF	rectal foreign bodies	82-103	INJURY_POISONING	foreign bodies	89-103	INJURY_POISONING
+27723697_en	SUBCLASS_OF	rectal foreign bodies	165-186	INJURY_POISONING	foreign bodies	172-186	INJURY_POISONING
+27723698_en	SUBCLASS_OF	hemolytic complications	29-52	DISO	complications	39-52	DISO
+27723698_en	SUBCLASS_OF	hemolytic complications	149-172	DISO	complications	159-172	DISO
+27723698_en	SUBCLASS_OF	hemolytic complications	262-285	DISO	complications	272-285	DISO
+27723698_en	SUBCLASS_OF	Hemolytic complications	793-816	DISO	complications	803-816	DISO
+27723698_en	PHYSIOLOGY_OF	Renal function	1029-1043	PHYS	Renal	1029-1034	ANATOMY
+27723700_en	TREATED_USING	enteral insufficiency syndrome	85-115	DISO	serotonin adipate	36-53	CHEM
+27723700_en	SUBCLASS_OF	enteral insufficiency syndrome	85-115	DISO	insufficiency syndrome	93-115	DISO
+27723700_en	SUBCLASS_OF	generalized peritonitis	119-142	DISO	peritonitis	131-142	DISO
+27723700_en	ABBREVIATION	enteral insufficiency syndrome	295-325	DISO	EIN	327-330	DISO
+27723700_en	SUBCLASS_OF	enteral insufficiency syndrome	295-325	DISO	insufficiency syndrome	303-325	DISO
+27723700_en	SUBCLASS_OF	generalized peritonitis	349-372	DISO	peritonitis	361-372	DISO
+27723700_en	ABBREVIATION	generalized peritonitis	349-372	DISO	GP	374-376	DISO
+27723700_en	ABBREVIATION	peritonitis	361-372	DISO	GP	374-376	DISO
+27723700_en	SUBCLASS_OF	systemic inflammatory response	1146-1176	DISO	inflammatory response	1155-1176	DISO
+27723700_en	ABBREVIATION	systemic inflammatory response	1146-1176	DISO	SIR	1178-1181	DISO
+27723700_en	ABBREVIATION	inflammatory response	1155-1176	DISO	SIR	1178-1181	DISO
+27723700_en	PHYSIOLOGY_OF	blood flow	1197-1207	PHYS	blood	1197-1202	ANATOMY
+27723700_en	PHYSIOLOGY_OF	intra-abdominal pressure	1261-1285	PHYS	intra-abdominal	1261-1276	ANATOMY
+27723700_en	PHYSIOLOGY_OF	intraperitoneal perfusion pressure	1310-1344	PHYS	intraperitoneal	1310-1325	ANATOMY
+27723700_en	SUBCLASS_OF	abdominal inflammation	1407-1429	DISO	inflammation	1417-1429	DISO
+27723700_en	SUBCLASS_OF	intra-abdominal hypertension	1741-1769	DISO	hypertension	1757-1769	DISO
+27723700_en	PHYSIOLOGY_OF	blood flow	1798-1808	PHYS	blood	1798-1803	ANATOMY
+27723700_en	SUBCLASS_OF	intestinal paresis	2241-2259	DISO	paresis	2252-2259	DISO
+27723706_en	SUBCLASS_OF	cerebral microbleeds	124-144	INJURY_POISONING	microbleeds	133-144	INJURY_POISONING
+27723706_en	ABBREVIATION	Alzheimer's disease	309-328	DISO	AD	330-332	DISO
+27723706_en	ABBREVIATION	dementia with Lewy bodies	335-360	DISO	DLB	362-365	DISO
+27723706_en	AFFECTS	vascular dementia	371-388	DISO	vascular	371-379	ANATOMY
+27723706_en	SUBCLASS_OF	vascular dementia	371-388	DISO	dementia	380-388	DISO
+27723710_en	ABBREVIATION	cerebrovascular disease	237-260	DISO	CVD	262-265	DISO
+27723710_en	SUBCLASS_OF	mixed dementia	368-382	DISO	dementia	374-382	DISO
+27723710_en	ABBREVIATION	mixed dementia	368-382	DISO	MD	384-386	DISO
+27723710_en	ABBREVIATION	dementia	374-382	DISO	MD	384-386	DISO
+27723710_en	SUBCLASS_OF	vascular dementia	409-426	DISO	dementia	418-426	DISO
+27723710_en	SUBCLASS_OF	vascular dementia	1237-1254	DISO	dementia	1246-1254	DISO
+27723714_en	ABBREVIATION	Parkinson's disease	157-176	DISO	PD	178-180	DISO
+27723714_en	ABBREVIATION	rapid eye movement	611-629	PHYS	REM	631-634	PHYS
+27723714_en	PHYSIOLOGY_OF	eye movement	617-629	PHYS	eye	617-620	ANATOMY
+27723714_en	ABBREVIATION	eye movement	617-629	PHYS	REM	631-634	PHYS
+27723714_en	ABBREVIATION	rapid eye movement (REM) sleep behavior disorder	611-659	DISO	RBD	661-664	DISO
+27723714_en	SUBCLASS_OF	night cramps	667-679	PHYS	cramps	673-679	PHYS
+27723714_en	ABBREVIATION	REM-sleep behavior disorder	1055-1082	DISO	RBD	1084-1087	DISO
+27735893_en	SUBCLASS_OF	type 1 diabetes	197-212	DISO	diabetes	204-212	DISO
+27735894_en	ABBREVIATION	insulin-like growth factor 1	820-848	CHEM	IGF	850-853	CHEM
+27735898_en	SUBCLASS_OF	cerebral venous dystonia	286-310	DISO	dystonia	302-310	DISO
+27735898_en	SUBCLASS_OF	cerebral venous dystonia	286-310	DISO	venous dystonia	295-310	DISO
+27735898_en	PHYSIOLOGY_OF	cerebral blood circulation	433-459	PHYS	cerebral	433-441	ANATOMY
+27735898_en	PHYSIOLOGY_OF	cerebral blood circulation	433-459	PHYS	cerebral blood	433-447	ANATOMY
+27735898_en	PHYSIOLOGY_OF	blood circulation	442-459	PHYS	blood	442-447	ANATOMY
+27735901_en	ABBREVIATION	brain isoform creatine phosphokinase	100-136	CHEM	CPK B	138-143	CHEM
+27735901_en	ABBREVIATION	isoform creatine phosphokinase	106-136	CHEM	CPK B	138-143	CHEM
+27735901_en	ABBREVIATION	creatine phosphokinase	114-136	CHEM	CPK B	138-143	CHEM
+27735901_en	ABBREVIATION	schizophrenia	199-212	DISO	Sch	214-217	DISO
+27735906_en	SUBCLASS_OF	neuropathic pain	573-589	DISO	pain	585-589	DISO
+27735906_en	AFFECTS	cerebral disease	602-618	DISO	cerebral	602-610	ANATOMY
+27735909_en	SUBCLASS_OF	chronic decompensated heart failure	114-149	DISO	decompensated heart failure	122-149	DISO
+27735909_en	SUBCLASS_OF	chronic decompensated heart failure	114-149	DISO	heart failure	136-149	DISO
+27735909_en	SUBCLASS_OF	decompensated heart failure	122-149	DISO	heart failure	136-149	DISO
+27735909_en	ABBREVIATION	community-acquired pneumonia	182-210	DISO	CAP	212-215	DISO
+27735909_en	SUBCLASS_OF	chronic decompensated heart failure	294-329	DISO	decompensated heart failure	302-329	DISO
+27735909_en	SUBCLASS_OF	chronic decompensated heart failure	294-329	DISO	heart failure	316-329	DISO
+27735909_en	ABBREVIATION	chronic decompensated heart failure	294-329	DISO	CDHF	331-335	DISO
+27735909_en	SUBCLASS_OF	decompensated heart failure	302-329	DISO	heart failure	316-329	DISO
+27735909_en	ABBREVIATION	decompensated heart failure	302-329	DISO	CDHF	331-335	DISO
+27735909_en	ABBREVIATION	heart failure	316-329	DISO	CDHF	331-335	DISO
+27735909_en	SUBCLASS_OF	coronary heart disease	686-708	DISO	heart disease	695-708	DISO
+27735909_en	SUBCLASS_OF	chronic obstructive pulmonary disease	733-770	DISO	obstructive pulmonary disease	741-770	DISO
+27735910_en	SUBCLASS_OF	hospital-acquired deep vein thrombosis	31-69	DISO	deep vein thrombosis	49-69	DISO
+27735910_en	SUBCLASS_OF	hospital-acquired deep vein thrombosis	31-69	DISO	thrombosis	59-69	DISO
+27735910_en	SUBCLASS_OF	deep vein thrombosis	49-69	DISO	thrombosis	59-69	DISO
+27735910_en	SUBCLASS_OF	pulmonary thromboembolism	74-99	DISO	thromboembolism	84-99	DISO
+27735910_en	ABBREVIATION	hospital-acquired venous thromboembolic events	143-189	DISO	HA-VTE	191-197	DISO
+27735910_en	SUBCLASS_OF	venous thromboembolic events	161-189	DISO	thromboembolic events	168-189	DISO
+27735910_en	ABBREVIATION	venous thromboembolic events	161-189	DISO	HA-VTE	191-197	DISO
+27735910_en	SUBCLASS_OF	HA-VTE	331-337	DISO	VTE	334-337	DISO
+27735910_en	SUBCLASS_OF	HA-VTE	504-510	DISO	VTE	507-510	DISO
+27735910_en	SUBCLASS_OF	HA-VTE	570-576	DISO	VTE	573-576	DISO
+27735910_en	SUBCLASS_OF	HA-VTE	675-681	DISO	VTE	678-681	DISO
+27735910_en	SUBCLASS_OF	HA-VTE	703-709	DISO	VTE	706-709	DISO
+27735910_en	SUBCLASS_OF	HA-VTE	792-798	DISO	VTE	795-798	DISO
+27735910_en	SUBCLASS_OF	HA-VTE	904-910	DISO	VTE	907-910	DISO
+27735910_en	SUBCLASS_OF	HA-VTE	959-965	DISO	VTE	962-965	DISO
+27735910_en	SUBCLASS_OF	postoperative VTE	1273-1290	DISO	VTE	1287-1290	DISO
+27735910_en	SUBCLASS_OF	HA-VTE	1388-1394	DISO	VTE	1391-1394	DISO
+27735910_en	SUBCLASS_OF	HA-VTE	1550-1556	DISO	VTE	1553-1556	DISO
+27735912_en	SUBCLASS_OF	acute coronary syndrome	97-120	DISO	coronary syndrome	103-120	DISO
+27735912_en	AFFECTS	coronary syndrome	103-120	DISO	coronary	103-111	ANATOMY
+27735912_en	SUBCLASS_OF	acute coronary syndrome	403-426	DISO	coronary syndrome	409-426	DISO
+27735912_en	ABBREVIATION	acute coronary syndrome	403-426	DISO	ACS	428-431	DISO
+27735912_en	AFFECTS	coronary syndrome	409-426	DISO	coronary	409-417	ANATOMY
+27735912_en	ABBREVIATION	coronary syndrome	409-426	DISO	ACS	428-431	DISO
+27735912_en	SUBCLASS_OF	acute myocardial infarction	700-727	DISO	myocardial infarction	706-727	DISO
+27735912_en	SUBCLASS_OF	acute myocardial infarction	700-727	DISO	infarction	717-727	DISO
+27735912_en	AFFECTS	myocardial infarction	706-727	DISO	myocardial	706-716	ANATOMY
+27735912_en	SUBCLASS_OF	massive bleeding	741-757	INJURY_POISONING	bleeding	749-757	INJURY_POISONING
+27735912_en	SUBCLASS_OF	untimely death	919-933	PHYS	death	928-933	PHYS
+27735915_en	SUBCLASS_OF	Stage II essential hypertension	238-269	DISO	essential hypertension	247-269	DISO
+27735915_en	SUBCLASS_OF	Stage II essential hypertension	238-269	DISO	hypertension	257-269	DISO
+27735915_en	SUBCLASS_OF	essential hypertension	247-269	DISO	hypertension	257-269	DISO
+27735915_en	ABBREVIATION	blood pressure	282-296	PHYS	BP	298-300	PHYS
+27735917_en	SUBCLASS_OF	obstructive sleep apnea syndrome	67-99	DISO	sleep apnea syndrome	79-99	DISO
+27735917_en	ABBREVIATION	obstructive sleep apnea syndrome	166-198	DISO	OSAS	200-204	DISO
+27735917_en	SUBCLASS_OF	obstructive sleep apnea syndrome	166-198	DISO	sleep apnea syndrome	178-198	DISO
+27735917_en	SUBCLASS_OF	sleep apnea	178-189	DISO	apnea	184-189	DISO
+27735917_en	ABBREVIATION	body mass index	389-404	PHYS	BMI	406-409	PHYS
+27735917_en	SUBCLASS_OF	sleep apnea	510-521	DISO	apnea	516-521	DISO
+27735917_en	SUBCLASS_OF	daytime hypersomnia	527-546	DISO	hypersomnia	535-546	DISO
+27735917_en	ABBREVIATION	rapid eye movement	1504-1522	PHYS	REM	1524-1527	PHYS
+27735917_en	ABBREVIATION	sleep apnea syndrome	178-198	DISO	OSAS	200-204	DISO
+27735917_en	SUBCLASS_OF	alpha-delta sleep	1410-1427	PHYS	sleep	1422-1427	PHYS
+27735918_en	SUBCLASS_OF	Nonalcoholic steatohepatitis	1-29	DISO	steatohepatitis	14-29	DISO
+27735918_en	ABBREVIATION	biliary sludge	120-134	DISO	BS	136-138	DISO
+27735918_en	SUBCLASS_OF	nonalcoholic steatohepatitis	208-236	DISO	steatohepatitis	221-236	DISO
+27735918_en	ABBREVIATION	nonalcoholic steatohepatitis	208-236	DISO	NASH	238-242	DISO
+27735918_en	ABBREVIATION	metabolic syndrome	270-288	DISO	MS	290-292	DISO
+27735920_en	SUBCLASS_OF	chronic thromboembolic pulmonary hypertension	56-101	DISO	thromboembolic pulmonary hypertension	64-101	DISO
+27735920_en	ABBREVIATION	thromboembolic pulmonary hypertension	121-158	DISO	CTEPH	160-165	DISO
+27735920_en	SUBCLASS_OF	precapillary pulmonary hypertension	170-205	DISO	pulmonary hypertension	183-205	DISO
+27735920_en	PHYSIOLOGY_OF	PA pressure	418-429	PHYS	PA	418-420	ANATOMY
+27735920_en	SUBCLASS_OF	right cardiac dysfunction	461-486	DISO	cardiac dysfunction	467-486	DISO
+27735920_en	AFFECTS	heart failure	491-504	DISO	heart	491-496	ANATOMY
+27801396_en	SUBCLASS_OF	giant intracranial aneurysms	99-127	DISO	intracranial aneurysms	105-127	DISO
+27801396_en	SUBCLASS_OF	intracranial aneurysms	352-374	DISO	aneurysms	365-374	DISO
+27801396_en	SUBCLASS_OF	Postoperative complications	912-939	DISO	complications	926-939	DISO
+27801397_en	SUBCLASS_OF	unruptured asymptomatic aneurysms	126-159	DISO	asymptomatic aneurysms	137-159	DISO
+27801397_en	SUBCLASS_OF	unruptured asymptomatic aneurysms	126-159	DISO	aneurysms	150-159	DISO
+27801397_en	ABBREVIATION	unruptured asymptomatic aneurysms	126-159	DISO	UAAs	161-165	DISO
+27801397_en	SUBCLASS_OF	asymptomatic aneurysms	137-159	DISO	aneurysms	150-159	DISO
+27801397_en	ABBREVIATION	asymptomatic aneurysms	137-159	DISO	UAAs	161-165	DISO
+27801397_en	ABBREVIATION	aneurysms	150-159	DISO	UAAs	161-165	DISO
+27801397_en	SUBCLASS_OF	Multiple aneurysms	542-560	DISO	aneurysms	551-560	DISO
+27801397_en	SUBCLASS_OF	middle cerebral artery (MCA) aneurysms	716-754	DISO	aneurysms	745-754	DISO
+27801397_en	SUBCLASS_OF	cerebral aneurysms	1502-1520	DISO	aneurysms	1511-1520	DISO
+27801397_en	SUBCLASS_OF	ICA aneurysms	1623-1636	DISO	aneurysms	1627-1636	DISO
+27801397_en	SUBCLASS_OF	MCA aneurysms	1703-1716	DISO	aneurysms	1707-1716	DISO
+27801397_en	SUBCLASS_OF	middle age	1266-1276	PHYS	age	1273-1276	PHYS
+27801398_en	SUBCLASS_OF	«Mirror» aneurysms	23-41	DISO	aneurysms	32-41	DISO
+27801398_en	SUBCLASS_OF	mirror aneurysms	119-137	DISO	aneurysms	128-137	DISO
+27801398_en	SUBCLASS_OF	mirror aneurysms	438-454	DISO	aneurysms	445-454	DISO
+27801398_en	SUBCLASS_OF	bilateral aneurysms	603-622	DISO	aneurysms	613-622	DISO
+27801398_en	SUBCLASS_OF	mirror cerebral aneurysms	1593-1618	DISO	cerebral aneurysms	1600-1618	DISO
+27801398_en	SUBCLASS_OF	mirror cerebral aneurysms	1593-1618	DISO	aneurysms	1609-1618	DISO
+27801398_en	SUBCLASS_OF	mirror aneurysms	1859-1875	DISO	aneurysms	1866-1875	DISO
+27801401_en	SUBCLASS_OF	symptomatic occlusion	59-80	DISO	occlusion	71-80	DISO
+27801401_en	SUBCLASS_OF	unilateral internal carotid artery occlusion	180-224	DISO	internal carotid artery occlusion	191-224	DISO
+27801401_en	SUBCLASS_OF	unilateral internal carotid artery occlusion	180-224	DISO	occlusion	215-224	DISO
+27801401_en	SUBCLASS_OF	unilateral ICA occlusions	399-424	DISO	ICA occlusions	410-424	DISO
+27801401_en	SUBCLASS_OF	unilateral ICA occlusions	399-424	DISO	occlusions	414-424	DISO
+27801401_en	SUBCLASS_OF	symptomatic ICA occlusions	1328-1354	DISO	ICA occlusions	1340-1354	DISO
+27801401_en	AFFECTS	ICA occlusions	1340-1354	DISO	ICA	1340-1343	ANATOMY
+27801401_en	SUBCLASS_OF	ICA occlusions	1340-1354	DISO	occlusions	1344-1354	DISO
+27801401_en	PHYSIOLOGY_OF	blood transit	1378-1391	PHYS	blood	1378-1383	ANATOMY
+27801403_en	SUBCLASS_OF	posterior cranial fossa tumors	82-112	DISO	cranial fossa tumors	92-112	DISO
+27801403_en	SUBCLASS_OF	posterior cranial fossa tumors	82-112	DISO	tumors	106-112	DISO
+27801403_en	SUBCLASS_OF	surgical wound	427-441	INJURY_POISONING	wound	436-441	INJURY_POISONING
+27801403_en	SUBCLASS_OF	nasal liquorrhea	472-488	DISO	liquorrhea	478-488	DISO
+27801403_en	SUBCLASS_OF	surgical injury	579-594	INJURY_POISONING	injury	588-594	INJURY_POISONING
+27801403_en	SUBCLASS_OF	nasal liquorrhea	1489-1505	DISO	liquorrhea	1495-1505	DISO
+27801404_en	SUBCLASS_OF	chronic somatic diseases	104-128	DISO	somatic diseases	112-128	DISO
+27801404_en	SUBCLASS_OF	chronic somatic diseases	352-376	DISO	somatic diseases	360-376	DISO
+27801404_en	ABBREVIATION	chronic somatic diseases	352-376	DISO	CSD	378-381	DISO
+27801404_en	ABBREVIATION	somatic diseases	360-376	DISO	CSD	378-381	DISO
+27801405_en	SUBCLASS_OF	multiple sclerosis	164-182	DISO	sclerosis	173-182	DISO
+27801405_en	SUBCLASS_OF	multiple sclerosis	243-261	DISO	sclerosis	252-261	DISO
+27801405_en	SUBCLASS_OF	multiple sclerosis	742-760	DISO	sclerosis	751-760	DISO
+27801405_en	SUBCLASS_OF	secondary-progressive multiple sclerosis	808-848	DISO	multiple sclerosis	830-848	DISO
+27801405_en	SUBCLASS_OF	multiple sclerosis	830-848	DISO	sclerosis	839-848	DISO
+27801405_en	AFFECTS	dysfunction	2085-2096	DISO	pelvic organs	2104-2117	ANATOMY
+27801405_en	SUBCLASS_OF	secondary-progressive multiple sclerosis	2386-2426	DISO	multiple sclerosis	2408-2426	DISO
+27801405_en	SUBCLASS_OF	multiple sclerosis	2408-2426	DISO	sclerosis	2417-2426	DISO
+27801405_en	AFFECTS	dysfunction of the pelvic organs	2085-2117	DISO	pelvic organs	2104-2117	ANATOMY
+27801407_en	SUBCLASS_OF	chronic endometritis	135-155	DISO	endometritis	143-155	DISO
+27801407_en	SUBCLASS_OF	chronic endometritis	288-308	DISO	endometritis	296-308	DISO
+27801407_en	SUBCLASS_OF	chronic endometritis	570-590	DISO	endometritis	578-590	DISO
+27801407_en	SUBCLASS_OF	partial remission	607-624	PHYS	remission	615-624	PHYS
+27801407_en	SUBCLASS_OF	chronic endometritis	1764-1784	DISO	endometritis	1772-1784	DISO
+27801408_en	AFFECTS	cerebral palsy	66-80	DISO	cerebral	66-74	ANATOMY
+27801408_en	SUBCLASS_OF	cerebral palsy	66-80	DISO	palsy	75-80	DISO
+27801408_en	SUBCLASS_OF	cerebral palsy	235-249	DISO	palsy	244-249	DISO
+27801408_en	ABBREVIATION	cerebral palsy	235-249	DISO	CP	251-253	DISO
+27801408_en	SUBCLASS_OF	cerebral palsy	644-658	DISO	palsy	653-658	DISO
+27801408_en	SUBCLASS_OF	cerebral palsy	1987-2001	DISO	palsy	1996-2001	DISO
+27801408_en	SUBCLASS_OF	vertical posture	586-602	PHYS	posture	595-602	PHYS
+27801408_en	ABBREVIATION	center of pressure	1608-1626	PHYS	COP	1628-1631	PHYS
+27801414_en	SUBCLASS_OF	morbidly obese	46-60	DISO	obese	55-60	DISO
+27801414_en	SUBCLASS_OF	morbid obesity	283-297	DISO	obesity	290-297	DISO
+27801414_en	ABBREVIATION	morbid obesity	283-297	DISO	MO	299-301	DISO
+27801414_en	SUBCLASS_OF	type 2 diabetes mellitus	481-505	DISO	diabetes mellitus	488-505	DISO
+27801414_en	ABBREVIATION	type 2 diabetes mellitus	481-505	DISO	T2DM	507-511	DISO
+27801414_en	ABBREVIATION	diabetes mellitus	488-505	DISO	T2DM	507-511	DISO
+27801414_en	ABBREVIATION	immunoreactive insulin	883-905	CHEM	IRI	907-910	CHEM
+27801414_en	ABBREVIATION	insulin	898-905	CHEM	IRI	907-910	CHEM
+27801414_en	ABBREVIATION	glucose-dependent insulinotropic polypeptide	946-990	CHEM	GIP	992-995	CHEM
+27801415_en	SUBCLASS_OF	diabetic foot syndrome	265-287	DISO	foot syndrome	274-287	DISO
+27801415_en	ABBREVIATION	diabetic foot syndrome	265-287	DISO	DFS	289-292	DISO
+27801415_en	SUBCLASS_OF	critical ischemia	732-749	DISO	ischemia	741-749	DISO
+27801417_en	SUBCLASS_OF	type 2 diabetes mellitus	61-85	DISO	diabetes mellitus	68-85	DISO
+27801417_en	ABBREVIATION	acute-phase proteins	227-247	CHEM	APPs	249-253	CHEM
+27801417_en	ABBREVIATION	proteins	239-247	CHEM	APPs	249-253	CHEM
+27801417_en	ABBREVIATION	blood glucose	302-315	CHEM	BG	317-319	CHEM
+27801417_en	ABBREVIATION	glucose	308-315	CHEM	BG	317-319	CHEM
+27801417_en	SUBCLASS_OF	type 2 diabetes mellitus	348-372	DISO	diabetes mellitus	355-372	DISO
+27801417_en	ABBREVIATION	type 2 diabetes mellitus	348-372	DISO	T2DM	374-378	DISO
+27801417_en	ABBREVIATION	high-sensitivity C-reactive protein	542-577	CHEM	hs-CRP	579-585	CHEM
+27801417_en	ABBREVIATION	C-reactive protein	559-577	CHEM	hs-CRP	579-585	CHEM
+27801417_en	SUBCLASS_OF	chronic inflammation	2010-2030	DISO	inflammation	2018-2030	DISO
+27801417_en	ABBREVIATION	body mass index	454-469	PHYS	BMI	471-474	PHYS
+27801417_en	ABBREVIATION	body mass	454-463	PHYS	BMI	471-474	PHYS
+27801418_en	SUBCLASS_OF	Latent autoimmune diabetes	1-27	DISO	autoimmune diabetes	8-27	DISO
+27801418_en	SUBCLASS_OF	type 1 diabetes mellitus	186-210	DISO	diabetes mellitus	193-210	DISO
+27801418_en	ABBREVIATION	type 1 diabetes mellitus	186-210	DISO	T1DM	212-216	DISO
+27801418_en	SUBCLASS_OF	latent autoimmune diabetes	221-247	DISO	autoimmune diabetes	228-247	DISO
+27801418_en	SUBCLASS_OF	latent autoimmune diabetes	221-247	DISO	diabetes	239-247	DISO
+27801418_en	SUBCLASS_OF	autoimmune diabetes	228-247	DISO	diabetes	239-247	DISO
+27801418_en	ABBREVIATION	glutamic acid decarboxylase autoAbs	487-522	CHEM	GADA	524-528	CHEM
+27801418_en	ABBREVIATION	autoAbs	515-522	CHEM	GADA	524-528	CHEM
+27801418_en	SUBCLASS_OF	islet antigen-2 auto-Abs	531-555	CHEM	auto-Abs	547-555	CHEM
+27801418_en	ABBREVIATION	islet antigen-2 auto-Abs	531-555	CHEM	IA-2A	557-562	CHEM
+27801418_en	ABBREVIATION	islet cell cytoplasmic auto-Abs	565-596	CHEM	ICA	598-601	CHEM
+27801418_en	ABBREVIATION	zinc transporter 8 auto-Abs	604-631	CHEM	ZnT8A	633-638	CHEM
+27801418_en	ABBREVIATION	latent autoimmune diabetes of adults	221-257	DISO	LADA	259-263	DISO
+27801418_en	ABBREVIATION	insulin auto-Abs	645-661	CHEM	IAA	663-666	CHEM
+27801418_en	SUBCLASS_OF	insulin auto-Abs	645-661	CHEM	auto-Abs	653-661	CHEM
+27801419_en	PHYSIOLOGY_OF	ovarian reserve	117-132	PHYS	ovarian	117-124	ANATOMY
+27801419_en	SUBCLASS_OF	reproductive-aged	181-198	PHYS	aged	194-198	PHYS
+27801419_en	SUBCLASS_OF	abdominal obesity	210-227	DISO	obesity	220-227	DISO
+27801419_en	ABBREVIATION	body mass index	298-313	PHYS	BMI	315-318	PHYS
+27801419_en	SUBCLASS_OF	abdominal obesity	1777-1794	DISO	obesity	1787-1794	DISO
+27804929_en	SUBCLASS_OF	severe acute pancreatitis	133-158	DISO	acute pancreatitis	140-158	DISO
+27804929_en	SUBCLASS_OF	severe acute pancreatitis	133-158	DISO	pancreatitis	146-158	DISO
+27804929_en	SUBCLASS_OF	acute pancreatitis	140-158	DISO	pancreatitis	146-158	DISO
+27804929_en	SUBCLASS_OF	severe acute pancreatitis	234-259	DISO	acute pancreatitis	241-259	DISO
+27804929_en	SUBCLASS_OF	severe acute pancreatitis	234-259	DISO	pancreatitis	247-259	DISO
+27804929_en	SUBCLASS_OF	acute pancreatitis	241-259	DISO	pancreatitis	247-259	DISO
+27804929_en	SUBCLASS_OF	severe pancreatitis	474-493	DISO	pancreatitis	481-493	DISO
+27804929_en	SUBCLASS_OF	acute pancreatitis	563-581	DISO	pancreatitis	569-581	DISO
+27804929_en	SUBCLASS_OF	aseptic complications	695-716	DISO	complications	703-716	DISO
+27804929_en	SUBCLASS_OF	severe pancreatitis	720-739	DISO	pancreatitis	727-739	DISO
+27804929_en	SUBCLASS_OF	Exocrine insufficiency	754-776	DISO	insufficiency	763-776	DISO
+27804929_en	SUBCLASS_OF	infected complications	847-869	DISO	complications	856-869	DISO
+27804929_en	SUBCLASS_OF	Postoperative hernia	884-904	DISO	hernia	898-904	DISO
+27804929_en	SUBCLASS_OF	Chronic pseudocyst	1066-1084	DISO	pseudocyst	1074-1084	DISO
+27804929_en	SUBCLASS_OF	aseptic complications	1125-1146	DISO	complications	1133-1146	DISO
+27804929_en	SUBCLASS_OF	severe pancreatitis	1150-1169	DISO	pancreatitis	1157-1169	DISO
+27804930_en	SUBCLASS_OF	cicatricial esophageal strictures	25-58	DISO	esophageal strictures	37-58	DISO
+27804930_en	SUBCLASS_OF	cicatricial esophageal strictures	25-58	DISO	esophageal strictures	37-58	DISO
+27804930_en	SUBCLASS_OF	benign cicatricial esophageal strictures	161-201	DISO	cicatricial esophageal strictures	168-201	DISO
+27804930_en	SUBCLASS_OF	Esophageal stenosis	409-428	DISO	stenosis	420-428	DISO
+27804930_en	SUBCLASS_OF	prolonged stenoses	469-487	DISO	stenoses	479-487	DISO
+27804930_en	SUBCLASS_OF	Peptic stenoses	565-580	DISO	stenoses	572-580	DISO
+27804930_en	SUBCLASS_OF	peptic ulcers	839-852	DISO	ulcers	846-852	DISO
+27804934_en	SUBCLASS_OF	obstructive jaundice	102-122	DISO	jaundice	114-122	DISO
+27804934_en	SUBCLASS_OF	obstructive jaundice syndrome	234-263	DISO	jaundice syndrome	246-263	DISO
+27804934_en	SUBCLASS_OF	obstructive jaundice	581-601	DISO	jaundice	593-601	DISO
+27804934_en	SUBCLASS_OF	obstructive jaundice	777-797	DISO	jaundice	789-797	DISO
+27804934_en	SUBCLASS_OF	postoperative complications	954-981	DISO	complications	968-981	DISO
+27804934_en	SUBCLASS_OF	mechanical jaundice	38-57	DISO	jaundice	49-57	DISO
+27804936_en	SUBCLASS_OF	lung lesions	180-192	DISO	lesions	185-192	DISO
+27804936_en	SUBCLASS_OF	pathological lung lesions	270-295	DISO	lung lesions	283-295	DISO
+27804936_en	SUBCLASS_OF	pathological lung lesions	270-295	DISO	lesions	288-295	DISO
+27804936_en	SUBCLASS_OF	lung lesions	283-295	DISO	lesions	288-295	DISO
+27804936_en	SUBCLASS_OF	lung cancer	638-649	DISO	cancer	643-649	DISO
+27804936_en	SUBCLASS_OF	benign tumours	663-677	DISO	tumours	670-677	DISO
+27804936_en	SUBCLASS_OF	disseminated tuberculosis	727-752	DISO	tuberculosis	740-752	DISO
+27804936_en	SUBCLASS_OF	solitary lung formation	1018-1041	DISO	lung formation	1027-1041	DISO
+27804936_en	SUBCLASS_OF	Small pulmonary formations	797-823	DISO	pulmonary formations	803-823	DISO
+27804937_en	TREATED_USING	venous thromboembolism	45-67	DISO	Rivaroxaban	1-12	CHEM
+27804937_en	SUBCLASS_OF	venous thromboembolism	45-67	DISO	thromboembolism	52-67	DISO
+27804937_en	SUBCLASS_OF	Venous thromboembolism	70-92	DISO	thromboembolism	77-92	DISO
+27804937_en	TREATED_USING	VTE	932-935	DISO	rivaroxaban	917-928	CHEM
+27804939_en	SUBCLASS_OF	retrochorial hematoma	119-140	DISO	hematoma	132-140	DISO
+27804939_en	SUBCLASS_OF	retrochorial hematoma	235-256	DISO	hematoma	248-256	DISO
+27804939_en	ABBREVIATION	retrochorial hematoma	235-256	DISO	RCH	258-261	DISO
+27804939_en	ABBREVIATION	coagulation factor	528-546	CHEM	CF	548-550	CHEM
+27804940_en	SUBCLASS_OF	prostatic neoplasms	70-89	DISO	neoplasms	80-89	DISO
+27804940_en	SUBCLASS_OF	Prostate cancer	93-108	DISO	cancer	102-108	DISO
+27804940_en	SUBCLASS_OF	high-grade prostatic intraepithelial neoplasia	298-344	DISO	prostatic intraepithelial neoplasia	309-344	DISO
+27804940_en	SUBCLASS_OF	high-grade prostatic intraepithelial neoplasia	298-344	DISO	intraepithelial neoplasia	319-344	DISO
+27804940_en	SUBCLASS_OF	prostatic intraepithelial neoplasia	309-344	DISO	intraepithelial neoplasia	319-344	DISO
+27804940_en	SUBCLASS_OF	prostatic neoplasias	794-814	DISO	neoplasias	804-814	DISO
+27804940_en	SUBCLASS_OF	prostate cancer	864-879	DISO	cancer	873-879	DISO
+27804940_en	SUBCLASS_OF	prostatic neoplasms	1941-1960	DISO	neoplasms	1951-1960	DISO
+27804941_en	SUBCLASS_OF	focal epithelial hyperplasia	457-485	DISO	epithelial hyperplasia	463-485	DISO
+27804941_en	SUBCLASS_OF	focal epithelial hyperplasia	457-485	DISO	hyperplasia	474-485	DISO
+27804941_en	SUBCLASS_OF	squamous intraepithelial neoplasia	518-552	DISO	intraepithelial neoplasia	527-552	DISO
+27804941_en	SUBCLASS_OF	squamous intraepithelial neoplasia	518-552	DISO	neoplasia	543-552	DISO
+27804941_en	ABBREVIATION	squamous intraepithelial neoplasia	518-552	DISO	SIN	554-557	DISO
+27804941_en	SUBCLASS_OF	squamous cell carcinoma	578-601	DISO	carcinoma	592-601	DISO
+27804942_en	SUBCLASS_OF	dysplastic coxarthrosis	1519-1542	DISO	coxarthrosis	1530-1542	DISO
+27804942_en	SUBCLASS_OF	posttraumatic coxarthrosis	1750-1776	DISO	coxarthrosis	1764-1776	DISO
+27804942_en	SUBCLASS_OF	postischemic coxarthrosis	1781-1806	DISO	coxarthrosis	1794-1806	DISO
+27804946_en	SUBCLASS_OF	Parosteal osseous lipoma	1-25	DISO	osseous lipoma	11-25	DISO
+27804946_en	SUBCLASS_OF	Parosteal osseous lipoma	1-25	DISO	lipoma	19-25	DISO
+27804946_en	SUBCLASS_OF	parosteal lipoma	137-153	DISO	lipoma	147-153	DISO
+27804946_en	SUBCLASS_OF	osseous sialolipoma	1028-1047	DISO	sialolipoma	1036-1047	DISO
+27821883_en	SUBCLASS_OF	common injury	683-696	INJURY_POISONING	injury	690-696	INJURY_POISONING
+27821883_en	SUBCLASS_OF	Long-term disability	1381-1401	DISO	disability	1391-1401	DISO
+27845310_en	ABBREVIATION	mental retardation	168-186	DISO	MR	188-190	DISO
+27845310_en	SUBCLASS_OF	young adulthood	491-506	PHYS	adulthood	497-506	PHYS
+27845310_en	SUBCLASS_OF	chronic mental disorders	749-773	DISO	mental disorders	757-773	DISO
+27845310_en	SUBCLASS_OF	mild MR	942-949	DISO	MR	947-949	DISO
+27845310_en	SUBCLASS_OF	moderate mental retardation	1066-1093	DISO	mental retardation	1075-1093	DISO
+27845314_en	SUBCLASS_OF	hemispheric ischemic stroke	56-83	DISO	ischemic stroke	68-83	DISO
+27845314_en	SUBCLASS_OF	hemispheric ischemic stroke	268-295	DISO	ischemic stroke	280-295	DISO
+27845314_en	SUBCLASS_OF	hemispheric ischemic stroke	354-381	DISO	ischemic stroke	366-381	DISO
+27845314_en	SUBCLASS_OF	hemispheric ischemic stroke	354-381	DISO	stroke	375-381	DISO
+27845314_en	SUBCLASS_OF	ischemic stroke	1122-1137	DISO	stroke	1131-1137	DISO
+27845315_en	TREATED_USING	endogenous depression	40-61	DISO	Agomelatine	1-12	CHEM
+27845315_en	SUBCLASS_OF	endogenous depression	40-61	DISO	depression	51-61	DISO
+27845315_en	SUBCLASS_OF	endogenous depressions	206-228	DISO	depressions	217-228	DISO
+27845320_en	SUBCLASS_OF	mild brain injury	51-68	INJURY_POISONING	brain injury	56-68	INJURY_POISONING
+27845320_en	AFFECTS	brain injury	56-68	INJURY_POISONING	brain	56-61	ANATOMY
+27845320_en	PHYSIOLOGY_OF	cerebral blood flow	136-155	PHYS	cerebral	136-144	ANATOMY
+27845320_en	PHYSIOLOGY_OF	cerebral blood flow	136-155	PHYS	cerebral blood	136-150	ANATOMY
+27845320_en	PHYSIOLOGY_OF	blood flow	145-155	PHYS	blood	145-150	ANATOMY
+27845320_en	SUBCLASS_OF	mild cerebral concussion	173-197	INJURY_POISONING	cerebral concussion	178-197	INJURY_POISONING
+27845320_en	SUBCLASS_OF	mild cerebral concussion	173-197	INJURY_POISONING	concussion	187-197	INJURY_POISONING
+27845320_en	AFFECTS	cerebral concussion	178-197	INJURY_POISONING	cerebral	178-186	ANATOMY
+27845320_en	SUBCLASS_OF	cerebral concussion	178-197	INJURY_POISONING	concussion	187-197	INJURY_POISONING
+27845320_en	SUBCLASS_OF	mild cranial/brain injury	363-388	INJURY_POISONING	cranial/brain injury	368-388	INJURY_POISONING
+27845320_en	ABBREVIATION	mild cranial/brain injury	363-388	INJURY_POISONING	CBI	390-393	INJURY_POISONING
+27845320_en	SUBCLASS_OF	mild cranial/brain injury	363-388	INJURY_POISONING	injury	382-388	INJURY_POISONING
+27845320_en	ABBREVIATION	cranial/brain injury	368-388	INJURY_POISONING	CBI	390-393	INJURY_POISONING
+27845320_en	PHYSIOLOGY_OF	blood flow	701-711	PHYS	blood	701-706	ANATOMY
+27845320_en	SUBCLASS_OF	generalized vasospasm	762-783	DISO	vasospasm	774-783	DISO
+27845320_en	PHYSIOLOGY_OF	blood flow	874-884	PHYS	blood	874-879	ANATOMY
+27845320_en	SUBCLASS_OF	mild brain injury	975-992	INJURY_POISONING	brain injury	980-992	INJURY_POISONING
+27845320_en	SUBCLASS_OF	brain injury	980-992	INJURY_POISONING	injury	986-992	INJURY_POISONING
+27876718_en	SUBCLASS_OF	herpetic stomatitis	29-48	DISO	stomatitis	38-48	DISO
+27876718_en	SUBCLASS_OF	acute respiratory viral infections	125-159	DISO	respiratory viral infections	131-159	DISO
+27876718_en	SUBCLASS_OF	recurrent herpetic stomatitis	239-268	DISO	herpetic stomatitis	249-268	DISO
+27876718_en	SUBCLASS_OF	herpetic stomatitis	249-268	DISO	stomatitis	258-268	DISO
+27876718_en	SUBCLASS_OF	acute respiratory viral infections	345-379	DISO	respiratory viral infections	351-379	DISO
+27876718_en	SUBCLASS_OF	recurrent herpetic stomatitis	513-542	DISO	herpetic stomatitis	523-542	DISO
+27876718_en	SUBCLASS_OF	recurrent herpetic stomatitis	513-542	DISO	stomatitis	532-542	DISO
+27876718_en	SUBCLASS_OF	herpetic stomatitis	523-542	DISO	stomatitis	532-542	DISO
+27876718_en	PHYSIOLOGY_OF	oral cavity local immunity	570-596	PHYS	oral	570-574	ANATOMY
+27876718_en	PHYSIOLOGY_OF	oral cavity local immunity	570-596	PHYS	oral cavity	570-581	ANATOMY
+27876718_en	SUBCLASS_OF	recurrent herpetic stomatitis	934-963	DISO	herpetic stomatitis	944-963	DISO
+27876718_en	SUBCLASS_OF	recurrent herpetic stomatitis	934-963	DISO	stomatitis	953-963	DISO
+27876718_en	SUBCLASS_OF	herpetic stomatitis	944-963	DISO	stomatitis	953-963	DISO
+27876742_en	SUBCLASS_OF	unilateral vocal fold paresis	55-84	DISO	vocal fold paresis	66-84	DISO
+27876742_en	SUBCLASS_OF	unilateral vocal fold paresis	55-84	DISO	paresis	77-84	DISO
+27876742_en	SUBCLASS_OF	Unilateral vocal fold paresis	99-128	DISO	vocal fold paresis	110-128	DISO
+27876743_en	SUBCLASS_OF	viral infection	135-150	DISO	infection	141-150	DISO
+27876743_en	SUBCLASS_OF	inflammatory nasopharyngeal pathology	199-236	DISO	nasopharyngeal pathology	212-236	DISO
+27876743_en	SUBCLASS_OF	chronic adenoiditis	292-311	DISO	adenoiditis	300-311	DISO
+27876743_en	SUBCLASS_OF	Acute adenoiditis	374-391	DISO	adenoiditis	380-391	DISO
+27876743_en	SUBCLASS_OF	acute nasopharyngitis	425-446	DISO	nasopharyngitis	431-446	DISO
+27876743_en	SUBCLASS_OF	acute respiratory viral infection	456-489	DISO	respiratory viral infection	462-489	DISO
+27876743_en	SUBCLASS_OF	respiratory viral infection	462-489	DISO	viral infection	474-489	DISO
+27876743_en	SUBCLASS_OF	respiratory viral infection	462-489	DISO	infection	480-489	DISO
+27876743_en	SUBCLASS_OF	chronic adenoiditis	506-525	DISO	adenoiditis	514-525	DISO
+27876743_en	SUBCLASS_OF	respiratory viral infection	738-765	DISO	viral infection	750-765	DISO
+27876743_en	SUBCLASS_OF	acute adenoiditis	873-890	DISO	adenoiditis	879-890	DISO
+27876743_en	SUBCLASS_OF	chronic adenoiditis	1594-1613	DISO	adenoiditis	1602-1613	DISO
+27876743_en	SUBCLASS_OF	chronic rhinosinusitis	1710-1732	DISO	rhinosinusitis	1718-1732	DISO
+27876743_en	AFFECTS	inflammatory changes	1753-1773	DISO	nasopharynx	1781-1792	ANATOMY
+27876743_en	SUBCLASS_OF	chronic adenoiditis	1829-1848	DISO	adenoiditis	1837-1848	DISO
+27876743_en	SUBCLASS_OF	nasopharyngeal adenoiditis	2025-2051	DISO	adenoiditis	2040-2051	DISO
+27876743_en	AFFECTS	inflammatory	1753-1765	DISO	nasopharynx	1781-1792	ANATOMY
+27905367_en	SUBCLASS_OF	pancreatic cancer	41-58	DISO	cancer	52-58	DISO
+27905367_en	SUBCLASS_OF	severe pain syndrome	63-83	DISO	pain syndrome	70-83	DISO
+27905367_en	SUBCLASS_OF	pancreatic ductal carcinoma	181-208	DISO	ductal carcinoma	192-208	DISO
+27905367_en	SUBCLASS_OF	pancreatic ductal carcinoma	181-208	DISO	carcinoma	199-208	DISO
+27905367_en	SUBCLASS_OF	locally advanced pancreatic ductal carcinoma	898-942	DISO	carcinoma	933-942	DISO
+27905367_en	SUBCLASS_OF	pancreatic ductal carcinoma	915-942	DISO	ductal carcinoma	926-942	DISO
+27905367_en	SUBCLASS_OF	pancreatic ductal carcinoma	915-942	DISO	carcinoma	933-942	DISO
+27905369_en	TREATED_USING	acute pancreatic necrosis	97-122	DISO	sulodexide	35-45	CHEM
+27905369_en	SUBCLASS_OF	acute pancreatic necrosis	97-122	DISO	pancreatic necrosis	103-122	DISO
+27905369_en	SUBCLASS_OF	acute pancreatic necrosis	97-122	DISO	necrosis	114-122	DISO
+27905369_en	SUBCLASS_OF	pancreatic necrosis	103-122	DISO	necrosis	114-122	DISO
+27905369_en	SUBCLASS_OF	acute pancreatic necrosis	181-206	DISO	pancreatic necrosis	187-206	DISO
+27905369_en	SUBCLASS_OF	acute pancreatic necrosis	181-206	DISO	necrosis	198-206	DISO
+27905369_en	SUBCLASS_OF	pancreatic necrosis	187-206	DISO	necrosis	198-206	DISO
+27905369_en	SUBCLASS_OF	thrombotic complications	391-415	DISO	complications	402-415	DISO
+27905369_en	PHYSIOLOGY_OF	tissue perfusion	1368-1384	PHYS	tissue	1368-1374	ANATOMY
+27905369_en	SUBCLASS_OF	acute destructive pancreatitis	1437-1467	DISO	destructive pancreatitis	1443-1467	DISO
+27905369_en	SUBCLASS_OF	destructive pancreatitis	1443-1467	DISO	pancreatitis	1455-1467	DISO
+27905369_en	SUBCLASS_OF	multiple organ failure	1564-1586	DISO	organ failure	1573-1586	DISO
+27905371_en	SUBCLASS_OF	locally advanced colon cancer	15-44	DISO	cancer	38-44	DISO
+27905371_en	SUBCLASS_OF	colon cancer	32-44	DISO	cancer	38-44	DISO
+27905371_en	SUBCLASS_OF	colon cancer	127-139	DISO	cancer	133-139	DISO
+27905371_en	SUBCLASS_OF	local duodenal invasion	691-714	DISO	duodenal invasion	697-714	DISO
+27905371_en	SUBCLASS_OF	colon cancer	718-730	DISO	cancer	724-730	DISO
+27905374_en	AFFECTS	inflammatory diseases	197-218	DISO	mammary ducts	226-239	ANATOMY
+27905374_en	SUBCLASS_OF	periductal mastitis	308-327	DISO	mastitis	319-327	DISO
+27905374_en	SUBCLASS_OF	purulent galactophoritis	352-376	DISO	galactophoritis	361-376	DISO
+27905374_en	SUBCLASS_OF	purulent galactophoritis	392-416	DISO	galactophoritis	401-416	DISO
+27905374_en	SUBCLASS_OF	periductal mastitis	617-636	DISO	mastitis	628-636	DISO
+27905374_en	SUBCLASS_OF	purulent galactophoritis	641-665	DISO	galactophoritis	650-665	DISO
+27905374_en	SUBCLASS_OF	Purulent galactophoritis	681-705	DISO	galactophoritis	690-705	DISO
+27905374_en	SUBCLASS_OF	periductal mastitis	1308-1327	DISO	mastitis	1319-1327	DISO
+27905374_en	SUBCLASS_OF	purulent galactophoritis	1340-1364	DISO	galactophoritis	1349-1364	DISO
+27905374_en	SUBCLASS_OF	purulent galactophoritis	1429-1453	DISO	galactophoritis	1438-1453	DISO
+27905374_en	AFFECTS	inflammatory	197-209	DISO	mammary ducts	226-239	ANATOMY
+27905375_en	SUBCLASS_OF	infectious complications	645-669	DISO	complications	656-669	DISO
+27905382_en	ABBREVIATION	nitric oxide	199-211	CHEM	NO	213-215	CHEM
+27905382_en	SUBCLASS_OF	hypobaric hypoxia	572-589	DISO	hypoxia	582-589	DISO
+27905382_en	SUBCLASS_OF	hypobaric hypoxia	1139-1156	DISO	hypoxia	1149-1156	DISO
+27905383_en	ABBREVIATION	nitric oxide	309-321	CHEM	NO	323-325	CHEM
+27905383_en	SUBCLASS_OF	cerebral ischemia	342-359	DISO	ischemia	351-359	DISO
+27905383_en	SUBCLASS_OF	ischemic stroke	393-408	DISO	stroke	402-408	DISO
+27905384_en	SUBCLASS_OF	cerebral stroke	80-95	DISO	stroke	89-95	DISO
+27905384_en	SUBCLASS_OF	ischemic stroke	220-235	DISO	stroke	229-235	DISO
+27905384_en	SUBCLASS_OF	hemorrhagic stroke	280-298	DISO	stroke	292-298	DISO
+27905384_en	SUBCLASS_OF	ischemic stroke	315-330	DISO	stroke	324-330	DISO
+27905384_en	SUBCLASS_OF	hemorrhagic stroke	986-1004	DISO	stroke	998-1004	DISO
+27905384_en	SUBCLASS_OF	ischemic stroke	1009-1024	DISO	stroke	1018-1024	DISO
+27905384_en	SUBCLASS_OF	ischemic stroke	1192-1207	DISO	stroke	1201-1207	DISO
+27905384_en	AFFECTS	severe vascular process	1270-1293	DISO	vascular	1277-1285	ANATOMY
+27905385_en	SUBCLASS_OF	ischemic stroke	71-86	DISO	stroke	80-86	DISO
+27905385_en	ABBREVIATION	ischemic	236-244	DISO	IS	253-255	DISO
+27905385_en	SUBCLASS_OF	ischemic stroke	236-251	DISO	stroke	245-251	DISO
+27905385_en	ABBREVIATION	ischemic stroke	236-251	DISO	IS	253-255	DISO
+27905385_en	SUBCLASS_OF	cerebral atherosclerosis	1019-1043	DISO	atherosclerosis	1028-1043	DISO
+27905386_en	SUBCLASS_OF	hemispheric ischemic stroke	317-344	DISO	ischemic stroke	329-344	DISO
+27905386_en	SUBCLASS_OF	hemispheric ischemic stroke	317-344	DISO	stroke	338-344	DISO
+27905386_en	SUBCLASS_OF	poluchennym ischemic stroke	404-431	DISO	stroke	425-431	DISO
+27905386_en	SUBCLASS_OF	ischemic stroke	416-431	DISO	stroke	425-431	DISO
+27905386_en	SUBCLASS_OF	frontal dysfunction	834-853	DISO	dysfunction	842-853	DISO
+27911420_en	SUBCLASS_OF	myopic choroidal neovascularization	107-142	DISO	choroidal neovascularization	114-142	DISO
+27911420_en	ABBREVIATION	myopic choroidal neovascularization	107-142	DISO	mCNV	144-148	DISO
+27911420_en	ABBREVIATION	Vascular endothelial growth factor	859-893	CHEM	VEGF	895-899	CHEM
+27911420_en	SUBCLASS_OF	tumor necrosis	1230-1244	DISO	necrosis	1236-1244	DISO
+27911420_en	PHYSIOLOGY_OF	eye length	1522-1532	PHYS	eye	1522-1525	ANATOMY
+27911421_en	SUBCLASS_OF	retinal vein occlusion	112-134	DISO	occlusion	125-134	DISO
+27911421_en	SUBCLASS_OF	retinal vein occlusion	255-277	DISO	occlusion	268-277	DISO
+27911421_en	ABBREVIATION	retinal vein occlusion	255-277	DISO	RVO	279-282	DISO
+27911421_en	SUBCLASS_OF	ischemic central RVO	412-432	DISO	central RVO	421-432	DISO
+27911421_en	SUBCLASS_OF	ischemic central RVO	412-432	DISO	RVO	429-432	DISO
+27911421_en	SUBCLASS_OF	central RVO	421-432	DISO	RVO	429-432	DISO
+27911421_en	SUBCLASS_OF	branch RVO	490-500	DISO	RVO	497-500	DISO
+27911421_en	ABBREVIATION	branch RVO	490-500	DISO	BRVO	502-506	DISO
+27911421_en	SUBCLASS_OF	ischemic CRVO	1059-1072	DISO	CRVO	1068-1072	DISO
+27911421_en	SUBCLASS_OF	non-ischemic BRVO	1139-1156	DISO	BRVO	1152-1156	DISO
+27911421_en	PHYSIOLOGY_OF	blood flow	1310-1320	PHYS	blood	1310-1315	ANATOMY
+27911421_en	SUBCLASS_OF	retinal vein occlusions	2025-2048	DISO	occlusions	2038-2048	DISO
+27911422_en	TO_DETECT_OR_STUDY	optical coherence tomography	25-53	LABPROC	small choroidal melanomas	58-83	DISO
+27911422_en	TO_DETECT_OR_STUDY	optical coherence tomography	25-53	LABPROC	choroidal melanomas	64-83	DISO
+27911422_en	TO_DETECT_OR_STUDY	tomography	43-53	LABPROC	small choroidal melanomas	58-83	DISO
+27911422_en	SUBCLASS_OF	small choroidal melanomas	58-83	DISO	choroidal melanomas	64-83	DISO
+27911422_en	SUBCLASS_OF	small choroidal melanomas	58-83	DISO	melanomas	74-83	DISO
+27911422_en	SUBCLASS_OF	choroidal melanomas	64-83	DISO	melanomas	74-83	DISO
+27911422_en	SUBCLASS_OF	choroidal melanoma	143-161	DISO	melanoma	153-161	DISO
+27911422_en	ABBREVIATION	choroidal melanoma	143-161	DISO	CM	163-165	DISO
+27911422_en	SUBCLASS_OF	medium-sized CM	304-319	DISO	CM	317-319	DISO
+27911422_en	SUBCLASS_OF	small neuroepithelial detachment	942-974	DISO	neuroepithelial detachment	948-974	DISO
+27911422_en	ABBREVIATION	small neuroepithelial detachment	942-974	DISO	NED	976-979	DISO
+27911422_en	ABBREVIATION	neuroepithelial detachment	948-974	DISO	NED	976-979	DISO
+27911422_en	SUBCLASS_OF	choroidal melanoma	1541-1559	DISO	melanoma	1551-1559	DISO
+27911422_en	SUBCLASS_OF	early CM	284-292	DISO	CM	290-292	DISO
+27911422_en	SUBCLASS_OF	early CM	1180-1188	DISO	CM	1186-1188	DISO
+27911423_en	SUBCLASS_OF	thyroid eye disease	65-84	DISO	eye disease	73-84	DISO
+27911423_en	AFFECTS	corneal damage	180-194	DISO	corneal	180-187	ANATOMY
+27911423_en	AFFECTS	thyroid eye disease	212-231	DISO	thyroid	212-219	ANATOMY
+27911423_en	SUBCLASS_OF	thyroid eye disease	212-231	DISO	eye disease	220-231	DISO
+27911423_en	ABBREVIATION	thyroid eye disease	212-231	DISO	TED	233-236	DISO
+27911423_en	AFFECTS	corneal damage	352-366	DISO	corneal	352-359	ANATOMY
+27911423_en	SUBCLASS_OF	orbital inflammation	597-617	DISO	inflammation	605-617	DISO
+27911423_en	AFFECTS	orbital inflammation	844-864	DISO	orbital	844-851	ANATOMY
+27911423_en	SUBCLASS_OF	orbital inflammation	844-864	DISO	inflammation	852-864	DISO
+27911425_en	SUBCLASS_OF	idiopathic epiretinal fibrosis	231-261	DISO	epiretinal fibrosis	242-261	DISO
+27911425_en	SUBCLASS_OF	idiopathic epiretinal fibrosis	231-261	DISO	fibrosis	253-261	DISO
+27911425_en	SUBCLASS_OF	epiretinal fibrosis	242-261	DISO	fibrosis	253-261	DISO
+27911425_en	PHYSIOLOGY_OF	trabecular-ciliary process distance	661-696	PHYS	trabecular	661-671	ANATOMY
+27911425_en	PHYSIOLOGY_OF	fiber length	746-758	PHYS	fiber	746-751	ANATOMY
+27911426_en	SUBCLASS_OF	primary open-angle glaucoma	82-109	DISO	open-angle glaucoma	90-109	DISO
+27911426_en	SUBCLASS_OF	primary open-angle glaucoma	82-109	DISO	glaucoma	101-109	DISO
+27911426_en	SUBCLASS_OF	open-angle glaucoma	90-109	DISO	glaucoma	101-109	DISO
+27911426_en	SUBCLASS_OF	primary open-angle glaucoma	227-254	DISO	open-angle glaucoma	235-254	DISO
+27911426_en	SUBCLASS_OF	primary open-angle glaucoma	227-254	DISO	glaucoma	246-254	DISO
+27911426_en	ABBREVIATION	primary open-angle glaucoma	227-254	DISO	POAG	256-260	DISO
+27911426_en	SUBCLASS_OF	open-angle glaucoma	235-254	DISO	glaucoma	246-254	DISO
+27911426_en	ABBREVIATION	open-angle glaucoma	235-254	DISO	POAG	256-260	DISO
+27911426_en	SUBCLASS_OF	early POAG	524-534	DISO	POAG	530-534	DISO
+27911426_en	SUBCLASS_OF	advanced POAG	590-603	DISO	POAG	599-603	DISO
+27911426_en	SUBCLASS_OF	intraocular lens	824-840	DEVICE	lens	836-840	DEVICE
+27911426_en	ABBREVIATION	intraocular lens	824-840	DEVICE	IOL	842-845	DEVICE
+27911426_en	SUBCLASS_OF	non-glaucoma cataract	1000-1021	DISO	cataract	1013-1021	DISO
+27911432_en	SUBCLASS_OF	chronic allergic blepharoconjunctivitis	70-109	DISO	allergic blepharoconjunctivitis	78-109	DISO
+27911432_en	SUBCLASS_OF	chronic allergic blepharoconjunctivitis	70-109	DISO	blepharoconjunctivitis	87-109	DISO
+27911432_en	SUBCLASS_OF	allergic blepharoconjunctivitis	78-109	DISO	blepharoconjunctivitis	87-109	DISO
+27911432_en	ABBREVIATION	allergic blepharoconjunctivitis	78-109	DISO	ABC	111-114	DISO
+27911432_en	ABBREVIATION	blepharoconjunctivitis	87-109	DISO	ABC	111-114	DISO
+27911432_en	SUBCLASS_OF	compound myopic astigmatism	304-331	DISO	myopic astigmatism	313-331	DISO
+27911432_en	SUBCLASS_OF	compound myopic astigmatism	304-331	DISO	astigmatism	320-331	DISO
+27911432_en	SUBCLASS_OF	myopic astigmatism	313-331	DISO	astigmatism	320-331	DISO
+27911432_en	SUBCLASS_OF	hyperopic astigmatism	350-371	DISO	astigmatism	360-371	DISO
+27911432_en	SUBCLASS_OF	chronic ABC	400-411	DISO	ABC	408-411	DISO
+27911432_en	ABBREVIATION	dry eye syndrome	426-442	DISO	DES	444-447	DISO
+27911432_en	ABBREVIATION	meibomian gland dysfunction	917-944	DISO	MGD	946-949	DISO
+27911432_en	SUBCLASS_OF	Chronic ABC	1395-1406	DISO	ABC	1403-1406	DISO
+27911432_en	PHYSIOLOGY_OF	tear film break-up time	1468-1491	PHYS	tear	1468-1472	ANATOMY
+27911432_en	SUBCLASS_OF	lid wiper epitheliopathy	1567-1591	DISO	epitheliopathy	1577-1591	DISO
+27911432_en	SUBCLASS_OF	chronic ABC	1802-1813	DISO	ABC	1810-1813	DISO
+27935884_en	SUBCLASS_OF	multilevel atherosclerotic lesions	206-240	DISO	atherosclerotic lesions	217-240	DISO
+27935884_en	SUBCLASS_OF	multilevel atherosclerotic lesions	206-240	DISO	lesions	233-240	DISO
+27935884_en	SUBCLASS_OF	chronic ischaemia	265-282	DISO	ischaemia	273-282	DISO
+27935884_en	SUBCLASS_OF	multilevel atherosclerotic lesions	417-451	DISO	atherosclerotic lesions	428-451	DISO
+27935884_en	SUBCLASS_OF	multilevel atherosclerotic lesions	417-451	DISO	lesions	444-451	DISO
+27935884_en	SUBCLASS_OF	ischaemic gangrene	1600-1618	DISO	gangrene	1610-1618	DISO
+27935884_en	SUBCLASS_OF	acute myocardial infarction	1699-1726	DISO	myocardial infarction	1705-1726	DISO
+27935884_en	SUBCLASS_OF	atherosclerotic lesions	217-240	DISO	lesions	233-240	DISO
+27935885_en	SUBCLASS_OF	abdominal aortic aneurysm	73-98	DISO	aneurysm	90-98	DISO
+27935885_en	SUBCLASS_OF	abdominal aortic aneurysm	158-183	DISO	aneurysm	175-183	DISO
+27935885_en	SUBCLASS_OF	aneurysmatic lesions	212-232	DISO	lesions	225-232	DISO
+27935885_en	SUBCLASS_OF	abdominal aortic aneurysms	287-313	DISO	aortic aneurysms	297-313	DISO
+27935885_en	SUBCLASS_OF	abdominal aortic aneurysm	471-496	DISO	aneurysm	488-496	DISO
+27935885_en	SUBCLASS_OF	abdominal aortic aneurysms	530-556	DISO	aneurysms	547-556	DISO
+27935885_en	AFFECTS	aneurysms	571-580	DISO	common iliac arteries	588-609	ANATOMY
+27935885_en	SUBCLASS_OF	abdominal aortic aneurysm	1288-1313	DISO	aneurysm	1305-1313	DISO
+27935887_en	TREATED_USING	heat-induced thrombosis	48-71	DISO	rivaroxaban	19-30	CHEM
+27935887_en	SUBCLASS_OF	heat-induced thrombosis	48-71	DISO	thrombosis	61-71	DISO
+27935887_en	SUBCLASS_OF	endothermal heat-induced thrombosis	192-227	DISO	heat-induced thrombosis	204-227	DISO
+27935887_en	ABBREVIATION	endothermal heat-induced thrombosis	192-227	DISO	EHIT	229-233	DISO
+27935887_en	ABBREVIATION	heat-induced thrombosis	204-227	DISO	EHIT	229-233	DISO
+27935887_en	ABBREVIATION	thrombosis	217-227	DISO	EHIT	229-233	DISO
+27935887_en	SUBCLASS_OF	pulmonary artery thromboembolism	1453-1485	DISO	thromboembolism	1470-1485	DISO
+27935887_en	SUBCLASS_OF	class 1 EHIT	876-888	DISO	EHIT	884-888	DISO
+27935887_en	SUBCLASS_OF	class 2 EHIT	932-944	DISO	EHIT	940-944	DISO
+27935887_en	SUBCLASS_OF	class 3 EHIT	978-990	DISO	EHIT	986-990	DISO
+27935887_en	SUBCLASS_OF	class 1 EHIT	1084-1096	DISO	EHIT	1092-1096	DISO
+27935888_en	SUBCLASS_OF	acute venous thromboses	98-121	DISO	venous thromboses	104-121	DISO
+27935888_en	AFFECTS	venous thromboses	104-121	DISO	venous	104-110	ANATOMY
+27935888_en	SUBCLASS_OF	venous thromboses	104-121	DISO	thromboses	111-121	DISO
+27935888_en	SUBCLASS_OF	acute venous thromboses	309-332	DISO	venous thromboses	315-332	DISO
+27935888_en	AFFECTS	venous thromboses	315-332	DISO	venous	315-321	ANATOMY
+27935888_en	SUBCLASS_OF	venous thromboses	315-332	DISO	thromboses	322-332	DISO
+27935888_en	SUBCLASS_OF	lower limb deep vein thrombosis	451-482	DISO	thrombosis	472-482	DISO
+27935888_en	SUBCLASS_OF	acute venous thrombosis	2416-2439	DISO	venous thrombosis	2422-2439	DISO
+27935888_en	SUBCLASS_OF	acute venous thrombosis	2416-2439	DISO	thrombosis	2429-2439	DISO
+27935888_en	SUBCLASS_OF	venous thrombosis	2422-2439	DISO	thrombosis	2429-2439	DISO
+27935888_en	ABBREVIATION	von Willebrand factor	953-974	CHEM	vWF	976-979	CHEM
+27935889_en	SUBCLASS_OF	chronic venous insufficiency	73-101	DISO	venous insufficiency	81-101	DISO
+27935889_en	SUBCLASS_OF	venous insufficiency	81-101	DISO	insufficiency	88-101	DISO
+27935889_en	SUBCLASS_OF	venous insufficiency	276-296	DISO	insufficiency	283-296	DISO
+27935889_en	AFFECTS	varicose disease	376-392	DISO	lower extremities	396-413	ANATOMY
+27935889_en	PHYSIOLOGY_OF	blood flow	496-506	PHYS	blood	496-501	ANATOMY
+27935889_en	SUBCLASS_OF	trophic ulcers	1073-1087	DISO	ulcers	1081-1087	DISO
+27935889_en	PHYSIOLOGY_OF	blood flow	1223-1233	PHYS	blood	1223-1228	ANATOMY
+27935889_en	SUBCLASS_OF	venous trophic ulcers	1369-1390	DISO	trophic ulcers	1376-1390	DISO
